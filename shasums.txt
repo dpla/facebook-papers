@@ -1,0 +1,14 @@
+57aa1819b28f93f7a39c1541e67aa7aee9a0dcbdaf2158487e534117b3b7c230  pdfs/Copy of A first look at the minimum integrity holdout_san.pdf
+b773c24124b133cde6409d191acbd6680d70e8a075d25798e833e2bdae74ed78  pdfs/Copy of Analysis of Arstechnica article criticizing groups_sanitized_opt.pdf
+3df53898ccd0756b60f2b3e0d0bd9fc576afed0b14456f871a7b92042e064098  pdfs/Copy of Are Local Groups bad for Engagement_ _sanitized_opt.pdf
+479f0e4a0ba547a7d28dd5284c0e4aa8dcf6905e47f06fae7754825b5dc247ae  pdfs/Copy of Climate Change and 3PFC Judd Legum_sanitized_opt.pdf
+72ce36fadc1494cbf56dea9810f3f7dc542558c604ac86c5658260fdf35a946d  pdfs/Copy of Climate change search suggestion issue_sanitized_opt.pdf
+1b4e00d64d8607cf8abd5c7ab22849a0fa24c4bed12754b1cf831244b4808e41  pdfs/Copy of Identifying Routes to groups about nudity_sanitized_opt.pdf
+45224d5fd0158387e9b8954f4e31e9dbc7965770eff970b4c27f470f1a20225c  pdfs/Copy of Legitimacy measurement part 1 - Understanding users and stakeholders' perceptions of our integrity efforts_Sanitize_opt.pdf
+72eb53ecd0ba69053bd23ee1d972b965de388682998c463f9b574fb169e62931  pdfs/Copy of Social Engineering and Political Ads_sanitized_opt.pdf
+fddcbebc6a88ee255d753730e10f6e252894a4c78af2dcaafee010d47c9aee01  pdfs/Copy of Tucker Carlson Facebook hires Chinese people to censor you_sanitized_opt.pdf
+cbd1b031f3b18046042cf8699148ad1d8f3c19141529b254ae1ee2f09eff6f57  pdfs/Copy of XRayOC 2019a Clip-Based Model_sanitized.pdf
+d54073483b422e7e589c2da55281e87b1e80664f28c66a335b6f0e22e334159c  pdfs/FULLY_REDACTED Copy of Being a New, Female User Is Not A Great Experience In Most Emerging Markets_sanitized (1)_Redacted.pdf
+ee44e81eb86c5d30eee0b7666695adff2d4871c055fa934717b8b536966fcf22  pdfs/FULLY_REDACTED Copy of Users Are Not Adding Quality Connections During Onboarding_sanitized_Redacted.pdf
+e36adea0745909bc278762bf5799c40c06bf002d4fea5c015bd7f8aabd44f080  pdfs/With Great Power..._Sanitize_opt.pdf
+5b9742d7f19434a66ac4fc89c54a6064a230fd3472dfaa29a01acb87d8d09645  pdfs/sheryl-sandbergs-2018-post-joel-kaplan-at-brett-kavanaugh-hearing_sanitize_opt.pdf
