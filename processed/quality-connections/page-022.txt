@@ -1,0 +1,26 @@
+I definitely agree there is value in the suggestions
+and in a high intent friending search. Since the data show the most friending
+happens at onboarding and is the most time efficient way for parents to add
+contacts for their child, I think there is value to get contacts added to the
+child's graph to get started but what I'm finding in the qualitative research is
+those contacts (mostly adults) are not on the kid's IRL friend graph. After a
+month of using the app, they churn from the app without IRL friends. BFF
+research shows those IRL friends are from school, church, neighborhood, and
+extracurricular activities (e.g., Girl Scouts, dance, soccer). Early insights from
+the New User Journey 2nd round of interviews is that users are using the
+suggested list to find target parents to invite to the app. The use case is that
+parents are already FB friends. The user experience to scroll through a long
+list of suggestions is not ideal becauses users are reporting its not organized
+in any systematic way. When scrolling through such a long list, target parent
+can easily be skipped, so we do need an easier way to add high intent
+friending cases (allow parents to filter down the list). If they are not FB friends
+with the other parent, the source parent does not initiate friending at all
+because of the common misconception you need to FB friends to make a k2k
+connection for their child.
+Redacted for Congress
+How can parents' participation in FB school/parenting groups
+be used to leverage higher quality kid suggestions? Would this still be
+considered a kid information?
+Like · Reply · 11w
+Write a reply...
+BOT </>

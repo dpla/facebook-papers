@@ -1,0 +1,35 @@
+1
+Redacted for Congress
+Here's how I derived an answer for you:
+• After I test with the original model (where max score across the entire video is 0.96 as I wrote in my note), I took
+some more known copies of NZ videos and re-stream this video. A lot of known copies of NZ was altered with
+different dimensions, overlaid text, therefore the max score that we get from the current production model were in
+different range in (0.8 -0.96).
+• The limitation of the production model is it is somewhat biased towards dashcam, where we observed a significant
+amount of law enforcement videos in our training data.
+• We are limited in labeling resources from Community Ops (cc|
+and with such high false positive rate,
+we have to leave the threshold really nigh. Today, CO can only review - 100-200 live videos reported for this report
+type, so we'll have to do better job on our modeling end.
+Therefore, the answer is likely no at the moment (and yes only if we get the exact original video) for the FPS concept
+itself. That being said, our progress tor turn this answer to a yes:
+• Today, we are really short of "proxy" positive data given the super low volume of such category. We aim to solve
+this problems by:
+. Work with law enforcement outreach (cc|
+to collect more
+data. So far we got some data from National Counter-Terrorism Center) but the volume is in-significant. We're
+working on partnering with London MET police to acquire more of their office training data.
+• Prepare better training data. Since we don't have the ability of localizing the "positive" part of the video, we
+have to come up with a better algorithm since we can potential mark an 8-hour long video to be positive even if Ba
+20-second of that matters.
+Like · Reply · 1y. Edited . Formatted
+nG
+unrelated to the FPS concept, the new graphic violence Live video model we launched early this week
+consistently scores the NZ video in the 90s, well above the report threshold of 0.66.
+For this reason, the answer to your question is yes. If re-streamed today, the NZ video would be proactively enqueued
+for human review.
+I have confirmed the original NZ video was not in training, however, I will need to do further analysis before confidently
+confirming that no copies of the video were in the training set.
+Like · Reply · 1y. Edited
+1
+4

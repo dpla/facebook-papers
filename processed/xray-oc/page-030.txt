@@ -1,0 +1,18 @@
+. We've reached out to PDO and we'll work with their team to ensure the quality.
+There were quite a lot of problems when we eyeballed FPs and FNs, so it was quite
+hard for us to debug the real FPs and FNs in the first iteration.
+• Better audio understanding
+Redacted for Congress
+• It is clear that with visual signal only, we will miss a decent amount of contents. At
+Realtime Integrity team, once they work on a new classifier, learning both from
+visual and audio would benefit their system drastically. Today, our acoustic event
+detection signals in Video Understanding Engine (VUE) are still missing a lot of
+events, or the quality of detecting gunshots are still not clear to us. We would love
+to work with partner teams owning this system and improve audio recognition.
+• Define more operational metrics
+O
+Today, we evaluate our concept performance through how we serve our signals
+through VUE. These are served in both clip-level and video-level scores. Therefore,
+we evaluate our concepts based on this assumption, mainly on video-level scores.
+We plan to spend more time to understand which metrics would benefit the most to
+both our team and downstream clients (Graphic Violence, Realtime Integrity).

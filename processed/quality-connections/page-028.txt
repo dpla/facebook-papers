@@ -1,0 +1,28 @@
+From BFF research, we know that parents are aware of their
+child's best friends and know about their child's IRL friend graph. Parents do
+not add these connections because they are not offered as suggested kid or
+adult contacts so then parents make a best guess from the suggested
+contacts to guage who their child wants to talk to. I don't think we can say
+these connections are high quality from the parent perspective but just a good
+faith effort from parents to give their child someone to talk to on MK. I think
+the main point to hit home is that these irrelevant connections do not keep
+kids on the app and they churn when their friends are not using MK. From the
+New User Journey 2nd round interviews, we are seeing that these non-IRL
+friend connections do not keep kids on the platform. Kids keep telling I would
+use the app more if my friends were on it.
+FYI - Parents think adding contacts at onboarding is the most efficient way to
+add contacts for their child. They struggle to figure out how add friends for
+their child post-onboarding. CC:
+1
+Like · Reply · 11W
+Redacted for Congress
+Sorry for arriving late to the party here. Onboarding tries to solve two problems:
+high intent friending and low/medium intent friending. We're not doing a great job
+with either.
+High Intent: search is key. If they already know who they want to add, but we're
+having them go through a huge list, that's not very motivating. Especially if they
+can't find that specific person.
+Low intent: what makes it particularly hard here is that we can't use FoF in its pure
+form because the kid has no friends yet. We could increase the candidate set even
+more here by allowed friends of friends through the parent graph, but these are
+probably going to be even lower quality.

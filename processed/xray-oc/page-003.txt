@@ -1,0 +1,23 @@
+Data collection
+. For carcrashing and cockfighting, we worked with PDO team to get contents enqueued
+and labeled using biased sampling from our old frame-based concepts, starting from
+mid-February
+• For first-person shooting, data collection was more challenging. Starting from late May
+7th, we get labels for contents for FPS. We leverage multiple existing systems on
+Facebook systems:
+Redacted for Congress
+. We collected a number of videos by searching for Facebook Pages with the SERP
+console and then scraping the videos from these pages. We searched for relevant
+topics such as paintball, airsoft, firearms competition, police bodycam videos, etc.
+Using the SERP console to find videos directly did not work very well because only
+a small number of results were returned per search. Searching for pages in this
+manner was more effective because a page may have tens to hundreds of videos.
+o Another resource we used to find videos is IRIS (Integrity Review using Indexing
+Service), which leverages the Unicorn search indices. Using IRIS/Unicorn, we can
+search directly for videos using keywords for Facebook content and hashtags for
+Instagram content. For Facebook videos, we can search specifically for first-
+person/GoPro/helmet cam videos. An example of a query we used is
+https://fburl.com/unicorn/2tcnwz7h. Each search can return up to 5000 videos,
+and this is limited by Unicorn.
+14
+13

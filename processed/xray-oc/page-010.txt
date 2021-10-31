@@ -1,0 +1,30 @@
+Carcrashing
+А
+B
+С
+1
+Aggregation
+ROC AUC (frame-
+based)
+0.30352
+ROC AUC
+(clip-based)
+0.98518
+2
+Redacted for Congress
+3
+0.25834
+0.98514
+max_clip_max
+max_clip_median
+median_clip_max
+median_clip_median
+4
+0.25888
+0.98429
+un
+5
+0.23904
+0.98303
+In the following charts, original (in blue color) curve represents frame-based concept, and
+backfilled (in orange) curve represents the clip-based concept.

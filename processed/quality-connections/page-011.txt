@@ -1,0 +1,17 @@
+Additional notes:
+1) Let's not overwhelm new parents with a long list of their coworkers'/FB friends' kids. As
+Chloe pointed out, compared to the pre-COVID era, the number of "suggested kids" has
+increased. It might make more sense now to have a "search" feature.
+Encourage Parents to Search for the Adults Connections
+If 43% of the users onboarded have no adult connections on activation date, then we need to
+rethink how we define a "quality" adult connection for a young kid. Perhaps we should lean less
+on the parents' FB graph to make a recommendation for kids.
+Redacted for Congress
+A radical approach would be to remove the suggested adult connections list and only show the
+search bar. Let's say that the parent has an adult contact in mind for the kid to chat with
+(perhaps family members, grandparents, etc), they can easily find those family members using
+Search, so that we still give them the impression that the app is "safe."
+UXR sessions show that at the moment, parents are not using search during onboarding much,
+which is very likely given that we provide them with a long list of suggested connections to
+scroll. However, if we give parents more options to find the right contact from the
+I

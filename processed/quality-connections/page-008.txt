@@ -1,0 +1,38 @@
+One Third Users Without Connections From Onboarding Churn Early
+Kids with small social graphs have a hard time establishing themselves beyond Day 0 on MK
+30% of them are only active during the first week.
+User Type
+КОАО
+KOA+
+K+AO
+K+A+
+% Only Active on First Day
+23%
+6%
+7%
+3%
+.
+I
+% Only Active on First
+Active on First Week
+31%
+11%
+12%
+7%
+MAU Opportunity to Increase the Connection Experience During
+Onboarding
+If we were to improve the onboarding experience and help the KOAO users find connections
+during onboarding, then we will have a much higher chance of retaining them after one month,
+with the aim of converting KOAO users to K+A+, who retain 28% better by Day 45..
+Redacted for Congress
+Every month, 20% of the -270K newly activated users would fall into the KOAO bucket. Based
+on the table above, even if we just help 50% of the KOAO users get one connection during
+onboarding, we can prevent 19K per month from churning.
+Help 50% KOAO Users
+Help 100% KOAO Users
+Increase MAU Ret by 10%
+3K
+5K
+Increase MAU Ret by 20%
+5K
+11K

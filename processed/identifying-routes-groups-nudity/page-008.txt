@@ -1,0 +1,26 @@
+Is GYSJ a pathway from nudity gateway groups to other non-rec groups?
+Hypothesis
+• Users in gateway groups subsequently join non-rec groups because of exposure to
+GYSJ recommendations
+Results
+• 10.77% of users who joined one of the top 100 gateway groups (ranked by highest
+gateway score) we identify, eventually joined a non-rec group through exposure to
+GYSJ vs. 8.78% of those who had no exposure to GYSJ
+Mitigations
+• We should consider filtering out the top gateway groups from GYSJ seeds
+Are gateway groups being targeted by "super-inviters"?
+Hypotheses
+• Super inviters (defined as those who sent > 50 invites to our collection of target
+groups) constitute a big source of invitations from gateway groups
+• Users who are featured in PYMI invitations join more non-rec groups
+• Users in gateway groups join more non-rec groups through PYMK (friending → invites
+→ join a harmful group)
+REDACTED FOR CONGRESS
+Results
+• 35% of invites (-730K) to these harmful groups went to members after they joined one
+of the top 100 gateway groups. Of these 730K invites, 20% came from "super-inviters"
+• We did not see evidence supporting the PYMI hypothesis; roughly equal fractions of
+users between control and testing in the long-term PYMI holdout eventually joined non-
+rec groups.
+Anniset
+chavid

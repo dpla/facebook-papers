@@ -1,0 +1,29 @@
+[DEPRECATAED) Typeahead Integrity Rating Guidelines v2.0 (08/07/2019) Edits Disabled
+Document Edit View Insert Format
+T Paragraph
+B
+I
+u s A
+10
+Inserts
+6
+Examples for when to skip and when not to skip,
+REDACTED FOR CONGRESS
+• Skip for non-Latin character foreign language
+о е.g. "рестораны рядом со мной"
+oe.g"最寄りの地下鉄駅"
+• Skip for general, non-entity, foreign language text in Latin characters
+oe.g: "vuelos baratos
+• Skip for non-sensitive, mixed language queries
+oeg. In the English workflow, skip for: los mejores Lain Cancún
+• Skip for unicode text
+o e.g. \u0d38\u0d4d\u0d38\u0d4d \u0d2f\u0d4d
+Skip for random string of numbers, without context
+e.g. 65063686
+Do not skip for foreign language strings which are recognizably sensitive
+o e.g. video porno
+eg "sexo oral"
+eg. sexo anal
+. Do not always skip for foreign proper names. If you are certain that the string is a proper name, then select
+Acceptable
+eg. "esther dubois"

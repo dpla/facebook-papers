@@ -1,0 +1,33 @@
+Pne thing I learned is for certain metrics, one single demotion might dictate its direction. For example, we are
+deprecating an old signal, si_dec_abusive@page, which has very strong effects on many of the top-line metrics. This rule
+should've overwrite the positive effects of many other smaller launches. That's why we need to frequently audit the list of
+demotions we have.
+Like · Reply · 2y
+I assume the borderline hate and hateful impact here is on posts and not comments, right? Our holdouts
+show something like 40%+ drops on borderline hateful comments
+Like Reply2y
+Yes this is on posts, definitely would expect to see impact on comments
+12
+Like · Reply · 2y
+Like · Reply · 2y
+Does 'VPV gt 50' mean hate as defined by a classifier score greater than 50?
+Like · Reply · 2y
+Yes (although 50 means 0.50), so there are deltoid metrics of this type for various thresholds (0.5,
+0.8, 0.85, 0.9, and 0.95) for the graphic violence, borderline hate, and hate speech classifiers.
+Like · Reply · 2y
+1
+maybe we can leverage these deltoid metrics for your AB testing
+Thanks!
+as light weight PD metrics.
+REDACTED FOR CONGRESS
+Like Reply · 2y
+We have a labellel based d3 tag for misinfo look at 'misinfo_user_vpv_7_lag. It has VPVS for links
+where we wait 7 days to get labels.
+It is not surprising to me to hear that OCQ is not a strong lever at reducing hate/N&P. These seem to be opposit...
+See More
+11
+Like Reply 2y
+For my understanding: This relates to holdout of people -- right? So, I wonder how virality impacts these
+numbers. If the holdout is a small percentage, then a successful clickbait headline might work well for the h
+has a much harder ti... See More
+Chats

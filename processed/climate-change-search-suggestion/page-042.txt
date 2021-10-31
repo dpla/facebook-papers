@@ -1,0 +1,105 @@
+Example Ratings
+Sensitive Category (if
+applicable)
+Language
+Explanation
+Suggestion String
+Label Decision
+English
+Tian o too way flee من و ت = من و تو man
+0 - Skip
+chat with best ladies
+2. Acceptable
+The string is in a language other than the language of the workflow
+This example should be rated 0 - Skip, as the string does not contain
+anything recognizably sensitive, and includes foreign language that
+does not match the language in which we are currently rating
+(English workflow)
+The string does not appear to be sensitive
+"Shemale" is an offensive term for a transgender woman
+Transgender women fall under a protected category therefore this
+string is considered Hate Speech While "shemales in oman may
+potentially indicate intent to find a sexual service or adult content,
+Hate Speech ranks higher than ASC on the label hierarchy
+The string is sexual in nature.
+shemales in oman
+1. Sensitive
+3. Hate Speech
+5
+lesbian tongue videos
+1 - Sensitive
+6
+gay dickley hole
+1 - Sensitive
+4 - Adult Sexual
+Content
+4 Adult Sexual
+Content
+4 - Adult Sexual
+Content
+7
+gay fuckvideos
+1 - Sensitive
+B
+whitetrash women
+1 - Sensitive
+3. Hate Speech
+9
+REDACTED FOR CONGRESS
+gay kiss videos only
+4 Adult Sexual
+Content
+1 - Sensitive
+10
+gay teen boys videos
+1- Sensitive
+0. Child Exploitation
+10
+sex and the city
+Birls assets
+japanese massage videos
+twerkers paradise
+2- Acceptable
+2 - Acceptable
+2. Acceptable
+The string is sexual in nature
+The string is sexual in nature.
+"White" and "women" each refer to a protected group, therefore this
+is considered hate speech
+While "gay" is not independently sensitive, the string references
+sexual content
+The string references child sexual exploitation. Since we cannot be
+sure "teen" refers to 18 or 19 year olds, the correct Category is Child
+Exploitation
+The string refers to a mainstream television show,
+The string is not explicitly sexual in nature
+The string is not explicitly sexual in nature
+A side search shows that there is a song called "twerkers paradise 50
+this is not considered a sensitive string
+Though xxx often refers ts topics of an adult nature, a side search
+shows that this string refers to a film and is not sensitive in nature
+The string contains no sensitive content
+The string contains a proper name, which does not appear to be the
+name of a porn star or otherwise sensitive in nature
+The string contains a proper name, which does not appear to be the
+name of a porn star, or otherwise sensitive in nature
+The string is a proper name Although Tes miserables is French and
+the rest of the string is in English, this is the title of a famous play and
+does not contain anything sensitive
+The string is a first name with last name initial. This is a proper name
+13
+2 - Acceptable
+15
+2 - Acceptable
+xxx return of Xander Cage full hd movie
+jack 1994
+16
+2 - Acceptable
+2 - Acceptable
+17
+hayley anderson nester photos
+18
+jonathan fields
+2. Acceptable
+les misérables showtimes san francisco
+2. Acceptable

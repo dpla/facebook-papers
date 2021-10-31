@@ -1,0 +1,18 @@
+[DEPRECATAED] Typeahead Integrity Rating
+Guidelines v2.0 (08/07/2019)
+Overview
+Workflow Goals & Context
+This document serves as the guideline for all TypeAhead Integrity rating flows. Integrity flows aim to improve the quality of
+the Facebook Typeahead module by labeling text strings which populate based on a query the user enters into the search
+bar. As a rater, your goal is to identify whether or not the string is sensitive, and if so, assign a sensitive label based on
+the categories and criteria outlined in the guideline.
+tasty Query
+tasty
+Suggestion
+tasty recipes
+tasty recipes videos
+Typeahead Module
+REDACTED FOR CONGRESS
+tasty vegan
+Glossary of Terms
+The following terms and their meanings will be used throughout this guideline

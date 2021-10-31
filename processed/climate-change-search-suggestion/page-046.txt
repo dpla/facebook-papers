@@ -1,0 +1,29 @@
+(Search) uploaded a file in the group: Search Integrity - Climate
+Change Escalation.
+July 22, 2020
+Purpose:
+Creating this group to coordinate and manage all responses for the potential risk of Climate
+Change misinfo for Search.
+Context:
+There has a few public press incidents (Vox, NY Times) this past week about FB's stance on
+climate change, and we've been getting direction from org leads to ensure Search is high
+quality on this topic.
+REDACTED FOR CONGRESS
+Planned Actions for Policy Review:
+https://fb.quip.com/5tfAAASZOWFZ
+Climate Change - Search Integrity Response
+Quip
+6
+3 Comments 1 Share Seen by 27
+Like
+Share
+- we are ready to pull the trigger. Please let us know if you're ok with this
+approach.
+Like 42w
+- FYI, plan to apply blue-verified filtering on climate change videos
+2
+Like 42w
+FYI I am proposing the following regexes to Wordy block (will wait for policy
+approval):
+..(climate change/climate change.).
+(global warming global warming.).

@@ -1,0 +1,22 @@
+The number of local groups near a person is negatively
+correlated with engagement
+Finally, let's look at whether more local groups is better for engagement. Obviously, given
+that user-density is negatively correlated with engagement, we can expect that local group-
+density is negatively correlated with engagement. That is, in big cities, there are many local
+groups, but users are less engaged.
+To control for user-density and other demographics factors, I use the following procedure:
+1. Take the classifier described in the last section and for a new set of users predict
+"baseline" engagement probability, without knowledge of the number of nearby local
+groups.
+2. Train a new classifier (logistic regression), using the baseline probability from (1) and
+the (log) number of active local groups near the user, trying to predict engagement.
+3. Observe the weight the model gives to the number of active local groups.
+[technical note - by active local groups I mean public or closed, non BSG, groups whose p75
+distance from their centroid is less than 25KM, and having at least 3 distinct users posting or
+commenting in the last week. We're counting how many such groups are within 25KM of the
+REDACTED FOR CONGRESS
+user
+In both the user-segment task, and in the MP prediction task, the number of nearby local
+groups is actually having a negative weight, which is significantly below o. Obviously, I'm not
+claiming that more local groups cause less engagement with groups overall - this is just a
+correlation. But, I am now skeptical of any efforts to increase the number of l Chats

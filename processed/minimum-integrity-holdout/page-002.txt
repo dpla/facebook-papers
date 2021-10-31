@@ -1,0 +1,25 @@
+We started the Minimal Integrity Holdout about a month ago, and sufficient time has passed
+to evaluate our impact on Integrity metrics, engagement, and the general user experience. In
+a few weeks, once we have completed the initial run of surveys for Bad Experiences, we will
+also be able to comment on any perceived differences in the reach of bad experiences on the
+platform as a result of Integrity's efforts.
+All comparisons are made relative to the holdout population so if a metric is up,
+it is higher in production as compared to the holdout, and if a metric is down, it
+is lower in production as compared to the holdout.
+TLDR
+Integrity efforts have been focused on bad link experiences and it shows in the results of
+the holdout--clickbait and ad farms are down 20-40% and generally OBCs are down
+10%+.
+• What's telling is that we have minimal impact on non-OCQ types of bad like borderline
+N&P, borderline hate, and borderline violence and other types of negative experiences.
+We need to establish criteria and guidelines around fairness, filter bubbles, and other
+unintended consequences of ranking so that we can deal with these more sensitive
+issues in a positive way.
+REDACTED FOR CONGRESS
+. Given that Integrity is changing a ranking algorithm that is optimized for engagement, it
+is not surprising that Integrity has some negative engagement impact on engagement.
+Generally, Integrity shifts away from public content, i.e. links and page content, and
+toward friend content. The regressions on top-line metrics are not huge, generally on
+the order of 10-30 bps for sessions, MSI, time spent, and VPVs, with no impact on DAP
+and MAP.
+Chats

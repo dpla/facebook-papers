@@ -1,0 +1,22 @@
+Like · Reply · Ty Edited
+To clear the confusion, the FPS model alone described in the note is a pure visual model. model
+is referring to a meta-classifier that consumes FPS signal among with other visual and acoustic features (such as
+gunshot, machine gun, etc), which we think should be a model that we aim to use in production. In Content Integrity,
+this is the two-stage system that we've been using which proved to be very effective in other high-prevalence problems
+1
+Like · Reply. Ty
+And do we have the capacity to review it? E.g. would it be enqueued and reviewed and
+taken down?
+Like · Reply. Ty
+Redacted for Congress
+Is there more to read about the new GV live video model?
+Like · Reply · 1y
+yes. The GV live video model scores the NZ shooting high enough that it would be
+enqueued for review into a queue with a 5 minute SLA. If reviewed correctly, it would be taken down following the
+review.
+I have not yet published a note on the new model. I plan to have this out by the end of the quarter (ie. within the next
+two weeks)
+Like · Reply. Ty
+note on new model here
+1
+Like · Reply · 1y. Formatted

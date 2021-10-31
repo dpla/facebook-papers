@@ -1,0 +1,23 @@
+This brings up some questions and a few possible explanations. for example is working
+on a more substantial analysis linking group engagement with social capital. I won't try to
+fully explain why people in big cities are less engaged with groups. I'll note though that user
+density is also negatively correlated with overall 128 at Facebook and likelihood of being
+exposed to GYSJ, though the correlation is not as strong as in the above graph.
+Overall, in the US, demographics is a good predictor of
+group engagement
+Given that user-density is correlated with group engagement, a natural follow-up question is
+how much can we predict group-engagement given only user demographics features. Or
+more succinctly - can we predict group engagement without using any group
+related features?
+Surprisingly the answer for US based users is yes. Given only user demographics
+features, group engagement and MP status can be predicted with high accuracy.
+This result (which was known to some people) is interesting on its own - it suggests that the
+efficacy of our efforts to make people more engaged, or to create more meaningful people, is
+somewhat limited by demographics.
+REDACTED FOR CONGRESS
+Specifically we define two classification tasks:
+1. Is a US user in the High/Medium user segments (versus the No and Light ones, ignoring
+Luddites)?
+2. Does a US user have a meaningful connection with any group - that is, are they
+meaningful people.
+Chats

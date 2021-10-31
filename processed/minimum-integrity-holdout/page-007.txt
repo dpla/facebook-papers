@@ -1,0 +1,45 @@
+For Engagement Bait, we are revamping the label-based prevalence delta pipeline but the
+predicted prevalence delta from Deltoid is 15%. It's also worth noting that these Deltoid
+deltas line up pretty nicely with the label-based versions.
+-20%
+0%
+2096
+-1094
+10%
+Delta %
+CEP Interactor Engagement Bait Overall Prevalence, by Interaction actor lype
+-15.57800.0427
+1 USER
+-31. 18700.0686
+-22.878820.0831
+CEP ur exaggeration vpv prevalence - overall
+3 CEP un withholding vpv prevalence - overall
+CEP user level weak adtarm VPV prevalence
+-12.690820.0583
+-10.2080:0.1126
+5 CEP user level strong adfarm VPV prevalence
+Misinformation (Tautological Measurement)
+The holdout still applies hard demotions and RO demotions. The only way to measure
+our impact on Misinformation is with the predicted misinfo metrics, which
+basically just measure our impact on content that is being demoted so this is
+highly tautological. I'm mentioning it for completeness but I don't think we have
+as great of an idea as to how we impact Misinformation as OCQ.
+As expected, when you don't demote on something in the holdout, you see an impact on the
+content that is not being demoted. For links, we have two versions of the metric, one that is
+binarized (violating) and one that is continuous (expected). The drop in VPV prevalence is
+between 2 and 9%, while the drop in OBC prevalence is higher at 17%.
+REDACTED FOR CONGRESS
+-15%
+- 10%
+-5%
+096
+596
+10%
+15 Q Delta %
+-1.6305.0.1393
+FUSS expected misinformation vpv prevalence
+2 FUSS violating misinformation vpv prevalence
+3 FUSS expected misinformation obo prevalence
+-8.5180+0,6185
+-17.140720.3222
+Chats

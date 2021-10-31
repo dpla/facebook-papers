@@ -1,0 +1,19 @@
+A core team of dedicated product, engineering, and design Facebookers are tackling the most
+glaring problems with what happened: increasing verification procedures for US political
+advertisers, exposing the funding source of political ads, making active ads available
+regardless of targeting, and publicly archiving political ads as they run. We are taking initial
+steps to prioritize civility above other objectives in this space, but we can go even further-
+use the existing framework for how our ads system works to empower people with
+information:
+1) Allow political education and campaign
+funders to more clearly self-declare their
+financial support for specific messages.
+Version 1 of our political ad rendering has advertisers enter a “paid for by" on individual ads
+run by individual ad accounts. From our research thus far, most of the advertisers in this
+space are worried less about being identified with their strongly-held views and more about
+unintentionally running afoul of the law. How do we let organizations more visibly and
+consistently self-identify as campaign or independent expenditure organizations across
+entire campaigns or elections, and do so at the ad set, ad campaign or business level?
+REDACTED FOR CONGRESS
+2) Provide delivery advantages f
+Chats

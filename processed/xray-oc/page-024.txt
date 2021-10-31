@@ -1,0 +1,12 @@
+Carcrashing
+• FP:
+Redacted for Congress
+• 899859696863442, 496223207579240, 189805198666015, 791272874543202,
+546266105779784: We didn't see the car-crashing incident itself, but we do see
+dismemberment and visible innards. We do capture gory and mAD contents in our
+XRayOC frame-based model, so for downstream client, it should be fine. However,
+we'll revisit these examples to evaluate if we shall change our definition of
+carcrashing more. Based on our labeling taxonomy, it seemed to be positive sample.
+o 10155563370198562: This one is probably a hard example. We do see multiple
+people are injured yet some of them seemed to be alive. This is still considered as
+positive from our labeling taxonomy.

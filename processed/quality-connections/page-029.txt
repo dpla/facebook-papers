@@ -1,0 +1,26 @@
+probably going to be even lower quality.
+At the end of the day, this is a very tricky problem, because High Quality
+Connections usually are the ones in which parents are not connected (school for
+example), and during Onboarding, parents can only select kids through their graph.
+Long term, I think we should focus on:
+- Onboarding should nail High Intent Friending. When parents are creating new
+accounts, the kids they have in mind should be super easy to find and add.
+- Post Onboarding, we need to make high quality suggestions immediately to the
+kid, NOT the parent. That will likely happen mostly through School, not FoF. We
+should also upsell to kids that they can send a QR code to connect with their best
+friend, for High Intent.
+In other words, we shouldn't expect to get a ton of high quality connections in
+Onboarding itself because they'll be from the parent graph. We should do more post
+Onboarding so the kid is empowered to find friends for him/herself.
+2
+Like · Reply · 11w
+Redacted for Congress
+have we done a funnel analysis on the 40 steps of the onboarding flow itself? where
+ppl drop off or seem to get confused? are they sending invites and ppl just not
+accepting? etc etc
+1
+Like · Reply · 11w
+can speak to this with the most recent onboarding
+churn presentation with designers last week!
+1
+Like Reply · 11w

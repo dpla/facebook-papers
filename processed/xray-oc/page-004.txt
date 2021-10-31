@@ -1,0 +1,19 @@
+• Note that we did not search for the NZ video explicitly. We'll double check with our
+list of known NZ videos to see if we actually did have NZ videos into our training
+data or not, but to the best of our knowledge, we didn't use it for training on
+purpose.
+. We added around 1K video clips (user-created) for known FPS games such as Call
+of Duty, Overwatch, CS-GO to be hard-negative samples.
+. We filter our training data to be less than 2-minutes since we use video-level label
+and apply to all clips used for training.
+Redacted for Congress
+Model training
+Pre-training: We understand that video-deduplication is a challenging problem.
+a
+Therefore, we started with the most naive approach: using md5. In the later part, I'll
+explain why it doesn't work well, and what are a better solution.
+a
+• We leverage Deep Vision framework to train our trunk on production 3D-Resnext50.
+Since this is a multi label training with some videos missing labels, we use sparse
+sigmoid cross-entropy loss. The production model was trained in f119151736. We
+finetune the last couple of layers in this network, starting from comp_13_sum_4 blob.

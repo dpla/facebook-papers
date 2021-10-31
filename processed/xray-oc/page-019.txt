@@ -1,0 +1,15 @@
+More analysis on FPs and FNs
+Redacted for Congress
+We took a lot at the evaluation dataset to understand why the model was making mistakes on
+all three concepts. Here are some examples with our explanation for each concepts (mainly
+focus on false positive - FP, and false negative - FN). We will try to categorize them into
+common cases as we do observe some patterns of FPs and FNs in both original and fresh
+evaluation dataset. We consider a content to be false positive when our signal score is high
+but get labeled as negative, and a content to be false negative if our signal score is low but get
+labeled as positive.
+We eyeballed a lot of FPs and FNs, and we think that our model sometimes make a better
+decision than our rep labeling (see the list of examples below), so in fact the model is doing
+quite decent.
+WARNING: The contents below might contain graphic violence. Viewer discretion is advised.
+FPS
+• FP:

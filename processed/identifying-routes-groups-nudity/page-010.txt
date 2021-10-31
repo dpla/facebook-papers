@@ -1,0 +1,63 @@
+Results
+• Out of the top 100 gateway groups for the nudity harm target list, 47 are correctly
+labeled non-rec; importantly, 42 of these were labeled as non-rec after the workflow
+ran. Although the model is not intended for predicting overall non-rec signal (the model
+is trained on a specific subset of harm strikes - nudity & sexual activity - and so
+would miss out on groups determined non-rec for other harms), this is nonetheless a
+strong indicator of how important the model could be as a signal upstream.
+Mitigations
+• We should use gateway groups as a (sparse) feature powering our entity models for
+determining non-amplifiable and non-rec entities.
+• In conjunction with other signals, such as content strike roll-ups, number of non-rec
+members, entity strikes, we can pursue entity-level demotions. Our signal has high
+correlation with the number of group members considered non-rec and has positive
+correlation with other signals such as strikes and the CPI non-amplifiable flag.
+1.0
+1
+gateway_score
+0.079
+0.23 -0.031 0.052 0.025 0.085
+0.14
+1
+ci_ri_strikes 0.079
+0.38
+0.8
+0.68
+0.31
+0.59
+0.14
+1
+0.11
+0.17
+0.12
+0.082
+num_nr_members 0.23
+0.6
+REDACTED FOR CONGRESS
+ci_ri_severe_strikes -0.031 0.38
+0.11
+1
+0.35
+0.37
+0.25
+0.4
+group_demote 0.052
+0.68
+0.17
+0.35
+1
+0.58
+0.62
+non_amp 0.025 0.31 0.12
+0.37
+0.58
+1
+0.46
+0.2
+non_rec 0.085
+0.59
+0.082 0.25
+0.62
+0.46
+1
+0.0

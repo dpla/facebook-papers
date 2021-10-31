@@ -1,0 +1,11 @@
+October 10, 2018
+There's a new feature (still in beta) that allows
+one to divide any metrics in Geolnsights by each
+other. Here's what a map of Instagram for iOS
+Time Spent/FB Blue Time Spent looks like.
+Coasts pop out very clearly. (The darkest spots
+on that map have iOS IG Time-Spent that's 50%
+of the Blue Time-Spent (across interfaces)).
+4
+0 Like
+REDACTED FOR CONGRESS

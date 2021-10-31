@@ -1,0 +1,24 @@
+Addressing Cold Start During Onboarding
+For new users, If we believe that one of the main goals of onboarding should be helping users
+discover quality connections, then surfacing quality connections during onboarding is key.
+Assuming that we don't completely change the onboarding flow for suggested contacts, how do
+we ensure that users have the right setup from the get-go?
+I
+Explicitly Uprank Inviter/Inviter Kids + Let Parents Search for
+Non-FB Friends' Kids During Onboarding
+Context:
+Current "Add Kids" page will only show MK kids of the source parents' FB friends, which means
+that new MK parents will have a hard time finding the kids of their inviters' kids (if they have
+been invited on the FB platform before) unless they are already FB friends with the target
+parent.
+Redacted for Congress
+Suggestion:
+1) We figure out a way to uprank the original inviters' kids in the recommend list (if the new
+user received an invite in the past), regardless of whether or not the source and target
+parents are FB friends.
+2) We incorporate search to allow new parents to search for a specific kid and nudge them
+to do so, especially if the new users were invited offline (in the case that we don't have
+data linking the inviter and invitee). Note here that compared to pre-Covid era,
+Option (2) might be subject to privacy concerns, but it is the best alternative for source parents
+to find a potential quality kid connection in the most common "BFF scenarios" (kids are best
+friends, parents are not FB friends).

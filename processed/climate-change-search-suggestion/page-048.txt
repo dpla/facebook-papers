@@ -1,0 +1,29 @@
+Climate Change - Search Integrity Response
+Quip
+3 Comments 1 Share Seen by
+Ib 6
+Like
+♡
+Share
+we are ready to pull the trigger. Please let us know if you're ok with this
+approach.
+Like 42w
+FYI, plan to apply blue-verified filtering on climate change videos
+2
+Like 42w
+FYI I am proposing the following regexes to Wordy block (will wait for policy
+approval):
+• .(.climate change/climate change.).
+• .l.global warming global warming.).
+• (#globalwarming/#globalwarming.).
+(.#climatechange/#climatechange.).
+.(.#climatereality|#climatereality.).
+to turn off suggestions/hashtags related to global warming or climate change
+except the exact match.
+REDACTED FOR CONGRESS
+CC
+will like to know your opinion on this!
+Like 42w Edited
+Climate Science Information Center (CSIC) FYI
+February 9.
+Climate Science Search Query POC

@@ -1,0 +1,25 @@
+NFX Reporting
+Dislike and NFX reports are down -1.5%-2% and 2% respectively; interestingly, we saw
+dislike rates down significantly the first few days, which means that users in the holdout were
+disliking a lot more content than usual. It does seem that perhaps people get used to what
+appears in Feed though (or perhaps they stop showing up to FB).
+a
+news_feed_integrity:hqe:negative_user_feedback:dislike_rate
+03/27
+03/29
+03/31
+04/04
+04/06
+04/10
+04/12
+04/14
+04/18
+04/20
+04/16
+0%-
+- 1%
+-29%
+-3%
+REDACTED FOR CONGRESS
+-496
+NFX report rates have been roughly flat at --2%.

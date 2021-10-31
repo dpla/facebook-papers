@@ -1,0 +1,19 @@
+car_crasning median_clip_max P/R
+1.0
+0.8
+0.6
+Precision
+Redacted for Congress
+0.4
+0.2
+P/R curve original
+P/R curve backfilled
+0.0
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Recall
+Carcrashing: P/R curve comparison of frame-based and clip-based models

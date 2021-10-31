@@ -1,0 +1,44 @@
+. In addition, we believe Gateway groups can be used as (sparse) features to improve
+recall of existing models. We are working with the Entity & Actor Understanding team to
+evaluate models using these groups as features.
+Quick refresher on Gateway groups
+As part of studying pathways to harmful entities, we wanted to explore the question "Are there
+groups that facilitated and increased the probability of a user joining harmful groups?" We call
+such groups gateway groups as they often lead people to join harmful groups.
+Here, we provide a brief overview of how we detect gateway groups. For thorough details see this
+note.
+Probability of joining
+harmful groups
+spikes after joining
+gateway group
+Group
+Join
+Gateway
+Group
+Group
+Join
+Group
+Join
+Group
+Join
+Benign
+Group
+Benign
+Group
+Benign
+Group
+Harmful
+Group
+Model
+Model
+Model
+Model
+REDACTED FOR CONGRESS
+Our model evaluates the probability of the user
+joining a harmful group after each group join
+Model uses spike in
+probability of joining
+harmful groups to detect
+the gateway groups
+To answer the question, we first build a classifier that, given a list of groups joined by an user, can
+predict with high accuracy whether the user will end up joining a given target harmful group. For a

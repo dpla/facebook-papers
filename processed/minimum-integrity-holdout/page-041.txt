@@ -1,0 +1,11 @@
+MSI received tells a similar story--it's like down 0.1%-0.3%.
+news_feed:msi:received:non_msg:overall
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+0.4%
+0.2%
+0.0%-
+-0.296
+0.446
+REDACTED FOR CONGRESS
+These declines in MSI seem driven largely by a drop in comments, which may be partly due

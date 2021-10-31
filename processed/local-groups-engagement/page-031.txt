@@ -1,0 +1,26 @@
+thoughts i might have on an instagram groups-map you mean?
+1
+Like · Reply - Ty
+Right, or some instagram-equivalent to the idea that local content production isn't correlated with
+engagement.
+Like · Reply 1y
+Seems like although group engagement is much lower in coastal areas, group
+inventory is still and only growing in there while being stagnated in the rest of US. So I suspect the longitudinal
+trajectories of group inventory and group engagement may show a more positive sign for coastal US than a static
+snapshot.
+1
+10
+Like · Reply · 1y
+but if inventory is uncorrelated with engagement, then this wouldn't be the case, no?
+Like · Reply - Ty
+if all group inventory (not just local group inventory) is uncorrelated with group engagement, then
+yes. I thought this note is focused on local group inventory. Usually inventory and engagement has a positive
+correlation and then saturates. I am not sure if coastal cities have reach the saturation point.
+Like Reply - Ty Edited
+REDACTED FOR CONGRESS
+I thought your graphs are showing local group inventory
+Like · Reply ty
+oh nah. It is the total group inventory from user_metrics_history.
+Like Reply 1y
+Write a reply...
+Like Reply .ly

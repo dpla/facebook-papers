@@ -1,0 +1,37 @@
+СС
+Like · Reply-Ty
+CC
+on demographics being a good predictor of a group (popular groups, category
+UIP)
+could this suggest that our recommendations are currently biased at engaging only certain demographics? Is it a
+chicken/egg problem?
+Like · Reply - Ty Edited
+they are, but not sure how is it a chicken and an egg scenario - if people become less engaged, they are
+more likely (with recent changes) to be targeted by our recommendations. So the feedback loop should be broken?
+Like · Reply · ty
+for # of local groups near a person as negatively correlated with engagement
+Like · Reply ly
+Interesting reading. I assume by saying looking to create more local group is too optimistic, you mean # local
+contributes little to none(or even negative) to likelihood of engagement. I wonder if it's possible #local groups could
+actually attract more users to group and then absolute number of engaged people would increase given lower likelihood of
+engagement
+Like Reply · 1y
+Good point!
+When doing the same procedure just to predict No users, there's still a positive correlation between number of local-
+groups and being a NO. Since NO are not necessarily users that know about groups, I think your idea doesn't explain
+everything we see here.
+Like · Reply ly
+REDACTED FOR CONGRESS
+Super interesting analysis! I wonder if the reason for this effect is that people in cities have a different
+demand for different types of groups. Eg, people in rural areas might have a high demand for general neighborhood groups
+(we know this from research!), while people in cities have a higher demand for organization, interest, and identity x local
+groups.
+I'd be interested to see this analysis broken down by group type to confirm this (I don't think we have a good existing model
+to predict if a group is local interest, identity, organization, culture, or neighborhood, which might make it tough). I'd expect
+to see that rural areas have high demand for neighborhood groups, while cities have high unmet demand for local x
+something groups. (cc
+for this hypothesis.)
+Second hypothesis: people in cities use other apps instead of Groups, like Meetup, Eventbrite, and Reddit. (cc
+for this hypothesis.)
+Like Reply. Ty
+Chats

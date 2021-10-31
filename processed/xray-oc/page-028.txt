@@ -1,0 +1,15 @@
+Note that we didn't search for NZ video directly in our training data. However, we will double
+check if all copies of NZ videos were in our training dataset or not.
+Existing Problems & Future Work
+Here are some main problems that we surface, and what we should focus on:
+Redacted for Congress
+Training data deduplication
+• For XRayOC image, we have a continuous curation pipeline, where we run
+clustering algorithm and perform label aggregation, which gives us more confident
+in our train/eval split. We use PhotoDNA for such task. For video, this task is
+harder. Our first solution with md5 does not work well, as we see a lot of identical
+videos with different edits (text-overlaid, cropped, distortion, etc).
+• We will start looking deeper into video deduplicátion. Some of the first solutions
+that we think will be better are using existing systems at Facebook: Ridge,
+VIdentifier. We plan to work with Video Compression team in H2 to use this to
+clean up our training data.

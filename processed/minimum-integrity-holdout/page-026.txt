@@ -1,0 +1,7 @@
+1.2983:0.2470
+news:domains:obcs:with_high_quality_news
+4 news:domains:obcs:with_low_quality_news
+5 news:domains:obcs:with_med_quality_news
+-18.149720.2077
+HACE OR CONGRESS
+-6.0643_0.1973

@@ -1,0 +1,19 @@
+Acquire clip-level label
+• Another main problem with using video-level label for each videos is that we are
+missing out a lot of potential good training data. We plan to build a new system that
+can smart select clips from videos (loudest clips) and acquire the labels rather than
+using its entire video. This way, our training data will be more granular, and the
+label is very likely to be more accurate.
+Surface signals to all IG traffic
+Redacted for Congress
+• As part of vio deprecation, AI Video Understanding team has already been working
+with IG Well-being team to transition from vio to XRayVideo 2018a. Once this
+transition is complete, these concepts will be available to all IG videos (both VOD
+and live)
+Deprecate carcrashing and cockfighting frame-based concept
+. We have been working to deprecate these two concepts to support the deployment
+of new XRayOC frame-based model. We have a new candidate model ready, and I'll
+share the result in my next note. We have worked with Video Infra team to enable
+online A/B testing for all plugins across VUE platform, and we'll be starting to use
+this to support all downstream clients in Content Integrity to support a new
+deployment of XRayOC video frame-based model.

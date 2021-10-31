@@ -1,0 +1,22 @@
+Specifically we define two classification tasks:
+1. Is a US user in the High/Medium user segments (versus the No and Light ones, ignoring
+Luddites)?
+2. Does a US user have a meaningful connection with any group - that is, are they
+meaningful people.
+As features I use the following - li, 17, 128, number of friends, nearby user density, facebook
+age, age, gender and mobile OS. Note again that I don't include any features related to
+groups, like "number of groups that is user is member of”. I fit a GBDT for the two tasks,
+without
+any fine tuning or metaparameter search (just sklearn's defaults).
+When predicting user segment, the model gets AUC=0.81, meaning given two random users,
+one is highly engaged with groups, one is not, we'll be able to identify which is which 81% of
+the times. The accuracy is 73%, while a constant model would get 51%. L28 and friend count
+are the most important features.
+Predicting MP is a bit harder, but we still get AUC=0.79. The accuracy of the model is 74%,
+while a constant model would get a 67%.
+REDACTED FOR CONGRESS
+The number of local groups near a person is negatively
+correlated with engagement
+Finally, let's look at whether more local groups is better for engagement. Obviously, given
+that user-density is negatively correlated with engagement, we can expect tha
+Chats

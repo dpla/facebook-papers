@@ -1,0 +1,30 @@
+DOI Q&A
+5 hrs · Q193662 in DOI
+How do we calculate searchability?
+When our searchability is at 10%, what is that telling us?
+1. 10% of returned content is violating?
+2. 10% of searches return violating content?
+3. Other?
+- with
+and 3 others.
+3 Comments Seen by 39
+the 4
+Like
+Comment
+Share
+the answer is 3. Other:Definition: Of all of the VPVs on search results returned from
+the essential query list (i.e. the list of queries indicating a user was searching for a
+problem), what percent were violating according to human labeling. Source:
+https://fb.workplace.com/notes/864276267638679 from
+and
+and
+https://fb.workplace.com/notes/475583250397974/ by
+Search Terms used to define searchability:https://fburl.com/unidash/8zc0h2fy
+REDACTED FOR CONGRESS
+Searchability: Intro and setting up the metric
+Like Reply 2h - Edited
+Il 1
+#resolved (Thank you for bearing witness to my self-help session)
+Like Reply 1h
+TRENDIZISST
+Chats

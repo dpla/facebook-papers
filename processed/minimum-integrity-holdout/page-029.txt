@@ -1,0 +1,66 @@
+Looking at individual domains, we boost lots of major publishers likely as a result of broad
+trust, but we also demote lots of major publishers like buzzfeed, popsugar, and thedodo.
+-12% -10% -8% -6% 4% 2% 0% 2% 4%
+6%
+8%
+10% 12 @ Delta %
+Partnerships Domain Level OBC, by domain ***
+1 estadao.com.br
+22.0445+2.6357
+2 time.com
+16.649822.2986
+3 independent.co.uk
+- 13.86762.0200
+4 forbes.com
+5 washingtonplus.com
+12.3203t2.1010
+12.3057-2.7599
+6 abril.com.br
+11.547311.7385
+7 nytimes.com
+10.8585+1.5081
+8 latimes.com
+9.987112.9347
+9 npr.org
+9.63982 1.6735
+9.28972.3900
+10 osegredo.com.br
+11 elpais.com
+12 cnn.com
+8.8589:2.0337
+7.60540.9886
+7.1982 1.2527
+13 businessinsider.com
+14 globo.com
+15 culturacolectiva com
+6.9754:1.1283
+6.57011.6192
+16 portalraizes.com
+6.1548:2.5133
+17 theonion.com
+6.14652.1309
+18 contioutra.com
+5.95462.9537
+19 lemonde.fr
+5.821312.1241
+REDACTED FOR CONGRESS
+20 foxnews.com
+5.818521.4971
+21 intoday.in
+5.6706:2.0075
+22 nbcnews.com
+5.5227:1.6661
+23 cbsnews.com
+5.2905:1.6740
+4.386721.9658
+24 telegraph.co.uk
+25 indiatimes.com
+4.2131+1.6957
+26 news18.com
+4.201312.1171
+27 theguardian.com
+4.0174:1.5975
+28 thisisinsider.com
+3.9386+1.4628
+3.8928. 1.4700
+29 usatoday.com

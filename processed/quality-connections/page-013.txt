@@ -1,0 +1,25 @@
+What is "onboarding?"
+Most commonly, we use the word "onboarding” to refer to account creation to account activation
+flow. "Account creation" occurs when the parent creates a new kid account (on either PD on the
+FB app, or on the MK app), and "account activation" occurs when the kid lands in the inbox (see
+the thread tiles) and becomes a MAU for the remainder of that month.
+There are four main goals of the current onboarding flow that the users can take:
+1. Parent: basic info (name, birthday, add a photo)
+1. Parent: choose contacts:
+a. "Choose kid to chat with" (add another kid, then Parent B needs to approve; if
+with the same creator aka sibling kids, then automatically added)
+b. "Finds parents of their friends to chat with" (FB-MK parents not shown)
+C. "Choose adult to chat with" (Parent A's FB friends, automatically added, less
+engagement)
+2. Parent: opt-ins
+a. FoF opt-in
+b. SF opt-in
+C. CMC opt-in
+d. KC opt-in
+3. Kid:
+a. Agree with the guideline
+b. Take a picture
+c. Go through the four-part onboarding
+d. Land in inbox
+Redacted for Congress
+I

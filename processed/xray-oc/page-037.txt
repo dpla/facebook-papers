@@ -1,0 +1,25 @@
+Like · Reply · 1y
+Operationally if the NZ video were uploaded today - is the new model going to flag it automatically for
+remove or removal? E.g. does it hit the min thresholds?
+Like · Reply · 1y
+Redacted for Congress
+This model aims to learn the visual understanding of first-person shooter perspective which all of our computer vision
+systems have not been able to capture previously; therefore we are not aiming at enqueuing contents directly using this
+concept. There are multiple reasons:
+Today, mining for training data is incredibly hard for this concept, and labeling is also very tricky. We have
+completed our first iteration about a month ago, and we learned there were a lot of videos like bodycam infront of
+cars, so we would have a lot of FPs. We are working on multiple angles to solve this problem from cleaning up
+data, acquiring more data, and train our clip-based model more effectively.
+• From Content Integrity, we aim to build a classifier (led by Real-time Integrity team - cc|
+to build the
+enforcement classifier. To my best understanding, we are working on live video problem together with multiple
+partners from both enhancing infrastructure to content understanding for incredibly rare types of contents such
+as shooting incidents, SSI, etc.
+Today, in the absence of the classifier as the team is working on it, we do enqueue contents with very high threshold
+(0.98), and the NZ videos might not make it to the queue due to video quality, and CO capacity.
+Like · Reply · ly. Formatted
+3 Вас
+do we have an updated answer to this question? E.g. today would the NZ video be
+nG
+flaged as it was live?
+Like · Reply · ly

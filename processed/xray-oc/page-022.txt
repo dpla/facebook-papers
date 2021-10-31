@@ -1,0 +1,16 @@
+• 2042777779343499, 1121762651168458, 260797567670408: Not sure why these
+are labeled as positive sample when there were no gunshot fired.
+O
+• 1658613417748417: This video is probably indeed FPS. However, we pretty much
+don't see the gun quite well in the video.
+Redacted for Congress
+• 10154333865096130: This is also hard. We can't really tell if the police officer fired
+their weapon. From the text, it looks like the homeowner fired at those officers. We
+don't really see the gun of this officer either, so we think this should be a negative
+sample.
+2087468144830123: This is indeed positive sample, though we don't really see the
+FPS present much, so it's possible that our sampled frames didn't catch them well.
+O
+• 979876282153391, 531264043931536: This is another interesting example. It is
+indeed FPS, but we should distinguish this from guns on land vs guns in the water.
+We should not ignore this for different reasons.

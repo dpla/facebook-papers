@@ -1,0 +1,22 @@
+Skip Reason
+QUESTIONS
+Back
+Reset
+ANSWERS
+Skip Reason:
+Skip - Suggestion is in a language
+other than the language of the
+workflow
+Skip - Other (provide a reason in the
+reason box)
+DECISION
+0 - SKIP
+ANSWERS
+Skip Reason (Other):
+• Suggestion is in a language other than the language of the workflow
+• Other (include reason in freeform text box)
+REDACTED FOR CONGRESS
+Done (Enter)
+DECISION
+Rating Steps & Instructions
+netian string which could

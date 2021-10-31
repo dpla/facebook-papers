@@ -1,0 +1,16 @@
+Reach
+a
+Caveat: Reach of Bad Experiences remains a WIP in Integrity and we are still finalizing the
+exact thresholds used to say that a user had a bad experience for some integrity concept. The
+definition used in this analysis is simply 1 VPV on a piece of bad content. So the exact values
+of this analysis should be taken with a grain of salt.
+That said, 11% of users see content that has been marked as disturbing every day; 16% of
+users see content that is likely to be bullying; 39% of users see hateful content (i.e. borderline
+hate); 32% of users see borderline 3+ nudity content. These are significant proportions of
+DAP and we have effectively no ranking interventions in place to mitigate this. Rather, our
+impact is limited to OCQ offenses and Misinformation.
+REDACTED FOR CONGRESS
+Reach of Integrity Concepts
+BOON
+60%
+56%

@@ -1,0 +1,39 @@
+Instructions for Immediate Escalation
+If potential Self-Injury/Suicidal Content, or Time-Sensitive Credible Threat is the reason for marking as "sensitive," then
+escalate the Job ID immediately to your manager.
+Rating UI & Labels
+General UI
+QUESTIONS
+Back
+Reset
+Suggestion:
+ANSWERS
+3) Google Senech
+Please date if the suggestion is
+sensitive or not
+Skip
+Sensitive
+Acceptable
+DECTRON
+ACTONO
+Submit
+JOB INFO
+Buma
+PENDING
+Que
+Test queue for
+example job
+ID
+1938607733083354
+Copy ID Copy URL
+REDACTED FOR CONGRESS
+Decision Label
+DECISION
+QUESTIONS
+Back
+Reset
+• 0 - Skip
+ANSWERS
+• 1 - Sensitive
+Skin
+• 2 - Acceptable

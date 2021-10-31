@@ -1,0 +1,12 @@
+VPVs and Time Spent
+There's been a steady drop in VPVs, which now sits at -0.4%.
+news_feed:interactions:feed_filters:vpv:overall
+OD
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+-0.1%
+when Mandela
+02296
+0.396
+REDACTED FOR CONGRESS
+Time spent has been pretty consistent, with a decline of -0.3%.

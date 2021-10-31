@@ -1,0 +1,23 @@
+542638122561762: This was the incident back in 2015 of the two reporters in
+Roanoke, Virginia. This is an incident that we would capture the content. In this
+particular example, this is hard to catch in production because the shooting
+happens really fast, and there is a good chance that our frame-sampling didn't catch
+those frames. A second hypothesis is because of the windows splitting, with our
+production frame-processing (resize and crop to get the frame down to 112X112),
+there is a good possibility that we would miss the gun. I'll do a follow-up check on
+this particular video to see why we scored very low on this video.
+a
+Redacted for Congress
+• 1753596228214660: This is a close-up FPS, which we should have capture. I'll do
+more debugging on this sample as well.
+• 1992060911048222: This should not be labeled as positive as this looks like an ad
+from ammunition store. There was no gun-shot either.
+Scoring live videos:
+o Thanks to
+we looked at contents with high FPS score in live video.
+• There are a lot of false positive samples where the footage was coming from
+dashcam in a car. We are aware of this problem as we do have a decent amount of
+law enforcement officer in our training data.
+O
+Example: 2047107862251776, 670408496771722, 2288931204702120,
+140110387175164.

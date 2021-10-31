@@ -1,0 +1,13 @@
+Incorporate the new signal into downstream clients
+• We will work with Graphic Violence and Realtime Integrity team to incorporate
+these signals into their meta-classifiers. cc
+and
+Work with our outreach team to collaborate with law enforcement
+Redacted for Congress
+. We would love to acquire data from law enforcement, mainly their bodycam
+footage. We've just received the first copies of these from USG. Our team will
+evaluate and figure out how to best use these footage for our system.
+We hope with these work can be done, our clip-based model will increase its performance.
+Our team's goal for clip-based model is to fill the gap from what our frame-based model
+cannot learn, so we'll work on identifying problems that required action recognition together
+with vertical teams in Content Integrity.

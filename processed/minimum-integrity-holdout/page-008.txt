@@ -1,0 +1,32 @@
+Misinformation (Tautological Measurement)
+The holdout still applies hard demotions and RO demotions. The only way to measure
+our impact on Misinformation is with the predicted misinfo metrics, which
+basically just measure our impact on content that is being demoted so this is
+highly tautological. I'm mentioning it for completeness but I don't think we have
+as great of an idea as to how we impact Misinformation as OCQ.
+As expected, when you don't demote on something in the holdout, you see an impact on the
+content that is not being demoted. For links, we have two versions of the metric, one that is
+binarized (violating) and one that is continuous (expected). The drop in VPV prevalence is
+between 2 and 9%, while the drop in OBC prevalence is higher at 17%.
+-15%
+-10%
+5%
+0%
+5%
+1096
+15 @ Delta %
+-1.6305+0.1393
+***
+1 FUSS expected misinformation vpv prevalence
+-8.518040.6185
+2 FUSS violating misinformation vpy prevalence
+3 FUSS expected misinformation obc prevalence
+-17.140740.3222
+We're working on content-level Misinfo Deltoid metrics.
+REDACTED FOR CONGRESS
+Hate Speech / Borderline Hate
+The holdout still applies hate speech and graphic violence demotions in at-risk countries, but
+none exist outside of those.
+We seem to be having a small impact in many language-country pairs on Hate Speech and
+Borderline Hate, probably -3%, but this is an indirect effect of our other demotions.
+Chats

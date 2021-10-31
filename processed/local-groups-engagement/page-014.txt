@@ -1,0 +1,35 @@
+Like Reply: Ty
+Would love to hear from you
+and
+why people in big cities are less
+engaged with groups! (even an initial set of hypotheses which still need proving out)
+Like · Reply · 1yEdited
+2
+Does this relate at all to the Facebook app in flyover states vs. coastal correlation with
+sessions/TS/DAP?
+Like · Reply. Ty
+2
+"flyover states" is a true coastal elite phrase
+Like · Reply · 1y
+My hypothesis is that people in cities have compelling offline alternatives to whatever value FB
+Groups provide. But that seems a bit simplistic.
+Like Reply. Ty
+I was actually thinking the same thing, but also maybe that other online options (Meetup,
+Neighborly, etc) work better for higher population density areas.
+has any of your research on competitors looked into City vs. Rural usage that would validate/invalidate
+this hypothesis? If this is true, it opens up an entirely new area of work
+Like · Reply - Ty
+My intuition is that other online options such as Meetup, Neighborly, etc. are too small to
+account for the majority of the difference. If I recall correctly, the population penetration for those products is quite
+low and the time spent per DAP is also low. I haven't tried quantifying that though. Would be super interesting to see
+the total TS for competing online products vs the FB Group delta between city vs non-city.
+Like Reply. Ty
+REDACTED FOR CONGRESS
+Agree w/ that competitors aren't driving the difference, but still helpful to look at. What we see
+is that U.S. Nextdoor users are much less likely to be rural vs. FB overall in U.S. (https://fburl.com/daiquery/5197hv8h).
+We've also seen that overall FB app (or I don't have Groups) usage (L7, sessions) is stronger on average
+when users are also using Nextdoor. Again, my interpretation is that it's not about a specific competitor, but does
+speaks to our having really strong PMF in less dense areas in U.S.
+Like Reply - ly
+nextdoor u.s. pop'In density sample for those interested
+Chats

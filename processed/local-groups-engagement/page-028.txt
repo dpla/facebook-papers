@@ -1,0 +1,70 @@
+Savo
+median_page_inventory
+Absolute trajectories
+median_group_inventory
+Absolute trajectories
+median_group_inventory
+Normalized to earliest data
+600
+15.Ox
+500
+strong
+weak
+San Francisco
+500
+12.5x
+400
+p5
+p95
+400
+10.0x
+median_page_inventory
+300
+median_group_inventory
+metric / earliest val
+300
+7.5x
+|
+200
+strong
+weak
+200
+5.0x
+P5
+strong
+weak
+05
+p95
+San Francisco
+100
+100
+2.5x
+p95
+San Francisco
+0
+0
+2018-07
+201819.03
+2016-03
+2016-0
+2016
+2017-08
+2017-0
+2017.1
+2018-0
+2018-0
+2018-11
+2019-03
+2016-0
+2016
+2017-03
+2017-07
+2012
+2018-03
+018-07
+2018-11
+2019-03
+2016-03
+2016-07
+2016-
+2017

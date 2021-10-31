@@ -1,0 +1,34 @@
+gateway groups qanon"
+(BOT<
+Concerto Feedback Group
+October 8, 20202
+These changes are new, small inconveniences piled atop frustrating user-experience
+decisions that Facebook has been making for more than a decade. But they are the latest
+example of how Facebook tries to shape every user's experience through black box
+algorithms-and how this approach harms not only individuals but the world at large.
+This article has actionable feedback around (many of which we may already be taking action
+upon):
+• Lack of Control: Seeing groups that are unsolicited (including groups they explicitly left!).
+choices for comment ranking not being sticky, likewise even intimate conversations being
+chained outwards through community view.
+Danger of Rabbit Holes: It discusses how while most are introduced to conspiracy theories
+by word of mouth, recommendations engines and the chaining of content and communities
+often reinforce the dangerous ideas or lead them far deeper.
+Quotes + Potential Action Items
+LACK OF CONTROL
+But those are groups that we, the users, sought out and joined. Unsolicited content from
+other, unsubscribed groups is not always welcome. I myself noticed in recent weeks that
+posts from groups I am not a member of appeared when I tried to use Facebook's
+increasingly user-hostile app to engage with the handful of friends-and-family groups I do
+regularly use. And those out-of-the-blue posts include content from two groups I explicitly
+and intentionally left a month prior because they were making my life worse.
+REDACTED FOR CONGRESS
+Having that kind of content also appear in your personal newsfeed (which has not yet been
+rolled out to me) is apparently even worse. "It was creepier than I expected to see 'related
+discussions' hyped next to a short comments thread between my mom and my brother
+about her latest post," tech writer Rob Pegoraro (who has occasionally written for Ars)
+tweeted after experiencing the new feature. (He added that Facebook's obsession with
+engagement "needs to be shot into the sun," a sentiment with which I agree.)
+• Doublecheck that at a minimum we're not recommending groups people have
+Chats
+• Consider introducing a way to stop receiving in-feed unconnected content. T

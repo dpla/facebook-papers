@@ -1,0 +1,23 @@
+For high-reward, low-cost suggestion forms like friending that may often not yield
+with every suggestion being super valuable, it's more important to err on the side of
+having too many false-positives to guarantee chances of capturing as many true-
+positives. That said, the cost of "wrong suggestions" for MK may be different if we
+have a lot of fake accounts / adult accounts labeled as kids, which can degrade trust
+significantly.cc
+2
+Like Reply - 11w
+totally agree with the point on "relevance" and want to
+highlight that the the definition of "quality" for should be a fluid one and CTR
+is by no means a perfect proxy for suggestion quality. However, because we
+are seeing this link between quality connection --> retained users --> MAU,
+WAT becomes a component of that definition.
+PYMK might be the closest example here, but we should still bear in mind the
+differences between MK and FB/MSGR for the purpose of the comparison:
+adults have a much bigger graph and broader definition for "relevant" friends
+that they should add. On the contrary, kids have a much smaller circle and and
+thus the threshold for what can even be recommended should be higher as a
+result.
+Redacted for Congress
+a
+1
+Like · Reply · 11w

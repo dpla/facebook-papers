@@ -1,0 +1,27 @@
+Triena grapn.
+Fundamentally to solve the inventory problem, we need:
+1. Growth! Given our market penetration of -25%, it's highly likely (75%) that your
+kid's friends simply aren't using the app.
+2. Visibility Expansion. Parents aren't FB friends. We need FoF, School and
+potentially other creative solutions.
+Those aren't really problems we can solve in onboarding.
+Our hands are tied in how much we can do in onboarding.
+Like · Reply · 11w. Edited
+5
+I would actually disagree here. We highly increased the volume of kids on MK
+in the past year (Some parents see 50+ kids in this list). Yes the kids in there
+are not ideal. But cousins are in there, friends thru parents. We should make it
+easier to find them so that kids can get started on MK.
+Like · Reply · 11w
+Redacted for Congress
+re: 50+
+That's not a valid argument. Having 50+ kids you don't want your kid to talk to
+isn't real inventory.
+re: cousins and friends thru parents
+Yes, that is a good argument. The chance maybe higher than our market
+penetration (25%) because of networked growth.
+I agree that there are potentials here for search and ranking to be impactful.
+Like Reply · 11w
+Do we still rank the kid suggestions in onboarding? Any ML plans
+to work further on the ranking this half?
+Like Reply 11W

@@ -1,0 +1,19 @@
+vclip_first_person_snooting_median_clip_max P/R
+1.0
+0.8
+0.6 -
+Precision
+Redacted for Congress
+四
+0.4
+0.2
+P/R curve
+0.0
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Recall
+PR curve on new eval dataset

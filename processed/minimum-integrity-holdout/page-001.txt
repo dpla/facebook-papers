@@ -1,0 +1,14 @@
+A First Look at the Minimal Integrity
+Holdout
+MONDAY, APRIL 29, 2019. READING TIME: 12 MINUTES
+a
+We started the Minimal Integrity Holdout about a month ago, and sufficient time has passed
+to evaluate our impact on Integrity metrics, engagement, and the general user experience. In
+a few weeks, once we have completed the initial run of surveys for Bad Experiences, we will
+also be able to comment on any perceived differences in the reach of bad experiences on the
+platform as a result of Integrity's efforts.
+REDACTED FOR CONGRESS
+All comparisons are made relative to the holdout population so if a metric is up,
+it is higher in production as compared to the holdout, and if a metric is down, it
+is lower in production as compared to the holdout.
+Chats

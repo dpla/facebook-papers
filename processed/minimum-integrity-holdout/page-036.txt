@@ -1,0 +1,13 @@
+Engagement
+By definition, Integrity is going to cause some engagement regression as we are interfering
+with the ranking provided by Relevance which is more or less trying to optimize for
+engagement. I will describe the regressions below as well as try to roughly quantify the
+tradeoffs between Integrity and Engagement (
+MAP + DAP
+MAP and DAP are pretty flat. The metrics started out in the red but have been steady since
+with MAP even increasing ever so slightly. I think the initial drop was just A/A bias and don't
+think Integrity has much impact on these metrics.
+REDACTED FOR CONGRESS
+core_growth:visitation:map:overall_facebook
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22

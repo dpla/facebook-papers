@@ -1,0 +1,23 @@
+Rating Steps & Instructions
+1 - Assess the text string to determine whether there is sensitive intent. Is this a query I suggestion string which could
+surface sensitive content?
+2 - Foreign language should not surface (exception: you are an i18n rater and the suggestion is your market language +
+English). If you come across foreign/unrecognizable language in the suggestion string, select the label "O - Skip".
+3 - If the query / suggestion is Sensitive, select the label "1 - Sensitive" and the offensive category it falls under. All
+1
+sensitive selections will also require you to submit the keyword(s) that are offensive in the string. If there are multiple
+words, please separate with a comma (i.e. 'fucking slut' = fucking, slut).
+3 - If the query / suggestion is Not Sensitive, then select the label "2 - Acceptable".
+Label Definitions
+0 - Skip
+REDACTED FOR CONGRESS
+Use 0 - Skip for foreign language query / suggestion strings for which you do not understand all or part of the text, and you
+cannot understand enough to rate. This includes query / suggestion strings which are completely or partially in a language
+foreign to the language of the workflow in which you are rating (Latin or non-Latin characters). In the English US market
+you may skip queries/suggestions with multiple languages.
+This does not include query / suggestion strings which are recognizably sensitive. If the text string is sensitive (eg "video
+porno"), DO NOT skip, even if it is in a foreign language. In other words, if you can recognize that the string is sensitive, then
+rate it sensitive.
+In order to consider whether a query / suggestion is foreign, only look at strings longer than 3 letters. If the string is a
+partial word, or only a few characters long, do not assure it is foreign. Keep in mind that some languages frequently use
+Innt For examnie in Dutch you may see words with 2 or 3 letters like "al", "nu", "die", etc, which

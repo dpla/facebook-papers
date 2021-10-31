@@ -1,0 +1,33 @@
+Climate Change Integrity Discussion
+August 21, 2019
+When I searched for "climate change" yesterday on FB, 2 of the 3 autocomplete
+suggestions are very misleading.
+In general, do our policies combatting the spread of misinformation on Facebook apply to
+climate denialism?
+In specific, do we have any policy or mechanism in place that would remove these
+misleading suggestions? Search suggestion algorithms seem like a pretty high-leverage
+target to people trying to manipulate public opinion, so we should have some protections
+in place against someone "google bombing" FB search.
+2
+6 Comments Seen by 119
+Like
+O Comment
+Share
+Like · Reply · 1y
+any idea if we've tackled this for the TA?
+Like · Reply:ly
+we don't currently incorporate climate change in our TA labeling
+guidelines. looking at Implementation Standards, climate change does not
+explicitly violate policy either (though this may fall under misinfo and we'd
+need to clarify Search's policy on this)
+REDACTED FOR CONGRESS
+|||
+QUIP
+[DEPRECATAED] Typeahead Integrity Rating Guidelines
+v2.0 (08/07/2019)
+Like Reply. Ty
+2
+do we have anywhere we currently track all the things not in our current
+guidelines and implementation standards? would make for a good backlog
+prioritization discussion at some point.
+3PwX1HW1yRyzkZZH9T6KWONKjaeyH08fTKUSpF9FA9zKXoj5JxMnHqf30-bmyslvF4dZZCLVVHGnwigl_CIZQF59Z1Jduy

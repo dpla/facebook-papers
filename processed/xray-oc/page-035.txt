@@ -1,0 +1,19 @@
+Like · Reply - ly
+Yes that what I meant, it's would be great to see the impact to downstream clients.
+1
+Like · Reply · ly
+Pointer to the car crashing data you wanted!
+Like · Reply · 1y
+2
+Great work everyone! Exciting to see the improvement even with regard to the original NZ video. Looking
+forward to the future work too and get this productionalized for Live.
+Like · Reply · 1y
+C
+LIKE Tepuy
+Great work! Thanks for sharing your learnings here. Looking forward to seeing where this goes!
+Like · Reply - Ty
+1
+Do we know what percentage of FPS videos are actually violating? My concern is that we build a model that
+detects FPS videos very well - but if a very small percentage of FPS videos are actually violating, it doesn't make sense to
+enqueue jobs based on this score.
+Like · Reply - 1

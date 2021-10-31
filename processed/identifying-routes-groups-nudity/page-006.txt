@@ -1,0 +1,45 @@
+132268
+120918
+feed_attachment
+106177
+93785
+related groups
+mobile_group_feed_pymi
+88839
+58065
+permalink
+61462
+54135
+newsfeed_scg_gysj
+45458
+43628
+messenger_group_attachment
+38879
+35208
+These are sources of joins of gateway group members to target harmful groups over all time. We
+see that GYSJ is the top vector here.
+source
+num
+confirmed joins
+mobile_group_join
+351341
+320524
+gysj
+313822
+268211
+nf
+273377
+251610
+group_mall
+REDACTED FOR CONGRESS
+149788
+131753
+newsfeed_story_header
+148850
+134951
+newsfeed_reshared_story
+142128
+127599
+mobile_add_members
+118133
+63896

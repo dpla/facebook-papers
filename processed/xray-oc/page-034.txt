@@ -1,0 +1,22 @@
+- probably for you
+you o
+1
+Thanks,
+I think you're right.
+1
+Redacted for Congress
+O Haha my bad. Let me fix this
+Like · Reply · 1y
+#sharebot Games ML Working Group
+LIKE Reply
+It doesn't work
+Like · Reply · 1y
+Great work Very exited to support OC clip-based model inside the XRayCore trunk. Looking forwards to
+the comparison with frame-based carcrash/cockfighting concepts!
+Like · Reply · 1y
+O We did compare this with our offline data as I mentioned above. It's probably a lot better though in a
+not-super-clean dataset. I assume what you meant is how this would reflect in our downstream clients in graphic
+violence? If so, yes. We'll work with them on refreshing their classifier in a very short future.
+Like · Reply · 1y
+Yes that what I meant, it's would be great to see the impact to downstream clients.
+Like · Reply · 1y

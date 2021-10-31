@@ -1,0 +1,44 @@
+KOAO Kids Are 28% Less Retained on Day 45
+Those who are KOAO (no adult or kid added during onboarding) retain significally worse than
+their counterparts, with at least one adult or at least one kid added during onboarding. The delta
+for retention between the KOAO and K+A+ (having at least one adult add and one kid add during
+onboarding) folks are close to 30% by Day 45.
+I
+At Day 45 (about one month and half since activation), only 64% of the KOAO group remain
+MAU, suggesting that these users can churn easily because they have trouble expanding their
+network beyond Day 0 of activation.
+Looking at the table below, users with low connection networks on day 0 retain much worse
+than those who start off with some connections to chat with.
+% are MAU by
+Days Since
+Diff in K+A+
+Activation KOAO
+KOA+
+K+AO
+K+A+
+and KOAO
+Redacted for Congress
+72%
+92%
+90%
+95%
+23%
+67%
+91%
+89%
+93%
+26%
+By Day 31
+By Day 35
+By Day 40
+By Day 45
+64%
+90%
+89%
+91%
+27%
+62%
+89%
+88%
+90%
+28%

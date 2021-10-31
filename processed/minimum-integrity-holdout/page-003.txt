@@ -1,0 +1,20 @@
+. Given that Integrity is changing a ranking algorithm that is optimized for engagement, it
+is not surprising that Integrity has some negative engagement impact on engagement.
+Generally, Integrity shifts away from public content, i.e. links and page content, and
+toward friend content. The regressions on top-line metrics are not huge, generally on
+the order of 10-30 bps for sessions, MSI, time spent, and VPVs, with no impact on DAP
+and MAP.
+Integrity
+OCQ Offenses
+Let's kick things off with OCQ. Given that we demote Clickbait and Ad Farms quite a bit, it's
+not surprising that when you remove these rules, prevalence is heavily impacted. Generally,
+prevalence is -2% right now, and it rises to -2.5%-3% for withholding / exaggeration in the
+holdout and to -2.5% for weak ad farm (strong ad farm is ~0.1% right now so it's hard to say
+much about that).
+Prevalence is Down 20-40% for OCQ Link Offenses
+50%
+REDACTED FOR CONGRESS
+0%
+Relative Prevalence Delta
+-50%
+Chats

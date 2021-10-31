@@ -1,0 +1,25 @@
+Identifying pathways to harmful
+groups about nudity
+A key component of the Drebbel system is to discover pathways to harmful entities a user might
+take when engaging with our recommendation surfaces. As part of this effort, we have built a
+workflow to identify entities that act as gateways to recognized harmful entities. In this note, we
+apply this workflow to focus on groups considered harmful due to nudity and sexual activity.
+• Gateway groups for nudity/sexual activity harm seem to facilitate eventual connections
+to non-rec Groups. We should consider interventions that are either targeted towards
+users in these gateway groups, or at the entity-level in order to prevent these
+downstream connections from happening.
+• Specific interventions we propose include: GYSJ seed filtering, invite friction and entity-
+level demotion. We are working with the Deamplification team to pursue experiments
+both at entity-level and at the edge-level.
+• We should stress however, that not all gateway groups are potentially problematic in
+and of themselves; we should use other signals of harm (e.g., number of members
+flagged as non-rec, group demotion score etc.) in conjunction to determine the ones
+that we want to consider enforcing on more aggressively.
+• In addition, we believe Gateway groups can be used as (sparse) features to improve
+recall of existing models. We are working with the Entity & Actor Understanding team to
+evaluate models using these groups as features.
+REDACTED FOR CONGRESS
+on Gateway groups
+nnection was restored. Х
+thways to harmful entities, we wanted to explore the question "Are there
+groups wallacia cu and increased the probability of a user joining harmful groups?" We call

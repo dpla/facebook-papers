@@ -1,0 +1,26 @@
+Like · Reply · 11w
+that's interesting, but i'm assuming that would be very hard when it
+comes to friend suggestions. What makes a "good candidate friend" has
+nothing to do with your interests, but everything to do with your actual IRL
+social graph, which we have much fewer signals to start with (cold start
+friending problem).
+That's the main reason we rely on the parent graph as a major signal to start
+with right?
+That said, I don't remember, if a user was invited to the app, do we use the
+inviter kid's kid-graph as a big signal in ranking the invitee's contact
+suggestions? (Not just uprank the inviter/invitee, but actually use inviter's kid
+graph signals for invitee's ranking)
+Like Reply · 11w
+Redacted for Congress
+Yeah I agree it's a hard problem to solve. Applying the Netflix approach to MK
+will mean asking the users who they want to chat aka getting signals from
+them (not what their interests are, sorry if the comment above was a bit
+confusing) with during onboarding. e.g. ask the parents if they want their kids
+to chat with: grandparents, cousins, school friends, etc.
+do you know if we are allowed to use the inviter's kid's graph as
+signals for contact suggestions for the invitee?
+Like · Reply · 11w. Edited
+Sadly not, we are not allowed to use any kid related features for
+invites ranking
+2
+Like · Reply · 11w

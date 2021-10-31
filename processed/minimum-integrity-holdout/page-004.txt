@@ -1,0 +1,19 @@
+Integrity
+OCQ Offenses
+Let's kick things off with OCQ. Given that we demote Clickbait and Ad Farms quite a bit, it's
+not surprising that when you remove these rules, prevalence is heavily impacted. Generally,
+prevalence is ~2% right now, and it rises to -2.5%-3% for withholding / exaggeration in the
+holdout and to ~2.5% for weak ad farm (strong ad farm is 0.1% right now so it's hard to say
+much about that).
+Prevalence is Down 20-40% for OCQ Link Offenses
+50%
+0%
+Relative Prevalence Delta
+REDACTED FOR CONGRESS
+-50%
+Apr 04
+Apr 06
+Apr 08
+Apr 10
+Exaggeration - Weak adfarm
+Withholding

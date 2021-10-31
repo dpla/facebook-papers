@@ -1,0 +1,17 @@
+Why clip-based?
+Redacted for Congress
+Historical problems: Towards the end of H1-2018, who worked on violence video
+classifier, noticed that we started to observer a lot of carcrashing and cockfighting in
+prevalence data. Our team worked with to collect a small set of data and train two
+logistic regression concepts in our XRayOC frame-based model. However, the problem
+didn't really get solved, as the model either learn to notice the appearance of two
+roosters, or just recognize cars. Earlier this year, we did an exercise to label prevalence
+data to see how many of them fall into these two categories, and we noticed that this is
+still a problem that we need to solve. We think that we can leverage the 3D-
+convolutional neural network to capture the action of cockfighting and carcrashing.
+a
+• Chirstchurch incident: We worked with multiple partners (Graphic Violence, AI Video
+Understanding, etc), and we realized that we have been missing first-person-shooting
+(FPS) detection. We think there's a strong need of developing such concept to support
+our Real Time Integrity team with their operational system, so we also decided to train
+this concept.

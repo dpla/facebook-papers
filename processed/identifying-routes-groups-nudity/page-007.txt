@@ -1,0 +1,45 @@
+and 2 others Las
+131733
+149788
+group_man
+148850
+134951
+newsfeed_story_header
+142128
+127599
+newsfeed_reshared_story
+118133
+63896
+mobile_add_members
+62775
+55977
+feed attachment
+45399
+38031
+groups_discover tab
+35186
+permalink
+40290
+search
+35605
+29506
+related groups
+22375
+18304
+messenger_group_attachment
+21895
+19170
+groups_tab_reshared_story
+16014
+14232
+mobile_group_feed_pymi
+10827
+5444
+These are sources of joins of gateway group members to target harmful groups after March 01.
+We see GYSJ in second place here because some groups have been flagged as non_rec - but it is
+still a big vector.
+REDACTED FOR CONGRESS
+Is GYSJ a pathway from nudity gateway groups to other non-rec groups?
+Hypothesis
+• Users in gateway groups subsequently join non-rec groups because of exposure to
+GYSJ recommendations

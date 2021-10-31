@@ -1,0 +1,34 @@
+A breakdown of the onboarded users categorized by the types/counts of "Add" requests sent:
+% of New Users by # of Contacts Added During Onboarding
+КОАО
+• 16.7%
+KOA+
+7.5%
+K+A+
+50.6%
+K+AO
+25.2%
+Redacted for Congress
+# Kid/Adult Adds
+O Adult Added 1-5 Adults Added 6+ Adults Added
+Subtotal
+0 Kid Added
+17%
+6%
+2%
+25%
+1-5 Kids Added
+20%
+23%
+9%
+52%
+6+ Kids Added
+6%
+9%
+9%
+24%
+Subtotal
+42%
+38%
+19%
+100%

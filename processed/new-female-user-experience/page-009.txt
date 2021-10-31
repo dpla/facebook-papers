@@ -1,0 +1,27 @@
+Like Reply · 34W
+Maybe something you're already doing, but gender specific B&H
+can sometimes be caught better by the sexually suggestive classifier vs.
+B&H. e.g.
+https://fb.workplace.com/groups/655489201588520/permalink/9164725
+48823516). Perhaps you could try to bootstrap such a classifier leveraging
+comments reported for B&H by women that are non-violating but have
+certain words? Or maybe there is a way to leverage green lantern/CIRD in this
+direction?
+2
+Like Reply 34w
+this is super helpful thank you!
+Like Reply · 34w
+Redacted for Congress
+wonder if looking at USI w/o filtering further would actually be
+informative. It's possible that negative interactions actually are not caught
+very well but our current classifiers. Probably depends on how overt the
+harassment is.
+2
+Like · Reply 34w
+yes Rxactly - a lot of perceived harassment is explicitly non-
+violating per our current intervention standards. So it's very likely that people
+are seeing harassment which is decreasing their experience quality and
+potentially driving them off the platform that our classifiers do not identify as
+actionable or even borderline. This only goes double for markets and
+languages that we have poor or no coverage in for those classifieds.
+Like · Reply · 34w

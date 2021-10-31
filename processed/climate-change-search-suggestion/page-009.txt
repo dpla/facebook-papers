@@ -1,0 +1,62 @@
+ntegrity Rating Guidelines v2.0 (08/07/2019) Edits Disabled
+Format
+Carmimari
+Insert
+B IS A
+Decision Label
+DECISION
+QUESTIONS
+Back
+Reset
+• 0 - Skip
+ANSWERS
+• 1 - Sensitive
+• 2 - Acceptable
+0
+Skip
+1
+Sensitive
+2
+Acceptable
+DECISION
+ACTIONS
+1 - Label
+Submit [Submit)
+Sensitive Categories & Keyword Entry
+1 - SENSITIVE
+ANSWERS
+QUESTIONS
+Back
+Reset
+ANSWERS
+Sensitive Word(s) in Suggestion
+(please separate multiple words with
+comma):
+0 - Child Exploitation
+• 1 - Self Injury
+• 2 - Violence/Credible Violence
+Sensitive Categorization
+Child Exploitation
+0
+• 3 - Hate Speech
+REDACTED FOR CONGRESS
+Self Injury
+1
+Done [Enter]
+• 4 - Adult Content/Sexual
+Content
+Violence/Credible Violence
+2
+DECISION
+• 5 - Profanity
+Hate Speech
+3
+• 6 - Harmful Health Content
+Adult Content Sexual Content
+4
+• 7 - Regulated Goods
+Profanity
+5
+• 8 - Other
+Harmful Health Content
+6

@@ -1,0 +1,17 @@
+2 in 3 Contacts Added During Onboarding Do Not
+Lead to a WAT@7
+Even for the 80% users with some connections added during onboarding, the quality of these
+connections might not hold. Using WAT@Day7 as a proxy measure of connection quality, we
+saw that almost 2 in 3 contacts added during onboarding do not lead to a WAT@7. The % of
+added contacts not having a WAT is about 8% higher for the suggested kid contacts indicating
+that the
+Redacted for Congress
+This seems to suggest that parents, while going through onboarding, do not have a clear sense
+of whom their kids want to engage with.
+Connection Type During
+Onboarding
+% of Connection Without a WAT @ Day 7
+Adult
+58%
+Kid
+66%

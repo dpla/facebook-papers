@@ -1,0 +1,22 @@
+In this note I present four loosely connected results stemming from one analysis:
+1. Engagement with groups has clear geographical patterns
+2. In the US - city dwellers are less engaged in groups
+3. Overall, in the US, demographics is a good predictor of group engagement
+4. The number of local groups near a person is negatively correlated with
+engagement
+Engagement with groups has clear geographical patterns
+I've started my analysis with a goal of finding sub-populations underserved by the current
+groups ecosystem. My thinking was that by finding such clusters of low engagement, we
+might be able to create or promote the creation of groups dedicated to those populations.
+Hopefully, such a concentrated effort will be more effective in identifying inventory-gaps.
+a
+The groups connect team segmented the population of FB users in the following way:
+1. Luddites - People that are not active in groups, and are unlikely to become active even
+if we tried our hardest. Technically - people that are not members of any active group,
+having 17<=2 and either don't have a profile picture or have joined Facebook more than
+REDACTED FOR CONGRESS
+a year ago.
+2. No - People that are not members of any active group (and are not Luddites)
+3. Light group users- People that are members of 1 to 10 active groups, and their group
+128 is no more than 7 days.
+Chats

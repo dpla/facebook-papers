@@ -1,0 +1,20 @@
+• Our metrics on car-crashing and cock-fighting look suspicious and too good to be
+true. We did perform eyeballing result and see a lot of disagreement in terms of
+labels. Therefore, we think once we are able to deduplicate properly, we'll have a
+better understanding on the model performance, and it will guide us to figure out
+how to improve our clip-based model.
+• Label taxonomy and concept training
+Redacted for Congress
+• We learn that our first labeling taxonomy is not granular enough. We only check if
+there's a real gun fired in a first person perspective or not. We should think about
+including more questions to get better granular labels, and also enable multi-label
+selections for our PDO labeling queue.
+• Label quality
+• As we mentioned above, there were a lot of examples mis-labeled in these main
+categories:
+• Games video labeled as positive.
+• 3rd person perspective is marked as ist person perspective.
+. No gun visible but labeled as FPS.
+. We've reached out to PDO and we'll work with their team to ensure the quality.
+There were quite a lot of problems when we eyeballed FPs and FNs, so it was quite
+hard for us to debug the real FPs and FNs in the first iteration.

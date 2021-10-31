@@ -1,0 +1,21 @@
+1 - SELF INJURY
+This includes queries / suggestions which seek to promote, encourage, coordinate, or provide instructions for self-injury. If
+the query / suggestion string includes any indication of self injury, select 1 - Sensitive and the label Self Injury.
+Self Injury includes, but is not limited to:
+• Suicide, self-injury, eating disorders, and other types of self-harm
+• Strings explicitly related to suicide and/or self-injury
+o eg "how to kill myself", "best way to commit suicide". cutting my throat'
+Do not rate the following as Self Injury
+• Queries/suggestions of entities which match to media, songs, movies, artists (not pages or groups):
+oeg. "killing me softly". "Suicide squad",
+2 - VIOLENCE/CREDIBLE VIOLENCE
+REDACTED FOR CONGRESS
+This includes queries / suggestion strings related to violence, or credible acts of violence. If the string includes any
+indication of violence/credible violence, select 1 - Sensitive and the label Violence/Credible Violence
+Explicit Violence
+• Strings related to violence against real people or animals
+o e.g. "beheading videos", "how to kill a dog"
+oeg waterboarding videos
+o eg "fight cam
+Credible Violence includes, but is not limited to queries / suggestions which:
+• Contain credible statement of intent or threat to commit or incite violence against any person, groups of people, or

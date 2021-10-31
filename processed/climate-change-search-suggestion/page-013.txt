@@ -1,0 +1,27 @@
+Label Definitions
+0 - Skip
+Use 0 - Skip for foreign language query / suggestion strings for which you do not understand all or part of the text, and you
+cannot understand enough to rate. This includes query / suggestion strings which are completely or partially in a language
+foreign to the language of the workflow in which you are rating (Latin or non-Latin characters). In the English US market,
+you may skip queries/suggestions with multiple languages.
+This does not include query / suggestion strings which are recognizably sensitive. If the text string is sensitive (eg. video
+porno"), DO NOT skip, even if it is in a foreign language. In other words, if you can recognize that the string is sensitive, then
+rate it sensitive.
+In order to consider whether a query / suggestion is foreign, only look at strings longer than 3 letters. If the string is a
+partial word, or only a few characters long, do not assume it is foreign. Keep in mind that some languages frequently use
+words with 3 letters or less. For example, in Dutch you may see words with 2 or 3 letters like "al", "nu", die", etc, which
+could be prefixes to English words.
+Examples for when to skip and when not to skip
+• Skip for non-Latin character foreign language
+о е.g. "рестораны рядом со мной"
+eg"最寄りの地下鉄駅"
+• Skip for general, non-entity, foreign language text in Latin characters
+oeg "vuelos baratos"
+• Skip for non-sensitive, mixed language queries
+eg. In the English workflow, skip for: "los mejores La dia in Cancún
+• Skip for unicode text
+o eg. \u0d38\u0d4d\u0d38\u0d4d \u0d2f\u0d4d
+• Skip for random string of numbers, without context
+oe.g. 65063686
+Do not skip for foreign language strings which are recognizably sensitive
+REDACTED FOR CONGRESS

@@ -1,0 +1,26 @@
+o Content manipulated to highlight, circle, or otherwise negatively draw attention to specific physical
+characteristics (nose, ear, etc.)
+Attacks through negative physical descriptions
+o Content that ranks them based on physical appearance or personality
+Association to menstruating, urinating, vomiting, or defecating where context further degrades the individual
+or contains an expression of disgust
+• Association to physical bullying where context further degrades the individual
+o Content questioning hygiene
+• Coordination, advocation, or promotion of exclusion
+Negative character or ability claims, except in the context of criminal allegations against adults
+o Expressions of contempt or disgust, except in the context of criminal allegations against adults
+• Unwanted manipulated imagery
+Derogatory comparison to other public, fictional or private individuals on the basis of physical appearance
+Do not rate the following as Hate Speech:
+• Seeking factual, educational, or newsworthy information about hate groups:
+o eg. "white supremacy rally san francisco", "kkk interview"
+Some other examples that should not be rated as Hate Speech:
+oeg. "racist memes", "racist video", "white supremacist", "so gay"
+REDACTED FOR CONGRESS
+4 - ADULT CONTENT/SEXUAL CONTENT
+This includes all commonly known sexual words, as well as misspellings and variations of sexual words. If the query
+suggestion string includes intent for any adult content/sexual content, select 1 - Sensitive and the label Adult
+Content/Sexual Content
+Adult Content/Sexual Content includes, but is not limited to, queries / suggestions with explicit pornographic intent.
+• Sexually explicit language, and/or terms seeking pornography, nudity, and/or sexual activity
+meg "gangbang" "threesome", "hot lesbians", "girls fingering", "naked girls", "xxx",

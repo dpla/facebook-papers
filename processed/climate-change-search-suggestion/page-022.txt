@@ -1,0 +1,28 @@
+3 - HATE SPEECH
+This includes queries / suggestions which are hateful against a protected group, or an individual, and/or praising hate
+groups or ideologies. If the query / suggestion string includes any hate speech, select 1 - Sensitive and the label Hate
+Speech
+We define hate speech as content which directly attacks people based the following protected characteristics:
+• Race
+• Ethnicity
+• National origin
+• Religious affiliation
+• Sexual orientation
+• Sex, gender, or gender identity
+. Serious disabilities or diseases
+Hate Speech includes, but is not limited to queries / suggestions which
+• Contain violent or dehumanizing speech, statements of inferiority, or calls for exclusion or segregation
+• Are hateful against a protected group, such as racial slurs (including misspellings), and queries/suggestions which are
+derogatory against groups based on any of the above-listed protected characteristics:
+oeg "nigger", "chink", "yid","tranny" "shemale
+o e.g."women should know their place" "asians are cheap" "gays go to hell, 'immigrants are thieves
+• Display derogatory statements against a public or private individual
+o e.g: "jason smith is a fag"
+o e.g. "kamala harris is a joke"
+• Display praise for hate groups or people who commit harmful actions against a protected group:
+o eg "james alex fields jr is a hero" (the individual that ran a car through a crowd protesting white supremacy
+rally). "kkk saves america"
+• False information or opinions on public figures or notable people:
+e.g "hillary Clinton is dead", "hillary Clinton is a robot", "impeach donald trump"
+. Target all private individuals or public figures with:
+REDACTED FOR CONGRESS

@@ -1,0 +1,25 @@
+0 - CHILD EXPLOITATION
+This includes queries / suggestions with intent for content related to the sexual exploitation of children. If the string
+includes any indication of this type of exploitation, select 1 - Sensitive and the label Child Exploitation
+Child Exploitation includes, but is not limited to queries / suggestions which:
+• Contain anything related to sexual activity involving minors, soliciting minors, or sexualizing of minors
+o eg "body of a 12 year old", "child erotic", "kids touching each other", "jailbait", "molesting child".
+Sexualize teens and do not contain explicit intent for teens aged 18 or over
+o "teens in panties", "teens in thongs", "sex teen",
+• Imply a minor involved in a sexual setting
+o e.g. colombian little girl student sex
+• Contain pornographic terms or genres that sexualize minors
+o e.g. "lolicon" (media focusing on the attraction to young or prepubescent girls)
+Do not rate the following as Child Exploitation:
+• Strings related to educational or informational topics related to child exploitation:
+o e.g. "child abuse hotline","child molesters in my area"
+• Strings which sexualize teens aged 18 and over. Rate these as Adult Content / Sexual content.
+o eg: "18+ teen porn" Sensitive. 4 - Adult Content / Sexual Content
+• Strings which contain the terms "boy" or "girl" which do not indicate explicit intent for children
+o eg. "call girl", "call boy", "hot girls", "boy naked", "naked korean girl"
+REDACTED FOR CONGRESS
+--
+1 - SELF INJURY
+This includes queries / suggestions which seek to promote, encourage, coordinate, or provide instructions for self-injury. If
+the query / suggestion string includes any indication of self injury, select 1. Sensitive and the label Self Injury
+Self Injury includes, but is not limited to:

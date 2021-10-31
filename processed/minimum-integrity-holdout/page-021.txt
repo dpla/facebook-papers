@@ -1,0 +1,13 @@
+What blocks work on these types of sensitive issues?
+• Concerns over fairness?
+. Concerns over filter bubbles?
+These are important questions, and we do not have ways to really measure these concepts
+right now, at least they are not in widespread use. We need to develop concrete criteria for
+these important concerns, and then we need investment to build out evaluation for these
+criteria. Until we have that, we will likely struggle to make progress in high-harm spaces.
+User Experience
+Changes in Content
+REDACTED FOR CONGRESS
+What's most clear from the holdout is that Integrity shifts the type of content seen
+dramatically. There's more friend content and less public content.
+Specifically, page content is down 4.5%

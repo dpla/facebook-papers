@@ -1,0 +1,38 @@
+Save
+Integrity on-call action
+Typeahead team action
+no
+yes
+Is the prediction
+policy violating?
+Loop in policy (Kyle) &
+PMM (Julie)
+After clarification deemed to be violating,
+or decide we should update policy
+Integrity on-call take quick
+action in blocking
+Are we
+expected to
+have a
+reasonable
+SERP?
+TA & NLP figure out why
+we fail
+REDACTED FOR CONGRESS
+no
+yes
+OC fail
+B'acklist/
+SCT fail
+Keyword
+source
+Integrity on-call take
+action in blocking, but no
+urgency
+TA figure out why we fail
+No better
+keywords
+Retrieval fail
+Ranking fail
+Quality issue, fix in a
+systematic fashion

@@ -1,0 +1,13 @@
+tradeoffs between Integrity and Engagement
+MAP + DAP
+MAP and DAP are pretty flat. The metrics started out in the red but have been steady since
+with MAP even increasing ever so slightly. I think the initial drop was just A/A bias and don't
+think Integrity has much impact on these metrics.
+core_growth:visitation:map:overall_facebook
+03/22 03/24 03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+0.00%
+-0.02%
+0:0496
+REDACTED FOR CONGRESS
+0.06
+DAP has been flat but once again, the red is probably just A/A bias.

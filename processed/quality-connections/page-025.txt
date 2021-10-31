@@ -1,0 +1,31 @@
+Like Reply · 11w
+For some time period before we launched Privacy Policy v2, Growth retention
+focused on conversation starters (since we wanted to do connections work
+after privacy policy updated).
+Encouraging friends of new users to send them a sticker improved WAP by
++1.2878+0.9468% 3 weeks after the experiment ended:
+https://fb.workplace.com/groups/1915578688754773/permalink/2479216
+645724305
+When friends of new users have DGG (Draw-Guess-Game), WAP of the new
+users improved by +0.9510+0.5619
+(That being said, when new users have DGG, it actually hurts their WAP)
+https://fb.workplace.com/groups/1915578688754773/permalink/2544713
+469174622
+Redacted for Congress
+agree with
+So yeah, the answer is that conversation starters can definitely help; but I
+that connections is certainly the bigger lever and elephant in
+the room.
+That being said, in 2018, we also worked heavily on Connections, and we
+added a TON of connections without moving overall WAT. That led to an org-
+wide pivot away from connections work toward WAT, since we didn't believe
+our work was adding high-quality connection (partly validated again by our
+research and
+data analysis here).
+During that period of time, we focused almost exclusively on parent's FB
+graph (well, since that was the only thing allowed by privacy policy). I believe
+that focus was the cause of the "low quality" connections.
+For connections to move retention, I believe we need to go beyond the
+parent's FB graph. I am excited to see where FoF can get us. I am also excited
+to see how far we can go with some of the other big bets like School which
+expands kid's visibility further.

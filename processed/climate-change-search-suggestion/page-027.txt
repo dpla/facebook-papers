@@ -1,0 +1,26 @@
+Do not rate the following as displaying Adult Content/Sexual content. Queries I suggestions which:
+• Contain pornography film star names that can be a common person's name
+o eg. "amber smith", "amber smith photos" (pornography film star but does not contain explicitly sexual terms)
+e eg "angela white", "mia khalifa" or "alexa grace" are perfectly common names which should not be rated as
+sensitive
+• Contain popular terms which are borderline sexual, but not explicit
+o eg. "twerking", "swimsuit collection 2018"
+• Seek factual, educational, or newsworthy information
+oe.g. "scott weiner scandal", "prostitution prevention", "escort meaning"
+• Seek movies with adult content or sexual undertones
+o eg "fifty shades of gray", "les cousins dangereux"
+• Seek dating information
+e.g. "single ladies meet foreigners", "filipina single ladies searching for true love", "LoveHabibi"
+• Appear to be non-sensitive without context
+oe.g. "indian girls
+NOTE: For these types of suggestions, if there are contextual keywords which suggest potential child
+exploitation intent (eg. "indian little girls photos," or "indian little girls videos"), then rate Child Exploitation
+5 - PROFANITY
+REDACTED FOR CONGRESS
+This includes all commonly known profane words, misspellings and variations. If the suggestion includes any profanity,
+select 1 - Sensitive and the label Profanity
+Profanity includes, but is not limited to:
+• Profane words
+o e.g. "fuck", "asshole", "cunt, "shit"
+• Misspellings and variations of profane words
+o eg "muthafucka", "bitchass", "fuck"

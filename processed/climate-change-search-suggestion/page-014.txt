@@ -1,0 +1,26 @@
+3
+Examples for when to skip and when not to skip:
+• Skip for non-Latin character foreign language
+о е.g. "рестораны рядом со мной
+oeg"最寄りの地下鉄駅
+• Skip for general, non-entity, foreign language text in Latin characters
+o eg "vuelos baratos"
+• Skip for non-sensitive, mixed language queries
+oeg. In the English workflow, skip for: "los mejores La Esin Cancun"
+• Skip for unicode text
+oeg. \u0d38\u0d4d\u0d38\u0d4d \u0d2f\u0d4d
+• Skip for random string of numbers, without context
+eg. 65063686
+• Do not skip for foreign language strings which are recognizably sensitive
+o e.g. "video porno
+oeg "sexo oral"
+o e.g "sexo anal".
+• Do not always skip for foreign proper names. If you are certain that the string is a proper name, then select
+Acceptable.
+o eg "esther dubois"
+REDACTED FOR CONGRESS
+[i18n) English is not considered foreign language for i18n workflows. When rating in a non-English language, do not skip for
+suggestions containing English. In some i18n markets, you should not automatically skip for queries/suggestions
+containing multiple languages. Often, English is used in combination with the market language. Therefore, please rate for
+strings containing the local market language and English.
+1 - Sensitive

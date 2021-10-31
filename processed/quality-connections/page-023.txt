@@ -1,0 +1,26 @@
+I'm also curious to learn what the data "tradeoffs" in experience are for things we
+believe are "low quality". While there's obvious user quality / experience
+degradations for connecting "low quality" connections, does that interfere or come
+at the cost of something?
+1
+Like · Reply 11w
+Curious about two things:
+1) How are high quality connections found now? Kid Codes? Does that happen in
+the first week? Do we find evidence that kids need any "placeholder" connections
+besides the parent between the time of account creator and the first high quality
+connection?
+2) If high quality connection is defined as WAT in the first 7 days, have we looked
+into prompts for WAT? Meaning conversation starters, games, question off the day,
+etc
+Redacted for Congress
+Like · Reply · 11w. Edited
+2) We are explicitely guarding against doing that on the
+connection side. We are using it a a signal. But working too close to the metric
+would be gaming it here.
+1) Kid Codes generates the highest value connections, but only a small share
+of our users use them.
+1) Agree that ideally onboarding connections who be a placeholder until they
+get more high value connections. In practice it is the only connections some of
+our users. We need to grow our connections outside of onboarding so we
+don't depend on these onboarding connections as much. See
+https://docs.google.com/.../114BtVxgGsGZsm7ZLKgPvZ56.../edit

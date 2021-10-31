@@ -1,0 +1,21 @@
+-20%
+-10%
+0%
+1096
+20%
+Delta %
+CEP Interactor Engagement Bait Overall Prevalence, by interaction actor_type
+1 USER
+1
+-15.6760+0.0427
+N-
+-31.1870:0.0686
+ONGRESS
+-22.878820.0831
+2 CEP uri exaggeration vpv prevalence - overall.
+3 CEP url withholding vpv prevalence - overall
+4 CEP user level weak adfarm VPV prevalence
+5 CEP user level strong adfarm VPV prevalence
+- 12.6908:0.0583
+-10.2080+0.1126
+REDACTED

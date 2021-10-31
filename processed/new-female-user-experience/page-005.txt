@@ -1,0 +1,37 @@
+Normalized Overall USI
+Save
+o
+0.5
+1.5
+2.5
+0
+1
+2
+3
+ID
+IN
+BR
+MY
+TR
+female usi_norm
+PK
+EG
+TH
+AR
+PH
+male usi_norm
+CO
+PE
+ZA
+NG
+ES
+IT
+usi_norm
+XW
+BD
+MM
+DE
+GB
+VN
+US
+Redacted for Congress

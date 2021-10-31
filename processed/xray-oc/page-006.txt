@@ -1,0 +1,19 @@
+• For live-video, we'll write clip-level (10-second clip) scores directly into storage (VU
+Repository) and trigger clients every time we write successfully as this is currently the
+setup in Video Understanding Engine.
+In the production system, we know:
+Our production model is a quantized version of the original model that we train.
+а
+• Our downstream clients will use video-level scores directly for most use cases.
+Therefore, we'll analyze the video-level signals in two datasets:
+Redacted for Congress
+.
+Original evaluation dataset.
+• A more fresh dataset. This is really just a new set of videos that we continuously collect
+for evaluation purposes with the hope that the new data coming in will be less likely to
+be similar to our training dataset. We will only do this evaluation for FPS since this has
+higher priority for evaluating with more data for understanding the model quality
+better.
+• Note: For carcrashing and cockfighting concepts, we'll compare with our frame-based
+concepts. Our goal is to deprecate our frame-based concepts to enable deploying frame-
+based model faster in future, on par with our XrayOC image model.

@@ -1,0 +1,34 @@
+Facebook at the same time has introduced a slew of tweaks to the user interface on both
+Web and mobile that make it significantly harder to promote high-quality engagement on
+the platform, particularly in groups. First, all groups now sort by "latest activity" as their
+default setting rather than by "recent posts." Sorting by "latest activity" drives users to
+posts that already have comments-but every post is then sorted by "top comments," an
+inscrutable, out-of-sequence muddle that seems to have almost nothing to do with the
+conversations themselves. Users can again choose to sort by "all comments" or "most
+recent," but those choices do not stick. Whether by design or by flaw, the decision to sort
+by recent posts isn't sticky, either, and you'll need to reselect it every single time you post
+a comment or navigate between posts.
+Meaningful, thoughtful conversation-even in small, serious, well-moderated groups--has
+become almost impossible to maintain. That, too, drives sniping, bickering, and extremism
+on a small, conversational scale.
+• Make choices on comment ranking sticky?
+Likewise how do we make sure the comments we are ranking aren't leading to more
+polarized discourse? How can they still reflect the group norms and standards?
+DANGER OF RABBIT HOLES (FROM AN ARTICLE LINKED WITHIN)
+But the Q believers I spoke with stumbled upon these incomprehensible ideas the old-
+fashioned way. They say they were indoctrinated (though they don't use that term) by their
+parents, other family members, and friends, or introduced to the conspiracy through word-
+of-mouth, rather than via the algorithms that have received the most national attention.
+But word-of-mouth alone isn't enough. The ability of people sitting at home to follow the
+online rabbit holes downward is critical. Moms are seeing an ever-changing web of
+trafficking conspiracy theories bounce around their circle of mom friends, like the
+debunked Wayfair conspiracy theory and USPS phishing text scam. The Jeffrey Epstein
+saga, a real-life case that involved an alleged sex trafficking ring and was covered by
+reputable news outlets, has also served as a key gateway into QAnon.
+REDACTED FOR CONGRESS
+• Word-of-mouth and algorithmic recommendations seem to have compounding risks that
+we need to consider beyond evaluating our recommendations and invite system
+separately?
+. I saw another post discussing the need for intentional friction in Concerto so seems like
+we're thinking about it already!
+Lastly I think the framing of "Engagement" is a good reminder that Concerto couk Chats

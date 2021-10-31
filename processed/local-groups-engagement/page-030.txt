@@ -1,0 +1,49 @@
+median_group_inventory
+Absolute trajectories
+median_group_inventory
+Normalized to earliest data
+15.0x
+600
+strong
+weak
+San Francisco
+12.5x
+500
+p5
+p95
+10.0x
+400
+REDACTED FOR CONGRESS
+metric / earliest val
+median_group_inventory
+300
+7.5x
+strong
+weak
+200
+5.Ox
+25
+295
+100
+2.5x
+San Francisco
+0
+2018 17:03
+2016-03
+2016-07
+2016
+2017-03
+2017-07
+2017-
+2018-03
+2018-07
+2018-11
+2019-03
+2016-03
+2016-07
+281
+817-03
+2017-07
+2011
+2018-03
+2018-07

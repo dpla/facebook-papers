@@ -1,0 +1,26 @@
+We have played around many different variations on Invite and Contact lists in
+onboarding in the past (some with suggestions, some without suggestions) ie
+Forced Search that can also add some color to this.
+iirc, while suggestions might have a lot of room for improvement, they still
+performed much better compared to not having them when it came to finding
+contacts to establish in the first place. cc Lin
+I totally agree on needing to satisfy high-intent cases, but that doesn't mean there
+isn't value in suggestions either.
+Like · Reply · 11w
+1
+Redacted for Congress
+Thanks and that's a good context to keep in mind.
+Some potentially controversial take on this "recommendation/suggestion"
+topic:
+suggestions yield the highest value when we have data to know what we
+should recommend. For many apps, this means asking a question on what the
+user want during onboarding ("pick three genres of music or types of book
+you're interested", or Netflix "tell us what you like to watch"). Compared other
+apps' approach with MK's approach, we might be a bit too confident on what
+we can recommend to new users.
+Having more of a hybrid approach and asking users what they want from the
+start might help us in the long-run and result in the highest impact in
+retention. Maybe that's something we can keep in mind if we were to redesign
+the onboarding flow in the future.
+1
+Like · Reply · 11w

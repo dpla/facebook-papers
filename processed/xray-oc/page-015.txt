@@ -1,0 +1,19 @@
+COCKTignting_median_clip_max ROC
+10 -
+0.8 -
+0.6
+Redacted for Congress
+DI Daniend ani
+0.4
+0.2
+ROC curve original
+ROC curve backfilled
+0.0
+0.0
+0.2
+0.8
+1.0
+0.4
+0.6
+False nositive rate
+Cockfighting: ROC curve comparison of frame-based and clip-based models

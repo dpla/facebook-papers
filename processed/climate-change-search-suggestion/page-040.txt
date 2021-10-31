@@ -1,0 +1,24 @@
+Examples
+• a drug name AND a location (eg, 'marijuana london', 'Isd mexico)
+• a drug name AND the name of any messaging service (eg, "kik potdealer'' wicker cocaine)
+mentioning or depicting the drug name AND term(s) that indicate an attempt to buy, solicit or trade (eg. iso opium
+steroids for sale', 'looking for xanax', weed trade')
+8 - OTHER
+The label 6 - Other is for queries / suggestions which are not covered by any of the above criteria. If the query / suggestion
+string includes any indication of sensitive content that does not fall within in any of the existing Sensitive categories, then
+select 1 - Sensitive and the label Other
+When you select this label, you must provide a detailed description in the comment box explaining why you selected
+Other instead of the other labels. Include in the description exactly what you viewed which let you to believe that
+the query/suggestion is sensitive, and a recommendation for a new sensitive category
+2 - Acceptable
+Select Acceptable when the query / suggestion does not contain any content that is sensitive
+REDACTED FOR CONGRESS
+[i18n] A query / suggestion string which is in English is considered acceptable if it is not sensitive. Do not select skip for
+7
+English strings
+For examples:
+• "uk calendar girls
+• queries / suggestions containing words or phrases which are not considered profanity
+"damn" - eg. "damn yankees watering hole" "damn life quotes" "damn loving"
+o "what the f" - eg "excuse me what the f"
+Datinas

@@ -1,0 +1,28 @@
+Suggestion-based connections added during onboarding are low quality: over
+two thirds contacts added during onboarding do not lead to a WAT in 7 days,
+and close to 90% of the contacts shown during onboarding are irrelevant.
+Another thought on this - we've heard from Research many times that parent's
+perception of who their kids' friends are can be very different from who the kids are
+actually wanting to chat with.
+So there's also a scenario where the suggestions might be high-quality as far as the
+PARENT is concerned, but low quality for the kid's likelihood of chatting. Of course
+it's still not great for K2KWAT purposes, but we should also think about how likely it
+can be for contact suggestions to lead to WAT is parents are the actors to begin
+with. FWIW, the parents are still intentionally sending those requests, so they're still
+"quality" from that perspective. (I am not at all arguing that we actually are good in
+quality now. Just stating that "quality" is definitionally dependent, so we should
+precise on what we consider "quality". - I think this is your shared meta-purpose of
+the post anyway )
+The 90% shown being irrelevant number is a better judge of quality from the
+"likelihood to act" perspective, but also a weird metric (ie. easy to manipulate that
+number by just showing more or less people in the list). One click deeper here can
+be interesting to see how many "high coefficient" suggestions we show, and what
+the "send rate" for those users are. (ie, are we ranking incorrectly, or don't have the
+appropriate people available to rank in the first place)
+PYMK for my personal FB account, for example, is pretty "bad" nowadays because I
+have a stable friend graph, so would have a low relevance rate for me. At most I
+might have 1 suggestion I would consider friending, so I might have 95%
+suggestions being irrelevant. Cold-start graphs have a same potential problem. But
+this looks very different for other people, and doesn't necessarily mean it's bad
+either.
+Redacted for Congress

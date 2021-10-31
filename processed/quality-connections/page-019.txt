@@ -1,0 +1,24 @@
+I did not mean to suggest that either ranking or inventory is broken here, and I
+agree that inventory is a problem for surfacing high-quality suggestions (or
+just cold start problem for new users). Plus in MK there is often privacy
+constraints on whom we can show.
+Disagree that our hands are tied during onboarding, and we should give
+parents the options to find those targets (if there are any) and not just simply
+rely on their FB network to keep recommending potential suggestions.
+A separate note on inventory: just because we have (or will have in the future)
+a long list of MK users (kid suggestion) or FB users (adult suggestions) does
+not mean that we **should** start ranking them and try to decide whom we
+think the users might want to talk to. We position ourselves as a safe app
+(close network), so unlike recommendations on Netflix or IG (which is more
+about exploration and discovery), our value prop should be clear from the
+start.
+Redacted for Congress
+2
+Like · Reply · 110 Edited
+We do and ML is working on connections foundations this half (training K2K
+and K2A models), which will impact kid suggestions across all surfaces
+beyond onboarding.
+Like · Reply · 11w
+3
+Write a reply...
+301 </>

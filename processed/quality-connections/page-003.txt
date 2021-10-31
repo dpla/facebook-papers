@@ -1,0 +1,16 @@
+I
+Context
+First impression matters - for many, onboarding on MK is the users' first encounter with the MK
+app and its setups (see Appendix for more info). The current flow can consist of three parts for
+parents: 1) set up the basic bio info 2) find possible contacts 3) opt-ins and privacy policy
+reviews.
+In addition to being a long process (40 screens from account creation to activation), various
+UXR studies have shown that the suggested contacts (adults and kids) are not relevant for new
+users (UXR Study by
+UXR Study by and parents have trouble finding specific
+contacts to add during onboarding.
+Redacted for Congress
+Data findings are consistent with the UXR sessions in the sense that the recommendation
+during onboarding is overwhelming and inconsistent for new users.
+No Relevant Contacts to Add for 17% Users,
+Resulting in the "KOAO” Kids

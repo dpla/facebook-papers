@@ -1,0 +1,45 @@
+Save
+median_page_inventory
+Absolute trajectories
+median_g
+Absolut
+600
+500
+500
+400
+400
+median_page_inventory
+300
+median_group_inventory
+300
+200
+200
+strong
+weak
+p5
+p95
+San Francisco
+strong
+weak
+p5
+p95
+San Frai
+100
+100
+0
+0
+2016-03
+2016-07
+2016-11
+2017-0
+203
+2016-03
+2016-07
+2016
+2017-03
+2017-07
+2017-11
+2018-03
+2018-07
+2018-11
+2819-03

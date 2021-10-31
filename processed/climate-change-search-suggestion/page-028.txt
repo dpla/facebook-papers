@@ -1,0 +1,25 @@
+5 - PROFANITY
+This includes all commonly known profane words, misspellings and variations. If the suggestion includes any profanity,
+select 1 - Sensitive and the label Profanity.
+Profanity includes, but is not limited to:
+• Profane words
+oeg "fuck", "asshole", "cunt, "shit"
+• Misspellings and variations of profane words
+e.g. "muthafucka", "bitchass", "fuck"
+• Phonetic variations of profane words
+eg. "phuk you"
+• Regional slang
+o e.g. "wanker", "beaver" (vagina), take off eh! (go fuck yourself)"
+Do not rate the following as Profanity:
+REDACTED FOR CONGRESS
+• Legitimate proper names that may appear like profanity
+o e.g. "fcuk" and "talkshit" are both clothing brands
+• Strings containing words or phrases which are not considered profanity
+o "damn"-eg. "damn yankees watering hole" "damn life quotes" "damn loving"
+o "what the f" - eg "excuse me what the f"
+6 - HARMFUL HEALTH CONTENT
+This includes queries / suggestions which contain health content that could lead to serious harm. If the query / suggestion
+string including violating health content, select 1 - Sensitive and the label Harmful Health Content
+Anti-Vax
+• Vaccine misinformation
+fales hw an anert organization should be labeled as

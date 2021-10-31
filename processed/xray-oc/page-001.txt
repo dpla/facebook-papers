@@ -1,0 +1,17 @@
+XRayOC 2019a clip-based model
+FRIDAY, JUNE 21, 2019 · READING TIME: 17 MINUTES
+This is a joint note with
+Content Integrity.
+from IntegrityAI team in
+Redacted for Congress
+TL;DR: On June 14th, we have deployed a first version of our video clip-based model,
+XRayOC 2019a, for all FB traffic at upload time across all FB videos. This model features
+several concepts, among them, a new first person shooter concept aimed to provide signals
+that would help detecting new incidents like the NZ shooting. These concepts are available
+via Video Understanding Repository.
+What's new in this model
+We introduced 3 new concepts into video space: vclip_car_crashing ,
+vclip_cock_fighting, and vclip_first_person_shooting. Our new model is a head inside
+XRayCore trunk (https://fb.workplace.com/notes)
+announcing-xrayvideo-
+2018a-model/356661298419058/), finetuning from comp_13_sum_4 layer.

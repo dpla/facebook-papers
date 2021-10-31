@@ -1,0 +1,22 @@
+10% CTR Means That 90% of the Suggested Contacts are
+Potentially Irrelevant
+We are showing too many suggested contacts than users wish to add: among the 152K users
+we looked at who joined MK recently, the CTR for suggested contacts on both the "Friends and
+Family" and "Kids" friending page is only fairly low: for adults, the average CTR is 13%, and for
+kid, 12%.
+I
+As a standard smartphone screen shows around 8-9 candidates on one screen without
+scrolling, the aforementioned CTR translates to roughly 1 user on every screen as
+relevant/worth adding. Here, CTR is used as a proxy measurement for suggestion quality (see
+more below for using connections with WAT as a measure for contact quality). While we do not
+have a benchmark for what constitutes an “ideal" CTR for suggested contacts in the MK
+onboarding use case, we risk at losing new MK parents' trust if we suggest the "wrong" contact
+(which is very different from me sitting at home and scrolling through a long list of recommended
+restaurants to order from on Doordash).
+Redacted for Congress
+1 in 6 Users Added No Connections During Onboarding
+UXR research shows that in general, parents are finding 0-5 "relevant" contacts during
+onboarding. Data estimates that around 17% of the activated accounts did not send any "add"
+requests during onboarding to either the adult suggestions or the kid suggestions, meaning that
+these kids will land in their inbox with zero connections other than their parents. Further
+breakdown shows that close to half (42%) did not "add" any adult users during onboarding.

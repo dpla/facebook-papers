@@ -1,0 +1,19 @@
+Cockfighting
+• FP:
+256397441931706, 1510562725747288, 148115262862762: These are indeed
+cockfighting, but we only label positive only if one of the animals are injured or
+appear to be death. This is hard to catch since a lot of the positive samples are some
+what in a similar setting.
+a
+• FN:
+Redacted for Congress
+o
+588310181672556: This is very fast, and there's a good chance that we didn't catch
+the segment when the other rooster appeared to be death.
+• 819795338388874, 134393804307984: This should not be considered as positive
+label from our taxonomy as none of the roosters appeared to be heavily injured.
+Original NZ video
+Here's the prediction of the original NZ shooting video. We perform our classification for
+every 2-second. Here's the result of all classification if it was in production as of today using
+median_clip_max aggregation. In the below chart, the x-axis represent the clip index, and y-
+axis represents the classification score.

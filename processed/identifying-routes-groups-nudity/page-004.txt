@@ -1,0 +1,39 @@
+To answer the question, we first build a classifier that, given a list of groups joined by an user, can
+predict with high accuracy whether the user will end up joining a given target harmful group. For a
+particular user, after every group they join, we evaluate the probability of them joining a harmful
+group in the future. If this probability spikes after a group join, that is a sign that the group just
+joined might be a gateway. If this spike happens for multiple users, after joining the same group,
+we identify it as a gateway group.
+For this note, we used as the set of target groups those based in US with at least 60 content-level
+strikes for nudity and sexual activity in the month of March (source table:
+eau_nudity_sexual activity_strike_harm_source: integrity).
+What pathways lead from gateway groups to harmful nudity groups?
+source
+num
+confirmed joins
+gysj
+1326540
+1234089
+mobile_group_join
+800422
+737317
+mobile_add_members
+653997
+408187
+nf
+470540
+423893
+search
+247682
+REDACTED FOR CONGRESS
+225847
+group_mall
+239872
+207585
+newsfeed_story_header
+208814
+185000
+newsfeed_reshared_story
+202309
+182748
+SANA

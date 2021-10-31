@@ -1,0 +1,24 @@
+Civic Understanding (UXR, DS, CDS & Friends)
+September 10, 2020.
+Being a new, female user is not a great experience in most emerging
+markets
+I recently published a note about how we do not survey new users in TRIPS but should since
+they appear to have more negative experiences. At the suggestion of
+L included a cut
+by country and, at
+is suggestion, I also included a gender cut. The
+results are stark.
+In the US, women with <30d tenure on platform give -30% more USI than men. In most
+European countries the gap is closer to 10%. In ID the gap is 170%. IN, BR, AR, PH, NG and ZA
+also have gaps of over 100%.
+One possible explanation is that women simply give more USI overall in these countries and it
+has nothing to do with tenure. The other plot below shows the relative USI ratio between the
+first month on the platform and months 9-12. That plot shows that, while there are overall
+gender effects, there is also a tenure-specific factor. For instance, women in ID give 3.3x more
+USI in their first month than in months 9-12, but for men the ratio is only 2.2x.
+I have not performed this analysis on civic-specific content, but I suspect we will see a similar
+(or worse) trend. Especially since we already have evidence that women are participating less in
+civic discussions. I do not have specific remediation recommendations at this point, but would
+be interested in collaborating further.
+Source: https://fburl.com/daiquery/48unx5te
+Redacted for Congress

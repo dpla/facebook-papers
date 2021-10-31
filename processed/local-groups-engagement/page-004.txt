@@ -1,0 +1,27 @@
+1. Luddites - People that are not active in groups, and are unlikely to become active even
+if we tried our hardest. Technically - people that are not members of any active group,
+having 17<=2 and either don't have a profile picture or have joined Facebook more than
+a year ago.
+2. No - People that are not members of any active group (and are not Luddites)
+3. Light group users- People that are members of 1 to 10 active groups, and their group
+128 is no more than 7 days.
+7
+4. Medium group users - Best defined as people that are not any of the other segments
+5. Heavy group users - People that are members of at least one active group, and their
+group 128 is at least 14 days.
+With that definition, I filtered out all Luddites, and plotted in the next map the other
+segments. The more red the color, the more likely that the people living in that "pixel" to be
+in either the Medium or Heavy segments.
+2 Search for place
+30
+Grand
+REDACTED FOR CONGRESS
+кааль
+North
+Pacino
+00
+Atte
+O
+Iran
+Sude
+Chats

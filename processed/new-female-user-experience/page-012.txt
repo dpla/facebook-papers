@@ -1,0 +1,21 @@
+There are quite a lot of correlational analysis linking integrity to retention. In
+terms of causational evidence, 2 things I think of is (1) locked profiles led to
+DAP win, and (2) positive retention gain in our friending integrity holdout
+(link).
+Friending integrity for India female is one of the major areas in our India
+strategy. We are testing different integrity filters on male to female friending
+requests. We are also building a survey-based "uncomfortable friending
+classifier" to demote sketchy friending. But these are all still WIP, and we will
+have something to share later this quarter.
+Like Reply · 32w · Edited
+Write a reply...
+BOT </>
+Redacted for Congress
+Can we have the gap by USI breakdown? So that we know where is the problem
+really coming from.
+Like Reply 32w
+as it came up in our thread around win-wins for Integrity and CG
+Like · Reply 31w
+Like Reply - 29w
+Like · Reply · 29w
+D

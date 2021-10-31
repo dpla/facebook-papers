@@ -1,0 +1,26 @@
+Results
+• 35% of invites (-730K) to these harmful groups went to members after they joined one
+of the top 100 gateway groups. Of these 730K invites, 20% came from "super-inviters"
+• We did not see evidence supporting the PYMI hypothesis; roughly equal fractions of
+users between control and testing in the long-term PYMI holdout eventually joined non-
+rec groups.
+• We also did not see enough evidence to suggest that PYMK influences connections to
+harmful groups either through featuring more users as candidates or showing them
+more friend recommendations
+Mitigations
+• Introduce feature limits on super-inviters, e.g., number of bulk invites that can be sent
+out by super-inviters. We can make this more targeted by focusing only on invites going
+out to users in a gateway group but this is a more intrusive enforcement and would
+require more thought about how we communicate this intervention to the actor.
+Correlation with Non-rec groups
+Hypotheses
+• Gateway groups are themselves good predictors of non-rec groups
+Results
+REDACTED FOR CONGRESS
+• Out of the top 100 gateway groups for the nudity harm target list, 47 are correctly
+labeled non-rec; importantly, 42 of these were labeled as non-rec after the workflow
+ran. Although the model is not intended for predicting overall non-rec signal (the model
+is trained on a specific subset of harm strikes - nudity & sexual activity - and so
+would miss out on groups determined non-rec for other harms), this is nonetheless a
+strong indicator of how important the model could be as a signal upstream.
+Mitigations

@@ -1,0 +1,22 @@
+O
+452499634901094, 1421746564576717: This is somewhat considered FPS except
+the person wearing bodycam didn't fire their
+weapon.
+• 195572491124117, 1763798177016199, 642573659435039, 1479224525496259,
+1074161659301823: These are indeed FPS - all in shooting range, so there's a
+problem with quality labeling.
+• 757749764322572: There are a lot of 3rd person shooting perspective vs 1st person
+shooting perspective.
+Redacted for Congress
+• 10154193493431852: We never really see the gun from the police officer, so we
+didn't learn this right. There's gunshot present. The AED model in Video
+Understanding Engine only capture the gunshot signal score at 5.18 (see
+https://fburl.com/langtech/91n6dxm6).
+O
+566451300181755, 2068637626479813: This should be labeled as positive. Again,
+gunshot_gunfire signal from AED is not high: 0.0197, 0.03 and 0.498 respectively.
+• 935584746601531, 2068637626479813, 1025589710934367,
+10154080302733664: This is similar to the previous case, but the gunshot signal
+was a little bit higher: 0.4381, 0.498, 0.6048, 0.6435.
+O
+o 1037255302989683, 760563904140226: FPS but the gun was never fired.

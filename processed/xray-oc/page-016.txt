@@ -1,0 +1,5 @@
+Fresh evaluation dataset
+We used one week of labeled data for this evaluation.
+Redacted for Congress
+For FPS, we got around 2k contents with labels:
+ROC_AUC = 0.91495

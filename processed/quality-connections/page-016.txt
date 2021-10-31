@@ -1,0 +1,23 @@
+Notes on Data Used
+1. CTR for suggested contact analysis looks at those who created an account on PD and
+went through the onboarding flow on PD (fb_client_event).
+a. Suggested contacts (adult and kid) impression events are missing on mk_client
+events
+2. For the other analyses, we looked at users who onboarded on the MK device using an
+iOS device
+a. Created and activated on the same day (to ensure no dropoff and high intent)
+b. Between 12/01/2020 - 01/31/2021
+c. Excluding likely "adult" MK accounts (thanks for the analysis on possible
+Adult MK accounts)
+d. MK4A and Kindle logging of the MK events are missing the target_id (for
+requests sent info) for the connection requests sent during onboarding.
+Reference
+Redacted for Congress
+creation-to-action funnel analysis
+Onboarding L&L
+I
+DO NOT READ
+II
+Il
+=
+=

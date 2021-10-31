@@ -1,0 +1,33 @@
+thought your graphs are showing local group inventory
+Like · Reply · Ty
+oh nah. It is the total group inventory from user_metrics_history,
+Like - Reply - Ty
+Write a reply...
+Like Reply. Ty
+interesting reading!
+Like · Reply. Ty
+One more hypothesis for this: our local group recommendations are the bottleneck, not
+inventory.
+Like Reply ly
+can you explain this theory? too many local groups, so we recommend bad ones?
+Like · Reply · ly
+If more local group inventory isn't causing people to engage more with those groups, then either:
+1. Peoples' demand for local groups has been saturated: they're already in enough groups, and don't want to be in
+more groups.
+2. Even if we have more inventory, we don't surface that inventory to people. (le, the problem is lower down in the
+funnel.)
+3. The incremental local groups are not the types of local groups that people have demand for this is the hypothesis
+suggested in my earlier comment).
+I'd love your thoughts,
+Like · Reply ly
+REDACTED FOR CONGRESS
+.
+really interesting insights! Couple of thoughts
+on user density being negatively correlated with engagement: similar to
+s comment above, but maybe
+these communities are engaging in real life more easily, meaning that they don't have to engage online as much
+. Given that population density in rural areas is much lower, does having the same threshold for local groups (p75 to
+centroid of 25km) make sense? These groups would probably be a lot smaller, making it less likely users will engage.
+Like - Replyly. Formatted
+added thought: what were the feature importances of the model you train
+Chats

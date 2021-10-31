@@ -1,0 +1,33 @@
+There has a few public press incidents (Vox, NYTimes) this past week about FB's stance on
+climate change, and we've been getting direction from org leads to ensure Search is high
+quality on this topic.
+Planned Actions for Policy Review:
+https://fb.quip.com/5tfAAASZ9WFZ
+Climate Change - Search Integrity Response
+Quip
+3 Contments 1 Share Seen by 27
+6
+Share
+Like
+- we are ready to pull the trigger. Please let us know if you're ok with this
+approach.
+Like 42w
+FYI, plan to apply blue-verified filtering on climate change videos
+OD 2
+Like 42w
+FYI I am proposing the following regexes to Wordy block (will wait for policy
+approval):
+(.climate change/climate change.).
+• (global warming global warming.).
+• (#globalwarming|#globalwarming.).
+(#climatechange/#climatechange.).
+(#climatereality|#climatereality.).
+to turn off suggestions/hashtags related to global warming or climate change
+except the exact match.
+REDACTED FOR CONGRESS
+.
+CC
+will like to know your opinion on this!
+Like 42w Edited
+Chats
+Climat CoinsInformation contarSICLI

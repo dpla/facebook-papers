@@ -1,0 +1,18 @@
+vclip_first_person_snooting_median_clip_max ROC
+1.0
+0.8
+0.6
+Redacted for Congress
+וחבenaורובופוב
+0.4
+0.2
+ROC curve
+0.0
+0.0
+0.2
+0.8
+1.0
+0.4
+0.6
+False nositive rate
+ROC curve

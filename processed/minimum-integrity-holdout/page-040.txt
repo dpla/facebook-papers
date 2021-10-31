@@ -1,0 +1,17 @@
+MSI
+MSI does seem to be hit by Integrity. Non-message given MSI started out elevated but has
+since dropped ~0.6%. It's unclear if this is due to an explicit launch or if there was A/A bias
+and / or novelty effects. But generally, I think it's safe to say that non-message given MSI is
+down 0.2%-0.6% in production as compared to the holdout.
+news_feed:
+msi:given:non_msg:overall
+DO
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+0.696
+019
+0.2%
+0.0%
+111
+REDACTED FOR CONGRESS
+0.29%

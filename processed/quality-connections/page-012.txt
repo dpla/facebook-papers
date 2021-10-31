@@ -1,0 +1,18 @@
+Discussion Points
+We would like to end this note with some philosophical questions around onboarding and what
+we want the users to get out of onboarding:
+1. For those coming to the app for the first time, how do we balance high-intent and
+low-intent friending/invites?
+a. We know that kids' graphs are different from their parents, so how can we help
+surface better connections?
+b. Do we/should we recommend so many adult connections?
+2. Different use cases for different parents, can we personalize the onboarding flow to
+match those different use cases?
+a. For instance, can we ask
+i. Parents to tell us whom they allow their kids to talk to?
+ii. Kids to tell us who they want to talk to?
+3. Can we make the onboarding process a shared experience between parents and kids so
+that more quality connections can be established from Day 0?
+Redacted for Congress
+I
+Appendix

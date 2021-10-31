@@ -1,0 +1,31 @@
+Impact to News Ecosystem / Partners
+Given the impact on link content, much of this is on lower quality content. Low quality news
+is down -18% while high quality is up -1.3%.
+1.2983+0.2470
+3 news domains obcs:with_high_quality_news
+4 news:domains:obcs:with_low_quality news
+-18.149720.2077
+news:domains:obcs:with_med quality news
+-6.064310.1973
+If we look at partners, we tend to demote higher tier partners less.
+-10%
+-596
+09
+5%
+1096
+Delta 96
+REDACTED FOR CONGRESS
+news domains:obcs:by mp_tier by mp tier
+-6.6033+0.1938
+1 А
+-2.0602+0.4548
+А+
+-4.623120.5422
+3 B
+-9.3743+0.3511
+А С
+-5.468720.5446
+D
+-16.375920.3200
+E
+-4.94147.5209

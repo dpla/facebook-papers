@@ -1,0 +1,25 @@
+uploaded a file in the group: MK + Youth Platform Data & Analytics
+FYI.
+February 19
+Users Are Not Adding Quality Connections During Onboarding
+From New User Journey UXR studies, we have seen that our contact-selection process during
+onboarding does not set new users up for success, and users with few connections from
+onboarding churn early.
+TL;DR:
+• Our onboarding process is not helping users find quality connections: 42% users added
+no adult connections during onboarding, and 18% of the new users added zero adult or kid
+contacts during onboarding and land in the inbox with no connection other than their
+parents.
+• Suggestion-based connections added during onboarding are low quality: over two thirds
+contacts added during onboarding do not lead to a WAT in 7 days, and close to 90% of the
+contacts shown during onboarding are irrelevant.
+Redacted for Congress
+• User without connections from onboarding churn early: 30% of them were only active in
+the first week, and 40% are no longer MAU by Day 45. Helping these users find value can
+lead to a net gain of 10K US MAU per month.
+• We have an opportunity here to improve the contact-selection experience for new users:
+it's time to start rethinking about how to recommend and how to expand the contact
+inventory during onboarding.
+https://docs.google.com/.../1JILN85Q61.../edit...
+Feedback and comments are welcomed!
+CC

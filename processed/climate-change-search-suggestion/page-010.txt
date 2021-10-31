@@ -1,0 +1,42 @@
+Sensitive Categories & Keyword Entry
+1 - SENSITIVE
+QUESTIONS
+Back
+Reset
+ANSWERS
+ANSWERS
+Sensitive Word(s) in Suggestion
+(please separate multiple words with
+comma)
+• 0 - Child Exploitation
+• 1 - Self Injury
+• 2 - Violence/Credible Violence
+• 3 - Hate Speech
+Sensitive Categorization
+Child Exploitation
+1
+Self Injury
+Done [Enter)
+• 4 - Aduit Content/Sexual
+Content
+Violence/Credible Violence
+2
+DECISION
+• 5 - Profanity
+Hate Speech
+3
+• 6 - Harmful Health Content
+Adult Content/Sexual Content
+• 7 - Regulated Goods
+Profanity
+5
+• 8 - Other
+Harmful Health Content
+6
+Regulated Goods
+7
+REDACTED FOR CONGRESS
+Other (provide a reason in the
+reason box)
+DECISION
+Skip Reason

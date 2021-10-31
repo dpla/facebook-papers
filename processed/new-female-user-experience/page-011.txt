@@ -1,0 +1,26 @@
+Like Reply · 34w - Edited
+Another question: do we have data on whether these new users are dropping off
+the platform at higher levels by gender or in proportion to perceived
+harassment/USI?
+Like · Reply · 34w
+I'm preparing another analysis of the churn/retention aspect, but it will
+probably be a few weeks before that is done. tl;dr is that yes, users who give
+more USI do have worse retention on the platform.
+a
+Like Reply · 34w
+and
+I wonder whether Core growth has done some
+analysis to evaluate the impact of Integrity experiences (e.g.: as indicated by USI)
+on retention. I wonder whether tightening some of the controls (e.g.: Group
+preview feature that shows content to the user before they accept the invitation
+from the group) could improve retention for women in emerging countries (and
+some other demographics)
+Like Reply 32w
+Redacted for Congress
+1
+Like Reply · 32w
+we've definitely looked for India, looking into unwanted friending, comments,
+messaging etc for women. There's lot of correlative and some experimental
+evidence I believe between some of the work on locked profile and maybe
+even some live friending tests.
+are there any tests we can share?

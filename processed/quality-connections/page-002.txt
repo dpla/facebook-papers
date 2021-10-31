@@ -1,0 +1,23 @@
+You're suggesting
+Users Are Not Adding Quality
+Connections During Onboarding
+TL;DR
+Our onboarding process is not helping users find quality connections: 42% users
+added no adult connections during onboarding, and 17% of the new users added zero
+adult or kid contacts during onboarding and land in the inbox with no connection other
+than their parents.
+• Suggestion-based connections added are low quality: over two thirds contacts
+added during onboarding do not lead to a WAT in 7 days, and close to 90% of the
+contacts shown are irrelevant.
+User without connections from onboarding churn early: 30% of them were only
+active in the first week, and 40% are no longer MAU by Day 45. Helping these users find
+value can lead to a net gain of 10K US MAU per month.
+We have an opportunity here to improve the contact-selection experience for new
+users: rethinking about how to recommend and how to expand the contact inventory
+We can explicitly uprank inviter/inviters' kids and allow parents to search for
+non-FB friends' kids during onboarding.
+We can encourage parents to find and search for an adult contact for their kid to
+chat with, instead of recommending the parents' FB friends
+The key here is to address the mismatch between parents' and kids' graph.
+Redacted for Congress
+O

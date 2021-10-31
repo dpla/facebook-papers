@@ -1,0 +1,34 @@
+ssary of Terms
+ollowing terms and their meanings will be used throughout this guideline:
+Query: The text used to perform a search for specific results. The word(s) or phrase entered into the search engine
+(e.g. "cat videos," "pancake recipes," "Michelle Obama").
+Suggestion: The text returned by the typeahead based on the searcher's original query and information. In the image
+above, each line of text which appears below the user's original query, "survivor," is one suggestion.
+String: The characters, words, and/or phrases which make up the text of a query or suggestion. For the purpose of
+this guideline, "string" refers to the query in the Typeahead Binary Sensitive workflow, and to the suggestion in the
+Typeahead Sensitive Monitoring workflow.
+Proper Name: A name which refers to a specific person, Facebook group, Facebook page, place, brand, title, etc (ie.
+a proper noun).
+i18n: Abbreviation for "Internationalization. In this guideline, i18n refers to a workflow which rates results in
+languages other than English.
+Animal abuse: Animal abuse includes any of the following actions against an animal: Kicking, beating, or biting of an
+animal by a person; torture; imagery of animal fights which depict graphic violence, unless in the wild; animal
+slaughter in a hunting, manufacturing, or food preparation context.
+Bullying: Purposeful targeting of a private individual with intent to degrade or shame.
+Child abuse: Child abuse includes any of the following actions against a child: Kicking, beating, slapping, and/or
+stepping on a child; strangling or suffocation; drowning; biting through the skin; poisoning; forcible restraint;
+inflicting burn or cut wounds, forcible smoking, or drug/alcohol intake for a baby or toddler; tossing, rotating, or
+shaking infant (too young to stand) by the wrists/ankles, arms/legs, or neck.
+Hate crimes: a criminal act committed with a prejudiced motive targeting sensitive characteristics
+Hate Speech: Refers to content which attacks a group or individual based on any of the following protected
+characteristics: race, ethnicity, national origin, religious affiliation, caste, sexual orientation, sex or gender identity,
+serious disability or disease.
+In the context of hate speech, "attack" is defined as violent or dehumanizing speech, statements of inferiority,
+and calls for exclusion/segregation.
+• Protected group characteristics: The following characteristics are protected: race, ethnicity, national origin, religious
+affiliation, caste, sexual orientation, sex or gender identity, serious disability or disease. Hate speech includes attacks
+which target hate or harassment against individuals and groups who identify under any of these characteristics,
+• Regulated goods: Prescription drugs, non-medical drugs(eg: marijuana), animals(eg: husky, snake) and firearms (eg:
+bomb, weapon).
+REDACTED FOR CONGRESS
+o Animal sales, unless by:

@@ -1,0 +1,17 @@
+The video sampling strategy is similar as in production: Every 2-seconds, we sample
+every other frames, and choose the first 4-frames as the input of the network. Then we
+apply video-level label for each iteration.
+• The average precisions for carcrashing, cockfighting, and first-person-shooting are:
+0.45965177,0.6286166,0.6067463, respectively.
+Evaluation
+Redacted for Congress
+At Content Integrity, once we have a visual concept deployed into production, our problem
+teams will consume these signals in the following manner:
+• As we mentioned earlier, for every 2 seconds, we classify using 4 frames. Every 10
+4
+seconds, we aggregate 5 classification scores using max, median, and mean method. We
+call this clip-level score.
+• For VOD (video-on-demand), we aggregate all clip-level scores again using the three
+main aggregation methods, and we call this video-level score. Most clients will consume
+this video-level scores into their meta-classifiers, which is a classifier who'll determine if
+a content is violating or not for each problems.

@@ -1,0 +1,14 @@
+• FN:
+407105813423531, 448300042593952: These are clearly cockfighting videos, and
+even that it should be negative for cockfighting, but got labeled as positive
+carcrashing. To make sure that we didn't make any mistakes here, we looked at
+their job ids: 634977426999440 and 634977426999440 respectively. We'll follow-
+up with PDO team on this.
+Redacted for Congress
+• 2308512196085975, 2035230543266139, 1019293531593415: These are what we
+really miss. There was not a lot sign of bloods, or visible innards. We'll investigate
+more into why our model didn't catch this case.
+166929754319771: This video is a shooting scene video, and not carcrashing.
+• 264730337748628: This video is indeed carcrashing. When the incident happened,
+there was an explosion, and the visual signal to check if any person were harmed
+was incredibly hard to spot.

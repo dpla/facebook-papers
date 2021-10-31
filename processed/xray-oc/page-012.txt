@@ -1,0 +1,19 @@
+car_crasning median_clip_max ROC
+1.0
+0.8
+0.6
+Redacted for Congress
+2101 Banicnd anir
+0.4
+0.2
+ROC curve original
+ROC curve backfilled
+0.0
+0.0
+0.2
+0.8
+1.0
+0.4
+0.6
+False nositive rate
+Carcrashing: ROC curve comparison of frame-based and clip-based models

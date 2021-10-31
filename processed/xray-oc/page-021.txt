@@ -1,0 +1,19 @@
+• 10154489582223732: We never really see the gun fired, but we can infer that the
+police officer did fire his weapon.
+.
+150344069107670: We should consider this as positive. If this is not real gunshot,
+our acoustic detection system should be able to differentiate this rather than
+leaving the visual model to learn this, especially with our production frame-
+sampling mechanism.
+© 224169031590957: first-person carwash ...
+Redacted for Congress
+• FN:
+• 1043171922541322, 1775512619345470: These are clearly video games ...
+© 2005960259436760, 110233993372746, 1066813513335965, 10156761234981424,
+2058939074376355: These should be labeled as negative since they are third-
+person perspective.
+• 1003009213195604: This was edited, and even watching the footage, we didn't
+really see gunshot fired, so this is a controversial sample.
+10205343622226843: This is another hard sample. We don't really see the gun for
+the majority of the video, but there was gunshot. We should probably considered
+this sample as negative as we can capture gunshot through acoustic event detection.

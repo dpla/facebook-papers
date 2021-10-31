@@ -1,0 +1,29 @@
+If we look at partners, we tend to demote higher tier partners less.
+- 10%
+-596
+096
+5%
+1096
+news:domains:obcs:by_mp_tier, by mp_tier ***
+Delta %
+1 А
+-6.6033+0.1938
+12 A+
+-2.0602+0.4548
+3 B
+-4.623120.5422
+4 с
+-9.3743+0.3511
+5 D
+-5.4687+0.5446
+Е
+-16.375920.3200
+7 F
+-4.941427.5209
+8 None
+-12.1852+0.1418
+9 Pu
+-8.044120.9232
+REDACTED FOR CONGRESS
+Looking at individual domains, we boost lots of major publishers likely as a result of broad
+trust, but we also demote lots of major publishers like buzzfeed, popsugar, and thedodo.

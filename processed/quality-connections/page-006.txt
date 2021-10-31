@@ -1,0 +1,11 @@
+The table shows that for the 42% users did not find any relevant adults to add during
+onboarding, and this is most likely because the suggested adult contacts consist primarily of the
+parents' close FB friends. Quality adult connections for a kid user are likely a family member
+(grandpas, grandmas, older cousins etc), but they are either not on FB yet or somehow not
+surfaced during onboarding.
+Redacted for Congress
+I
+What's even more concerning is that about 25% users did not add any kid connections during
+onboarding. It is possible that these are younger kids without many established kid connections
+already on MK or users who are coming to the MK organically, so the cold start problem for
+these users are even worse.

@@ -1,0 +1,13 @@
+App Performance
+As expected, Integrity has infra costs. We should probably deprecate models that are not
+useful though so limit this.
+news_feed:infra:mf_cost:total_request_cpu_ms:overall
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+!
+1.8V
+IT
+7,
+1.8%
+REDACTED FOR CONGRESS
+1436

@@ -1,0 +1,39 @@
+Yes (although 50 means 0.50), so there are deltoid metrics of this type for various thresholds (0.5
+0.5, 0.85, 0.9, and 0.95) for the graphic violence, borderline hate, and hate speech classifiers.
+Like Reply 2y
+Thanks!
+as light weight PD metrics.
+maybe we can leverage these deltoid metrics for your AB testing
+Like · Reply · 2y
+We have a labellel based d3 tag for misinfo look at 'misinfo_user_vpv_7_lag!. It has VPVS for links
+where we wait 7 days to get labels.
+It is not surprising to me to hear that oCQ is not a strong lever at reducing hate/N&P. These seem to be opposit...
+See More
+Like Reply. 2y
+11
+For my understanding: This relates to holdout of people -- right? So, I wonder how virality impacts these
+numbers. If the holdout is a small percentage, then a successful clickbait headline might work well for the holdout -- but it
+has a much harder time becoming viral. So I assume that the real impact of the demotion is higher for things that are
+highly dependent on viral growth. Is that right? And if so, can this be corrected for?
+Like · Reply 2y
+2
+Yes that intuition is correct and this analysis does not account for downstream impact; we are
+working to account for that in integrity metrics and to measure that in our holdouts. Will keep you posted when we
+have something there. is leading the charge here and porting over some of the downstream work that
+Relevance has pioneered.
+Like · Reply · 2y
+2
+Sorry if this is basic, is there anywhere I can read more about which integrity
+Super interesting
+features we're holding users out from?
+11
+Like · Reply · 2y
+REDACTED FOR CONGRESS
+It's not documented publicly unfortunately, but the gist is we are removing clickbait rules, ad farm
+rules, engagement bait rules, broad trust, hqe, soft demotions. I can share specifics privately. Will ping.
+Like Reply · 2y
+Thanks!
+Like Reply 2y
+you could use this experiment for your project? Though the treatment is a mix of lots
+of atomic treatments so I'm not sure this will help untangle causal relationships.
+Chate

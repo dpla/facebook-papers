@@ -1,0 +1,31 @@
+2 - VIOLENCE/CREDIBLE VIOLENCE
+This includes queries / suggestion strings related to violence, or credible acts of violence. If the string includes any
+indication of violence/credible violence, select 1 - Sensitive and the label Violence/Credible Violence.
+Explicit Violence
+• Strings related to violence against real people or animals
+o eg. "beheading videos", "ho
+to kill a dog
+o eg. "waterboarding videos"
+oeg. "fight cam
+Credible Violence includes, but is not limited to queries / suggestions which:
+2
+• Contain credible statement of intent or threat to commit or incite violence against any person groups of people, or
+place (city or smaller).
+o Credibility is based on the information available,
+Generally, a statement of violence is credible if it contains a target (person, group of people, or place), and two
+or more of the following (can be two of the same detail):
+Location
+Timing
+- Method
+• Contain any statement of intent to commit or incite violence against a vulnerable person (identified by name, title, or
+other reference) or vulnerable group including (but not limited to) heads-of-state, witnesses and confidential
+informants, activists, and journalists.
+• Seek information which could lead to credible violence, such as instructions on how to make or use weapons and/or
+explosives, UNLESS there is clear context that the intent is for a non-violent purpose (e.g. fireworks)
+e.g "how to make a bomb"
+• Relate to promoting acts of terrorism, or in relation to terrorist organizations
+eg. "how to join isis". "isis killing children", "kkk hangs black girl"
+• Contain intent, calls for action, or advocating for violence due to the outcome of an election
+• Violent term(s) media type (i.e. "photos", "videos", "live stream") are sensitive
+salina live stream" "walmart shooting videos
+REDACTED FOR CONGRESS

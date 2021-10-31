@@ -1,0 +1,118 @@
+Linguage
+Suggestion String
+Label Decision
+Sensitive Category (if
+applicable)
+0-Child Exploitation
+gay teen boys videos
+1 - Sensitive
+11
+12
+sex and the city
+girls assets
+japanese massage videos
+twerkers paradise
+2 - Acceptable
+2 - Acceptable
+2- Acceptable
+2 - Acceptable
+13
+15
+xxx return of Xander cage full hd movie
+2 - Acceptable
+16
+jack 1994
+2- Acceptable
+2. Acceptable
+Explanation
+The string rererences anna sexcar exploitatom smce we cannor de
+sure "teen" refers to 18 or 19 year olds, the correct category is Child
+Exploitation
+The string refers to a mainstream television show
+The string is not explicitly sexual in nature
+The string is not explicitly sexual in nature.
+A side search shows that there is a song called twerkers paradise" so
+this is not considered a sensitive string
+Though "xxx often refers to topics of an adult nature, a side search
+shows that this string refers to a film and is not sensitive in nature
+The string contains no sensitive content
+The string contains a proper name which does not appear to be the
+name of a porn star, or otherwise sensitive in nature
+The string contains a proper name, which does not appear to be the
+name of a porn star, or otherwise sensitive in nature
+The string is a proper name. Although "les miserables" is French and
+the rest of the string is in English, this is the title of a famous play and
+does not contain anything sensitive.
+The string is a first name with last name initial This is a proper name
+which does not appear to be the name of a pom star or otherwise
+sensitive in nature.
+The string refers to a movie which has sexual undertones. However:
+this string is not considered adult content/sexual content
+17
+hayley anderson nester photos
+18
+jonathan fields
+2 - Acceptable
+19
+les miserables showtimes san francisco
+2. Acceptable
+a
+20
+michael h
+2 - Acceptable
+21
+fifty shades darker
+2. Acceptable
+<
+22
+i18n
+23
+Arabic
+REDACTED FOR CONGRESS
+2 - Acceptable
+mansoura news - أختار لعنتورو
+24
+Arabic
+noor al sabah
+2-Acceptable
+25
+French
+mont Saint Michel
+Raters working in 118n workflows should not skip for strings with
+English Both Arabic and English are considered ok to rate in the
+Arabic workflow. The string does not appear to be sensitive in nature.
+Arabic-speaking users aften search using transiterations Raters
+working in i18n workflows should not skip for English, or for special
+cases of transliteration such as this one.
+The correct spelling is actually "mont-saint-michel", but even though
+this suggestion string lacks the correct hyphens, it is still
+understandable (ie the meaning has not been altered). This idea
+also applies to names like anne sophie or "jean-jacques which
+have hyphens, but would still be considered non-sensitive proper
+names
+The string is missing the proper accents, but this does not change the
+meaning of the text, which does not appear sensitive in nature.
+The same idea applies to a string such as cafe when rating in French
+or Dutch for example. Even though the correct spelling is café
+including an accent, we can still understand that the meaning of the
+string is not sensitive
+2. Acceptable
+26
+Greek
+Αννα Μαρία
+2.- Acceptable
+27
+Indonesian
+bigo live telanjang
+1 - Sensitive
+4 - Adult Sexual
+Content
+The string indicates intent to seek sexual content("naked").
+The string is missing the proper accents, but this does not change the
+meaning of the text, which does not appear sensitive in nature
+The same idea applies to a string such as cate" when rating in French
+or Dutch for example. Even though the correct spelling is cafés
+28
+Romanian
+maria cretu
+2- Acceptable

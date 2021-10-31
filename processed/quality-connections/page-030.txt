@@ -1,0 +1,27 @@
+Like Reply - 11W
+Are the data specific to MK onboarding or PD onboarding is also included?
+18% of the new users added zero adult or kid contacts during onboarding and
+land in the inbox with no connection other than their parents
+Wondering how many of the 18% are likely adults(https://fburl.com/qk8uznxa)?
+Agree there definitely room to improve but just want to make sure we are not
+focusing on people such as parents who are just checking out the app
+1
+Like Reply - 11w Edited
+I looked at MK onboarding and excluded the likely adults from the analysis.
+Yes - I think for the activation efforts for this half, it also makes sense to only
+target those who are more likely to be real kid accounts.
+be 2
+Like · Reply 11w
+Redacted for Congress
+Like Reply
+Write a comment...
+801 </>
+Quality Analyser - Test Recommender Users
+April 9
+New Test Recommendation for JavaScript Beta Release
+To follow up on the previous post, I have completed the development for new test
+recommendation on JavaScript
+Check out the recommendation for your team with bunnylol "trex new"
+Chats
+More work pending in this area includes exploring valid invalid files to in
+5

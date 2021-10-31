@@ -1,0 +1,26 @@
+• Method
+Contain any statement of intent to commit or incite violence against a vulnerable person (identified by name, title, or
+other reference) or vulnerable group, including (but not limited to) heads-of-state, witnesses and confidential
+informants, activists, and journalists.
+• Seek information which could lead to credible violence, such as instructions on how to make or use weapons and/or
+explosives, UNLESS there is clear context that the intent is for a non-violent purpose (e.g. fireworks),
+eg "how to make a bomb"
+• Relate to promoting acts of terrorism, or in relation to terrorist organizations:
+o eg "how to join isis", "isis killing children", "kkk hangs black girl"
+• Contain intent, calls for action, or advocating for violence due to the outcome of an election
+• Violent term(s) + media type (i.e. "photos", "videos", "live stream") are sensitive
+di "walmart shooting live stream", "walmart shooting videos
+Do not rate the following as Violence/Credible Violence. Queries / suggestion strings which:
+• Reference fictional violence, such as from video games:
+oe.g. "make bombs witcher 3", "kill dogs resident evil"
+• Relate to pest eradication:
+o e.g. "how to kill cockroaches"
+. Are too short to determine whether the intent is violence:
+o e.g. "kill", "gun", "strangle", "firearms"
+• Seek factual, educational, or newsworthy information:
+e.g mass killings in us", "isis winning in syria", "isis attack nyc", "active shooter now", "walmart shooting"
+REDACTED FOR CONGRESS-
+3 - HATE SPEECH
+This includes queries / suggestions which are hateful against a protected group, or an individual, and/or praising hate
+groups or ideologies. If the query / suggestion string includes any hate speech, select 1. Sensitive and the label Hate
+Speech

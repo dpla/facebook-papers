@@ -1,0 +1,36 @@
+In both the user-segment task, and in the MP prediction task, the number of nearby local
+groups is actually having a negative weight, which is significantly below o. Obviously, I'm not
+claiming that more local groups cause less engagement with groups overall - this is just a
+correlation. But, I am now skeptical of any efforts to increase the number of local groups in
+hopes of increasing engagement. Following this analysis, I believe that the number of
+local groups available to the user is uncorrelated with the user's engagement.
+coef
+std err
+Z
+P>[z] [0.025 0.975]
+intercept
+-2.3925
+0.019 -124.447 0.000
+-2.430 -2.355
+5.1463
+baseline probability
+0.018
+291.186 0.000
+5.112
+5.181
+0.002
+-12.859
+0.000
+log(nearby local groups) -0.0302
+-0.035
+-0.026
+Linear model fitted to predict being in the heavy/medium user segments, showing
+that local groups has a significantly negative coefficient with engagement
+Closing Notes
+I started this analysis hoping that I will be able to identify unengaged sub-populations, that
+will benefit from us creating more local groups dedicated for them. I conclude with a somber
+realization that this might be too optimistic, and being engaged with groups is not as strongly
+correlated, at least in the US, with available inventory.
+REDACTED FOR CONGRESS
+CC:
+for inventory - is our GYSC approach, looking to Chats

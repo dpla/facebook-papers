@@ -1,0 +1,26 @@
+Closing Notes
+I started this analysis hoping that I will be able to identify unengaged sub-populations, that
+will benefit from us creating more local groups dedicated for them. I conclude with a somber
+realization that this might be too optimistic, and being engaged with groups is not as strongly
+correlated, at least in the US, with available inventory.
+CC:
+for inventory - is our GYSC approach, looking to create local
+groups a bit too optimistic?
+|- on whether connecting more users from the low-
+engagement segments limited by demographics.
+Thanks
+for the discussions around this note.
+My Python notebook with the results listed above is at n156946
+REDACTED FOR CONGRESS
+ood
+43
+42 Comments 8 Shares
+Like
+Comment
+Share
+Save
+View 10 more comments
+really interesting insights! Couple of thoughts
+on user density being negatively correlated with engagement: similar to
+'s comi Chats
+these communities are engaging in real life more easily meaning that they don't have to enga

@@ -1,0 +1,28 @@
+Like · Reply · 1y
+Redacted for Congress
+We don't know the exact volume at this point, and we think this is going to be incredibly small
+Our first stage is to provide visual understanding (and probably improve audio recognition) for such detection system.
+At this stage, our focus is not to determine if a video is actually violating or not. Our next stage is going to buy a
+classifier which will gather all knowledges that we know about such content and will determine if it is violating, and this
+will be the front-line detection for such violating videos, and this effort is led by
+team. Note that for all of these
+effort, we are tackling live videos. Real Time Integrity Working Group is probably the best place to learn more about our
+work in terms of operationalizing live video problems.
+For VOD, we are in the discussion with Graphic Violence team to incorporate such signals into their video violence
+classifier (cc
+We expect this to be done in Q3.
+3
+Like · Reply · 1y. Formatted
+Cool, thanks for additional info! Sounds like I'm jumping the gun & the next step will be to incorporate
+these learnings into a violating classifier.
+Like · Reply · 1y
+1
+Really interesting work, and great to see the progress.!
+Bad
+LIKE Reply
+n GO
+Great write-up! Any chance you could re-attach the Unicorn query link? Looks like it's stale. I'm also
+working on collecting egocentric videos (in a different context).
+Like · Reply - Ty
+Followed up offline :)
+Like · Reply · ly
