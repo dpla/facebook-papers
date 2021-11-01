@@ -18,7 +18,7 @@ def process_pdf(pdf_file, slug):
     )
 
 
-if __name__ == "__main__":
+def main():
     with open('manifest.json', 'r') as manifest_file:
         data = manifest_file.read()
 
@@ -29,3 +29,7 @@ if __name__ == "__main__":
         file = item['file']
         mkdir(slug)
         process_pdf(file, slug)
+
+
+if __name__ == "__main__":
+    main()

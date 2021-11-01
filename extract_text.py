@@ -58,7 +58,7 @@ def main():
         #  write out the document full text
         with open(f"processed/{slug}/{slug}.txt", "w") as output_file:
             output_file.write("\n".join(full_texts))
-            
+
 
 if __name__ == "__main__":
     main()
