@@ -1,0 +1,963 @@
+Shermans
+Denton
+Fort Worth
+Dallas
+Longview
+Shr
+Tyler
+TEXAS
+Waco
+Lufkin
+Killeen
+Round Rock
+North Cleveland
+Austin
+Beaumor
+REDACTED FOR CONGRESS
+Houston
+San Antonio
+Likelihood of being in the Heavy/Medium user segments (Luddites are filtered).
+Detail.
+
+Shermany
+Lubbock
+Denton
+Dallas
+Abilene
+Tyler
+Midland
+Are local groups bad for engagement?
+TUESDAY, OCTOBER 15, 2019 - READING TIME: 7 MINUTES
+In this note I present four loosely connected results stemming from one analysis:
+REDACTED FOR CONGRESS
+1. Engagement with groups has clear geographical patterns
+2. In the US - city dwellers are less engaged in groups
+3. Overall, in the US, demographics is a good predictor of group engagement
+4. The number of local groups near a person is negatively correlated with
+engagement
+Chats
+
+In this note I present four loosely connected results stemming from one analysis:
+1. Engagement with groups has clear geographical patterns
+2. In the US - city dwellers are less engaged in groups
+3. Overall, in the US, demographics is a good predictor of group engagement
+4. The number of local groups near a person is negatively correlated with
+engagement
+Engagement with groups has clear geographical patterns
+I've started my analysis with a goal of finding sub-populations underserved by the current
+groups ecosystem. My thinking was that by finding such clusters of low engagement, we
+might be able to create or promote the creation of groups dedicated to those populations.
+Hopefully, such a concentrated effort will be more effective in identifying inventory-gaps.
+a
+The groups connect team segmented the population of FB users in the following way:
+1. Luddites - People that are not active in groups, and are unlikely to become active even
+if we tried our hardest. Technically - people that are not members of any active group,
+having 17<=2 and either don't have a profile picture or have joined Facebook more than
+REDACTED FOR CONGRESS
+a year ago.
+2. No - People that are not members of any active group (and are not Luddites)
+3. Light group users- People that are members of 1 to 10 active groups, and their group
+128 is no more than 7 days.
+Chats
+
+1. Luddites - People that are not active in groups, and are unlikely to become active even
+if we tried our hardest. Technically - people that are not members of any active group,
+having 17<=2 and either don't have a profile picture or have joined Facebook more than
+a year ago.
+2. No - People that are not members of any active group (and are not Luddites)
+3. Light group users- People that are members of 1 to 10 active groups, and their group
+128 is no more than 7 days.
+7
+4. Medium group users - Best defined as people that are not any of the other segments
+5. Heavy group users - People that are members of at least one active group, and their
+group 128 is at least 14 days.
+With that definition, I filtered out all Luddites, and plotted in the next map the other
+segments. The more red the color, the more likely that the people living in that "pixel" to be
+in either the Medium or Heavy segments.
+2 Search for place
+30
+Grand
+REDACTED FOR CONGRESS
+кааль
+North
+Pacino
+00
+Atte
+O
+Iran
+Sude
+Chats
+
+Search for place
+Free
+North
+Atlantic
+Ocean
+China
+Racitie
+Conta
+Brat
+Ocean
+User Segment
+south
+Alantic
+Donan
+South
+Pacitic
+Dean
+South
+0.682
+0.014
+ORO
+Zoom: 1
+Likelihood of being in the Heavy/Medium user segments (Luddites are filtered)
+It's not super surprising to see that groups-engagement, like overall FB-engagement is very
+much dependent on geography. Still, it's interesting to note that the effort led by the groups
+connect team, to push NO/Light users into more engaged segments, means as a matter of
+fact, focusing on some specific countries.
+REDACTED FOR CONGRESS
+In the US - city dwellers are less engaged in groups
+Chats
+
+In the US - city dwellers are less engaged in groups
+Focusing on the US, one thing is apparent, even in the map above - people living near the
+coast are less engaged with groups in comparison to people living in the heartland. Zooming
+in on Texas reveals another interesting pattern:
+Shermany
+Denton
+Fort Worth
+Dallas
+Longview
+-Shr
+Tyler
+TEXAS
+REDACTED FOR CONGRESS
+Waco
+Lulkini
+Killeen
+Round Rock
+North Clevela
+Chats
+
+Shermany
+Denton
+Fort Worth
+Dallas
+.Longview
+Shr
+Tyler
+TEXAS
+Waco
+Lufkin
+Killeen
+Round Rock
+North Cleveland
+Austin
+Beaumor
+Houston
+REDACTED FOR CONGRESS
+San Antonio
+Likelihood of being in the Heavy/Medium user segments (Luddites are filtered).
+Detail.
+Chats
+
+The big population areas are less engaged with groups than the peripheries. We can see it in a
+more objective way in the following graph, plotting likelihood of engagement (and likelihood
+of being MP) as a function of user density:
+high engagement
+being MP
+0.60
+055
+050
+0.45
+probability
+0.40
+035
+0.30
+0.25
+10
+density of people near you
+Probability of engagement in groups vs. user density
+REDACTED FOR CONGRESS
+This brings up some questions and a few possible explanations.
+a
+for example is working
+on a more substantial analysis linking group engagement with social capital. I won't try to
+fully explain why people in big cities are less engaged with groups. I'll note though that user
+density is also negatively correlated with overall 128 at Facebook and likelihood of being
+exposed to GYSJ, though the correlation is not as strong as in the above graph.
+Chats
+
+This brings up some questions and a few possible explanations. for example is working
+on a more substantial analysis linking group engagement with social capital. I won't try to
+fully explain why people in big cities are less engaged with groups. I'll note though that user
+density is also negatively correlated with overall 128 at Facebook and likelihood of being
+exposed to GYSJ, though the correlation is not as strong as in the above graph.
+Overall, in the US, demographics is a good predictor of
+group engagement
+Given that user-density is correlated with group engagement, a natural follow-up question is
+how much can we predict group-engagement given only user demographics features. Or
+more succinctly - can we predict group engagement without using any group
+related features?
+Surprisingly the answer for US based users is yes. Given only user demographics
+features, group engagement and MP status can be predicted with high accuracy.
+This result (which was known to some people) is interesting on its own - it suggests that the
+efficacy of our efforts to make people more engaged, or to create more meaningful people, is
+somewhat limited by demographics.
+REDACTED FOR CONGRESS
+Specifically we define two classification tasks:
+1. Is a US user in the High/Medium user segments (versus the No and Light ones, ignoring
+Luddites)?
+2. Does a US user have a meaningful connection with any group - that is, are they
+meaningful people.
+Chats
+
+Specifically we define two classification tasks:
+1. Is a US user in the High/Medium user segments (versus the No and Light ones, ignoring
+Luddites)?
+2. Does a US user have a meaningful connection with any group - that is, are they
+meaningful people.
+As features I use the following - li, 17, 128, number of friends, nearby user density, facebook
+age, age, gender and mobile OS. Note again that I don't include any features related to
+groups, like "number of groups that is user is member of”. I fit a GBDT for the two tasks,
+without
+any fine tuning or metaparameter search (just sklearn's defaults).
+When predicting user segment, the model gets AUC=0.81, meaning given two random users,
+one is highly engaged with groups, one is not, we'll be able to identify which is which 81% of
+the times. The accuracy is 73%, while a constant model would get 51%. L28 and friend count
+are the most important features.
+Predicting MP is a bit harder, but we still get AUC=0.79. The accuracy of the model is 74%,
+while a constant model would get a 67%.
+REDACTED FOR CONGRESS
+The number of local groups near a person is negatively
+correlated with engagement
+Finally, let's look at whether more local groups is better for engagement. Obviously, given
+that user-density is negatively correlated with engagement, we can expect tha
+Chats
+
+The number of local groups near a person is negatively
+correlated with engagement
+Finally, let's look at whether more local groups is better for engagement. Obviously, given
+that user-density is negatively correlated with engagement, we can expect that local group-
+density is negatively correlated with engagement. That is, in big cities, there are many local
+groups, but users are less engaged.
+To control for user-density and other demographics factors, I use the following procedure:
+1. Take the classifier described in the last section and for a new set of users predict
+"baseline" engagement probability, without knowledge of the number of nearby local
+groups.
+2. Train a new classifier (logistic regression), using the baseline probability from (1) and
+the (log) number of active local groups near the user, trying to predict engagement.
+3. Observe the weight the model gives to the number of active local groups.
+[technical note - by active local groups I mean public or closed, non BSG, groups whose p75
+distance from their centroid is less than 25KM, and having at least 3 distinct users posting or
+commenting in the last week. We're counting how many such groups are within 25KM of the
+REDACTED FOR CONGRESS
+user
+In both the user-segment task, and in the MP prediction task, the number of nearby local
+groups is actually having a negative weight, which is significantly below o. Obviously, I'm not
+claiming that more local groups cause less engagement with groups overall - this is just a
+correlation. But, I am now skeptical of any efforts to increase the number of l Chats
+
+In both the user-segment task, and in the MP prediction task, the number of nearby local
+groups is actually having a negative weight, which is significantly below o. Obviously, I'm not
+claiming that more local groups cause less engagement with groups overall - this is just a
+correlation. But, I am now skeptical of any efforts to increase the number of local groups in
+hopes of increasing engagement. Following this analysis, I believe that the number of
+local groups available to the user is uncorrelated with the user's engagement.
+coef
+std err
+Z
+P>[z] [0.025 0.975]
+intercept
+-2.3925
+0.019 -124.447 0.000
+-2.430 -2.355
+5.1463
+baseline probability
+0.018
+291.186 0.000
+5.112
+5.181
+0.002
+-12.859
+0.000
+log(nearby local groups) -0.0302
+-0.035
+-0.026
+Linear model fitted to predict being in the heavy/medium user segments, showing
+that local groups has a significantly negative coefficient with engagement
+Closing Notes
+I started this analysis hoping that I will be able to identify unengaged sub-populations, that
+will benefit from us creating more local groups dedicated for them. I conclude with a somber
+realization that this might be too optimistic, and being engaged with groups is not as strongly
+correlated, at least in the US, with available inventory.
+REDACTED FOR CONGRESS
+CC:
+for inventory - is our GYSC approach, looking to Chats
+
+Closing Notes
+I started this analysis hoping that I will be able to identify unengaged sub-populations, that
+will benefit from us creating more local groups dedicated for them. I conclude with a somber
+realization that this might be too optimistic, and being engaged with groups is not as strongly
+correlated, at least in the US, with available inventory.
+CC:
+for inventory - is our GYSC approach, looking to create local
+groups a bit too optimistic?
+|- on whether connecting more users from the low-
+engagement segments limited by demographics.
+Thanks
+for the discussions around this note.
+My Python notebook with the results listed above is at n156946
+REDACTED FOR CONGRESS
+ood
+43
+42 Comments 8 Shares
+Like
+Comment
+Share
+Save
+View 10 more comments
+really interesting insights! Couple of thoughts
+on user density being negatively correlated with engagement: similar to
+'s comi Chats
+these communities are engaging in real life more easily meaning that they don't have to enga
+
+Like Reply: Ty
+Would love to hear from you
+and
+why people in big cities are less
+engaged with groups! (even an initial set of hypotheses which still need proving out)
+Like · Reply · 1yEdited
+2
+Does this relate at all to the Facebook app in flyover states vs. coastal correlation with
+sessions/TS/DAP?
+Like · Reply. Ty
+2
+"flyover states" is a true coastal elite phrase
+Like · Reply · 1y
+My hypothesis is that people in cities have compelling offline alternatives to whatever value FB
+Groups provide. But that seems a bit simplistic.
+Like Reply. Ty
+I was actually thinking the same thing, but also maybe that other online options (Meetup,
+Neighborly, etc) work better for higher population density areas.
+has any of your research on competitors looked into City vs. Rural usage that would validate/invalidate
+this hypothesis? If this is true, it opens up an entirely new area of work
+Like · Reply - Ty
+My intuition is that other online options such as Meetup, Neighborly, etc. are too small to
+account for the majority of the difference. If I recall correctly, the population penetration for those products is quite
+low and the time spent per DAP is also low. I haven't tried quantifying that though. Would be super interesting to see
+the total TS for competing online products vs the FB Group delta between city vs non-city.
+Like Reply. Ty
+REDACTED FOR CONGRESS
+Agree w/ that competitors aren't driving the difference, but still helpful to look at. What we see
+is that U.S. Nextdoor users are much less likely to be rural vs. FB overall in U.S. (https://fburl.com/daiquery/5197hv8h).
+We've also seen that overall FB app (or I don't have Groups) usage (L7, sessions) is stronger on average
+when users are also using Nextdoor. Again, my interpretation is that it's not about a specific competitor, but does
+speaks to our having really strong PMF in less dense areas in U.S.
+Like Reply - ly
+nextdoor u.s. pop'In density sample for those interested
+Chats
+
+LIKE
+Agree w/ that competitors aren't driving the difference, but still helpful to look at. What we see
+is that U.S. Nextdoor users are much less likely to be rural vs. FB overall in U.S. (https://fburl.com/daiquery/5197hv8h).
+We've also seen that overall FB app (or I don't have Groups) usage (L7, sessions) is stronger on average
+when users are also using Nextdoor. Again, my interpretation is that it's not about a specific competitor, but does
+speaks to our having really strong PMF in less dense areas in U.S.
+Like ReplyTy
+nextdoor u.s. pop'in density sample for those interested
+Nextdoor U.S. users by geo population
+8888
+Like · Reply · ly
+fb u.s. pop'in density sample for those interested. cc Steve who was also asking about this
+Facebook US users by city population
+REDACTED FOR CONGRESS
+000
+Like Reply - Ty
+Write a reply...
+СС
+Like Reply. Ty
+Icc
+on demographics being a good predictor of a group (popular groups, category
+UIP)
+Chats
+Israel.could this suggestithat our recommendations are currently biased at nanging only certain a
+
+160
+180
+0
+Save
+<10,000
+10000 - 20000
+20000 - 30000
+30000 - 40000
+40000 - 50000
+50000 - 60000
+60000 - 20000
+70000 - 80000
+80000 - 90000
+90000 - 100000
+100000 - 110000
+110000 - 120000
+120000 - 130000 =
+Nextdoor # U.S. users by geo population
+130000 - 140000
+140000 - 150000 -
+150000 - 250000
+250000 - 350000
+-
+350000 - 450000
+450000 - 550000
+550000 - 650000
+650000 - 750000
+750000 - 850000
+850000 - 950000
+950000
+REDACTED FOR CONGRESS
+
+1000
+2000
+3000
+4000
+5000
+6000
+<10,000
+10000 - 20000
+20000 - 30000 -
+30000 - 40000
+40000 - 50000
+50000 - 60000
+60000 - 70000
+70000 - 80000
+80000 - 90000
+90000 - 100000
+100000 - 110000
+110000 - 120000
+120000 - 130000
+130000 - 140000
+140000 - 150000
+Facebook #U.S. users by city population
+150000 - 250000
+250000 - 350000
+350000 - 450000
+450000 - 550000
+550000 - 650000
+650000 - 750000
+750000 - 850000
+850000 - 950000
+950000
+REDACTED FOR CONGRESS
+
+СС
+Like · Reply-Ty
+CC
+on demographics being a good predictor of a group (popular groups, category
+UIP)
+could this suggest that our recommendations are currently biased at engaging only certain demographics? Is it a
+chicken/egg problem?
+Like · Reply - Ty Edited
+they are, but not sure how is it a chicken and an egg scenario - if people become less engaged, they are
+more likely (with recent changes) to be targeted by our recommendations. So the feedback loop should be broken?
+Like · Reply · ty
+for # of local groups near a person as negatively correlated with engagement
+Like · Reply ly
+Interesting reading. I assume by saying looking to create more local group is too optimistic, you mean # local
+contributes little to none(or even negative) to likelihood of engagement. I wonder if it's possible #local groups could
+actually attract more users to group and then absolute number of engaged people would increase given lower likelihood of
+engagement
+Like Reply · 1y
+Good point!
+When doing the same procedure just to predict No users, there's still a positive correlation between number of local-
+groups and being a NO. Since NO are not necessarily users that know about groups, I think your idea doesn't explain
+everything we see here.
+Like · Reply ly
+REDACTED FOR CONGRESS
+Super interesting analysis! I wonder if the reason for this effect is that people in cities have a different
+demand for different types of groups. Eg, people in rural areas might have a high demand for general neighborhood groups
+(we know this from research!), while people in cities have a higher demand for organization, interest, and identity x local
+groups.
+I'd be interested to see this analysis broken down by group type to confirm this (I don't think we have a good existing model
+to predict if a group is local interest, identity, organization, culture, or neighborhood, which might make it tough). I'd expect
+to see that rural areas have high demand for neighborhood groups, while cities have high unmet demand for local x
+something groups. (cc
+for this hypothesis.)
+Second hypothesis: people in cities use other apps instead of Groups, like Meetup, Eventbrite, and Reddit. (cc
+for this hypothesis.)
+Like Reply. Ty
+Chats
+
+Super interesting analysis! I wonder if the reason for this effect is that people in cities have a different
+demand for different types of groups. Eg. people in rural areas might have a high demand for general neighborhood groups
+(we know this from research!), while people in cities have a higher demand for organization, interest, and identity x local
+groups.
+I'd be interested to see this analysis broken down by group type to confirm this (I don't think we have a good existing model
+to predict if a group is local interest, identity, organization, culture, or neighborhood, which might make it tough). I'd expect
+to see that rural areas have high demand for neighborhood groups, while cities have high unmet demand for local x
+something groups. (cc
+for this hypothesis.)
+Second hypothesis: people in cities use other apps instead of Groups, like Meetup, Eventbrite, and Reddit. (cc
+for this hypothesis.)
+3
+Like · Reply · ly
+Hide 15 Replies
+I'm actually dying to see how such a map looks for instagram
+Like · Reply · 1y
+might have some thoughts on that one?
+Like · Reply · 1y
+what do you mean by "map for Instagram"? Because Instagram doesn't have the
+analogous Groups product... If we were just looking at DAP or Time Spent I would surely do better in the coastal
+areas.
+Like · Reply · 1y
+Example: https://fb.workplace.com/photo.php?
+fbid=519981488475233&set=p.519981488475233&type=3&theater
+REDACTED FOR CONGRESS
+Like · Reply · 1y Edited
+yeah, I meant some arbitrary engagement metric. The link you posted is
+broken for me though.
+Chats
+Rapis 12
+
+Super interesting analysis! I wonder if the reason for this effect is that people in cities have a different
+demand for different types of groups. Eg. people in rural areas might have a high demand for general neighborhood groups
+(we know this from research!), while people in cities have a higher demand for organization, interest, and identity x local
+groups.
+I'd be interested to see this analysis broken down by group type to confirm this (I don't think we have a good existing model
+to predict if a group is local interest, identity, organization, culture, or neighborhood, which might make it tough). I'd expect
+to see that rural areas have high demand for neighborhood groups, while cities have high unmet demand for local x
+something groups. (cc
+for this hypothesis.)
+Second hypothesis: people in cities use other apps instead of Groups, like Meetup, Eventbrite, and Reddit. (cc
+for this hypothesis.)
+3
+Like · Reply · 1y
+Hide 15 Replies
+I'm actually dying to see how such a map looks for instagram
+Like · Reply · 1y
+might have some thoughts on that one?
+Like · Reply - Ty
+what do you mean by "map for Instagram"? Because Instagram doesn't have the
+analogous Groups product... If we were just looking at DAP or Time Spent I would surely do better in the coastal
+areas.
+Like Reply 1y
+(PM) Example: https://fb.workplace.com/photo.php?
+fbid=519981488475233&set=p.519981488475233&type=3&theater
+REDACTED FOR CONGRESS
+Like · Reply · 1y. Edited
+yeah, I meant some arbitrary engagement metric. The link you posted is
+Chats
+broken for me though.
+Like Reply. ly
+
+Save
+United States
+REDACTED FOR CONGRESS
+Gull of
+Mexico
+Mexico
+X
+
+ONTARIO
+Timmipes
+u Sle, Marie
+North Bay
+REDACTED FOR CONGRESS
+lington
+Bermuda
+My
+Bahamas
+
+Brandon
+Winnie
+ONTARIO
+Unternational
+Falls
+Thunder Bay
+Minot
+NORTH
+DAKOTA
+Fargo
+Saul Ste Marie
+North
+SOUTH
+DAKOTA
+Sigux
+NEBRASKA
+United States
+Archio
+Organs
+REDACTED FOR CONGRESS
+Çor
+Gull of
+Mexico
+Mexico
+
+Regina
+Brandon
+Winning
+International
+Falls
+Minot
+Great Falls
+NORTH
+DAKOTA
+Fargo
+Missouta
+MONTANA
+Holana
+Billiggs
+SOUTH
+DAKOTA
+DAND
+loyXF
+WYOMING
+NEBRASKA
+Cheyenne
+Salt Lake City
+NEVADA
+United States
+Strict
+NEW
+MEXICO
+REDACTED FOR CONGRESS
+Fusstatt
+Amarillo
+HUAHUX
+COAHUD
+M
+Mexico
+Mellan
+
+P Save
+Regina
+Vancou
+WASHIMOTOM
+Great Falls
+Spoki
+Missouta
+MONTANA
+Holona
+Billings
+panna
+DAHO
+OREGON
+WYOMING
+Chevenne
+Salt Lake City
+NEVADA
+Santa Barbar
+Flagstaff
+ARIZONA
+THEW
+MEXICO
+sand
+Pho
+REDACTED FOR CONGRESS
+SONDRA
+AHUN
+Mexico
+Mattin
+
+October 10, 2018
+There's a new feature (still in beta) that allows
+one to divide any metrics in Geolnsights by each
+other. Here's what a map of Instagram for iOS
+Time Spent/FB Blue Time Spent looks like.
+Coasts pop out very clearly. (The darkest spots
+on that map have iOS IG Time-Spent that's 50%
+of the Blue Time-Spent (across interfaces)).
+4
+0 Like
+REDACTED FOR CONGRESS
+
+has some stuff that may be related: https://fb.workplace.com/notes/ye-hua/the-state-of-
+the-states-the-two-many-americas-on-facebook/401294540703903/
+Like · Reply. Ty
+Another piece of work from specifically about Instagram and coasts.
+https://fb.workplace.com/notes/ye-hua/facebook-in-coastal-us-instagram-teens-and-old-
+cohorts/462474937919196/
+Like · Reply · Ty
+The earlier image is from
+comment on
+note here:
+https://fb.workplace.com/notes/spencer-burns/user-diversity-in-the-us-2-demographics/1981172545513273/
+Like · Reply · 1y
+thoughts i might have on an instagram groups-map you mean?
+Like · Reply ly
+Right, or some Instagram-equivalent to the idea that local content production isn't correlated with
+engagement.
+Like · Reply ly
+Seems like although group engagement is much lower in coastal areas, group
+inventory is still and only growing in there while being stagnated in the rest of US. So I suspect the longitudinal
+trajectories of group inventory and group engagement may show a more positive sign for coastal US than a static
+snapshot.
+REDACTED FOR CONGRESS
+Like · Reply - Ty
+but if inventory is uncorrelated with engagement, then this wouldn't be the case, no?
+Like · Reply · ly
+if all group inventory (not just local group inventory) is uncorrelated with group engagement, then
+yes. I thought this note is focused on local group inventory. Usually inventory and engagement has a positive
+correlation and then saturates. I am not sure if coastal cities have reach the saturation point.
+Like Reply 1y - Edited
+Chats
+
+Savo
+median_page_inventory
+Absolute trajectories
+median_group_inventory
+Absolute trajectories
+median_group_inventory
+Normalized to earliest data
+600
+15.Ox
+500
+strong
+weak
+San Francisco
+500
+12.5x
+400
+p5
+p95
+400
+10.0x
+median_page_inventory
+300
+median_group_inventory
+metric / earliest val
+300
+7.5x
+|
+200
+strong
+weak
+200
+5.0x
+P5
+strong
+weak
+05
+p95
+San Francisco
+100
+100
+2.5x
+p95
+San Francisco
+0
+0
+2018-07
+201819.03
+2016-03
+2016-0
+2016
+2017-08
+2017-0
+2017.1
+2018-0
+2018-0
+2018-11
+2019-03
+2016-0
+2016
+2017-03
+2017-07
+2012
+2018-03
+018-07
+2018-11
+2019-03
+2016-03
+2016-07
+2016-
+2017
+
+Save
+median_page_inventory
+Absolute trajectories
+median_g
+Absolut
+600
+500
+500
+400
+400
+median_page_inventory
+300
+median_group_inventory
+300
+200
+200
+strong
+weak
+p5
+p95
+San Francisco
+strong
+weak
+p5
+p95
+San Frai
+100
+100
+0
+0
+2016-03
+2016-07
+2016-11
+2017-0
+203
+2016-03
+2016-07
+2016
+2017-03
+2017-07
+2017-11
+2018-03
+2018-07
+2018-11
+2819-03
+
+median_group_inventory
+Absolute trajectories
+median_group_inventory
+Normalized to earliest data
+15.0x
+600
+strong
+weak
+San Francisco
+12.5x
+500
+p5
+p95
+10.0x
+400
+REDACTED FOR CONGRESS
+metric / earliest val
+median_group_inventory
+300
+7.5x
+strong
+weak
+200
+5.Ox
+25
+295
+100
+2.5x
+San Francisco
+0
+2018 17:03
+2016-03
+2016-07
+2016
+2017-03
+2017-07
+2017-
+2018-03
+2018-07
+2018-11
+2019-03
+2016-03
+2016-07
+281
+817-03
+2017-07
+2011
+2018-03
+2018-07
+
+thoughts i might have on an instagram groups-map you mean?
+1
+Like · Reply - Ty
+Right, or some instagram-equivalent to the idea that local content production isn't correlated with
+engagement.
+Like · Reply 1y
+Seems like although group engagement is much lower in coastal areas, group
+inventory is still and only growing in there while being stagnated in the rest of US. So I suspect the longitudinal
+trajectories of group inventory and group engagement may show a more positive sign for coastal US than a static
+snapshot.
+1
+10
+Like · Reply · 1y
+but if inventory is uncorrelated with engagement, then this wouldn't be the case, no?
+Like · Reply - Ty
+if all group inventory (not just local group inventory) is uncorrelated with group engagement, then
+yes. I thought this note is focused on local group inventory. Usually inventory and engagement has a positive
+correlation and then saturates. I am not sure if coastal cities have reach the saturation point.
+Like Reply - Ty Edited
+REDACTED FOR CONGRESS
+I thought your graphs are showing local group inventory
+Like · Reply ty
+oh nah. It is the total group inventory from user_metrics_history.
+Like Reply 1y
+Write a reply...
+Like Reply .ly
+
+thought your graphs are showing local group inventory
+Like · Reply · Ty
+oh nah. It is the total group inventory from user_metrics_history,
+Like - Reply - Ty
+Write a reply...
+Like Reply. Ty
+interesting reading!
+Like · Reply. Ty
+One more hypothesis for this: our local group recommendations are the bottleneck, not
+inventory.
+Like Reply ly
+can you explain this theory? too many local groups, so we recommend bad ones?
+Like · Reply · ly
+If more local group inventory isn't causing people to engage more with those groups, then either:
+1. Peoples' demand for local groups has been saturated: they're already in enough groups, and don't want to be in
+more groups.
+2. Even if we have more inventory, we don't surface that inventory to people. (le, the problem is lower down in the
+funnel.)
+3. The incremental local groups are not the types of local groups that people have demand for this is the hypothesis
+suggested in my earlier comment).
+I'd love your thoughts,
+Like · Reply ly
+REDACTED FOR CONGRESS
+.
+really interesting insights! Couple of thoughts
+on user density being negatively correlated with engagement: similar to
+s comment above, but maybe
+these communities are engaging in real life more easily, meaning that they don't have to engage online as much
+. Given that population density in rural areas is much lower, does having the same threshold for local groups (p75 to
+centroid of 25km) make sense? These groups would probably be a lot smaller, making it less likely users will engage.
+Like - Replyly. Formatted
+added thought: what were the feature importances of the model you train
+Chats
+
+1. Peoples' demand for local groups has been saturated: they're already in enough groups, and don't want to be in
+more groups
+2. Even if we have more inventory, we don't surface that inventory to people. (le, the problem is lower down in the
+funnel.)
+3. The incremental local groups are not the types of local groups that people have demand for (this is the hypothesis
+suggested in my earlier comment).
+I'd love your thoughts
+Like · Reply · ly
+eally interesting insights! Couple of thoughts
+• on user density being negatively correlated with engagement: similar to
+s comment above, but maybe
+these communities are engaging in real life more easily, meaning that they don't have to engage online as much.
+. Given that population density in rural areas is much lower, does having the same threshold for local groups (p75 to
+centroid of 25km) make sense? These groups would probably be a lot smaller, making it less likely users will engage.
+Like · Reply · 1y. Formatted
+OD
+added thought: what were the feature importances of the model you trained?
+Like · Reply · 1y
+thought I've mentioned it in the post, 128 and friend count are the most important
+features.
+Like Replyty
+to my second point: one way of seeing if the centroid difference needs to be changed would be by
+comparing high school class groups in rural areas vs urban. Since school assignment in the US is mostly based on
+geographic proximity, the ratio of the average distance between the two could be a good proxy for how much wider
+the "local" radius needs to be in different parts of the country.
+Like · Reply 1y. Edited
+REDACTED FOR CONGRESS
+that's a cool idea"! I think though to keep this analysis simple, it suffices to count local
+groups with two radiuses, and allow the model "choose" according to user density.
+(*though, there's quite a bit of problems with school data, ask me how I know)
+Like Reply Ty
+Write a reply
+Write a comment...

@@ -1,0 +1,1539 @@
+A First Look at the Minimal Integrity
+Holdout
+MONDAY, APRIL 29, 2019. READING TIME: 12 MINUTES
+a
+We started the Minimal Integrity Holdout about a month ago, and sufficient time has passed
+to evaluate our impact on Integrity metrics, engagement, and the general user experience. In
+a few weeks, once we have completed the initial run of surveys for Bad Experiences, we will
+also be able to comment on any perceived differences in the reach of bad experiences on the
+platform as a result of Integrity's efforts.
+REDACTED FOR CONGRESS
+All comparisons are made relative to the holdout population so if a metric is up,
+it is higher in production as compared to the holdout, and if a metric is down, it
+is lower in production as compared to the holdout.
+Chats
+
+We started the Minimal Integrity Holdout about a month ago, and sufficient time has passed
+to evaluate our impact on Integrity metrics, engagement, and the general user experience. In
+a few weeks, once we have completed the initial run of surveys for Bad Experiences, we will
+also be able to comment on any perceived differences in the reach of bad experiences on the
+platform as a result of Integrity's efforts.
+All comparisons are made relative to the holdout population so if a metric is up,
+it is higher in production as compared to the holdout, and if a metric is down, it
+is lower in production as compared to the holdout.
+TLDR
+Integrity efforts have been focused on bad link experiences and it shows in the results of
+the holdout--clickbait and ad farms are down 20-40% and generally OBCs are down
+10%+.
+• What's telling is that we have minimal impact on non-OCQ types of bad like borderline
+N&P, borderline hate, and borderline violence and other types of negative experiences.
+We need to establish criteria and guidelines around fairness, filter bubbles, and other
+unintended consequences of ranking so that we can deal with these more sensitive
+issues in a positive way.
+REDACTED FOR CONGRESS
+. Given that Integrity is changing a ranking algorithm that is optimized for engagement, it
+is not surprising that Integrity has some negative engagement impact on engagement.
+Generally, Integrity shifts away from public content, i.e. links and page content, and
+toward friend content. The regressions on top-line metrics are not huge, generally on
+the order of 10-30 bps for sessions, MSI, time spent, and VPVs, with no impact on DAP
+and MAP.
+Chats
+
+. Given that Integrity is changing a ranking algorithm that is optimized for engagement, it
+is not surprising that Integrity has some negative engagement impact on engagement.
+Generally, Integrity shifts away from public content, i.e. links and page content, and
+toward friend content. The regressions on top-line metrics are not huge, generally on
+the order of 10-30 bps for sessions, MSI, time spent, and VPVs, with no impact on DAP
+and MAP.
+Integrity
+OCQ Offenses
+Let's kick things off with OCQ. Given that we demote Clickbait and Ad Farms quite a bit, it's
+not surprising that when you remove these rules, prevalence is heavily impacted. Generally,
+prevalence is -2% right now, and it rises to -2.5%-3% for withholding / exaggeration in the
+holdout and to -2.5% for weak ad farm (strong ad farm is ~0.1% right now so it's hard to say
+much about that).
+Prevalence is Down 20-40% for OCQ Link Offenses
+50%
+REDACTED FOR CONGRESS
+0%
+Relative Prevalence Delta
+-50%
+Chats
+
+Integrity
+OCQ Offenses
+Let's kick things off with OCQ. Given that we demote Clickbait and Ad Farms quite a bit, it's
+not surprising that when you remove these rules, prevalence is heavily impacted. Generally,
+prevalence is ~2% right now, and it rises to -2.5%-3% for withholding / exaggeration in the
+holdout and to ~2.5% for weak ad farm (strong ad farm is 0.1% right now so it's hard to say
+much about that).
+Prevalence is Down 20-40% for OCQ Link Offenses
+50%
+0%
+Relative Prevalence Delta
+REDACTED FOR CONGRESS
+-50%
+Apr 04
+Apr 06
+Apr 08
+Apr 10
+Exaggeration - Weak adfarm
+Withholding
+
+Prevalence is Down 20-40% for OCQ Link Offenses
+50%
+0%
+Relative Prevalence Delta
+-50%
+REDACTED FOR CONGRESS
+Apr 08
+Apr 10
+Apr 04
+Apr 06
+Withholding
+-
+Exaggeration - Weak adfarm
+
+-20%
+-10%
+0%
+1096
+20%
+Delta %
+CEP Interactor Engagement Bait Overall Prevalence, by interaction actor_type
+1 USER
+1
+-15.6760+0.0427
+N-
+-31.1870:0.0686
+ONGRESS
+-22.878820.0831
+2 CEP uri exaggeration vpv prevalence - overall.
+3 CEP url withholding vpv prevalence - overall
+4 CEP user level weak adfarm VPV prevalence
+5 CEP user level strong adfarm VPV prevalence
+- 12.6908:0.0583
+-10.2080+0.1126
+REDACTED
+
+For Engagement Bait, we are revamping the label-based prevalence delta pipeline but the
+predicted prevalence delta from Deltoid is 15%. It's also worth noting that these Deltoid
+deltas line up pretty nicely with the label-based versions.
+-20%
+0%
+2096
+-1094
+10%
+Delta %
+CEP Interactor Engagement Bait Overall Prevalence, by Interaction actor lype
+-15.57800.0427
+1 USER
+-31. 18700.0686
+-22.878820.0831
+CEP ur exaggeration vpv prevalence - overall
+3 CEP un withholding vpv prevalence - overall
+CEP user level weak adtarm VPV prevalence
+-12.690820.0583
+-10.2080:0.1126
+5 CEP user level strong adfarm VPV prevalence
+Misinformation (Tautological Measurement)
+The holdout still applies hard demotions and RO demotions. The only way to measure
+our impact on Misinformation is with the predicted misinfo metrics, which
+basically just measure our impact on content that is being demoted so this is
+highly tautological. I'm mentioning it for completeness but I don't think we have
+as great of an idea as to how we impact Misinformation as OCQ.
+As expected, when you don't demote on something in the holdout, you see an impact on the
+content that is not being demoted. For links, we have two versions of the metric, one that is
+binarized (violating) and one that is continuous (expected). The drop in VPV prevalence is
+between 2 and 9%, while the drop in OBC prevalence is higher at 17%.
+REDACTED FOR CONGRESS
+-15%
+- 10%
+-5%
+096
+596
+10%
+15 Q Delta %
+-1.6305.0.1393
+FUSS expected misinformation vpv prevalence
+2 FUSS violating misinformation vpv prevalence
+3 FUSS expected misinformation obo prevalence
+-8.5180+0,6185
+-17.140720.3222
+Chats
+
+Misinformation (Tautological Measurement)
+The holdout still applies hard demotions and RO demotions. The only way to measure
+our impact on Misinformation is with the predicted misinfo metrics, which
+basically just measure our impact on content that is being demoted so this is
+highly tautological. I'm mentioning it for completeness but I don't think we have
+as great of an idea as to how we impact Misinformation as OCQ.
+As expected, when you don't demote on something in the holdout, you see an impact on the
+content that is not being demoted. For links, we have two versions of the metric, one that is
+binarized (violating) and one that is continuous (expected). The drop in VPV prevalence is
+between 2 and 9%, while the drop in OBC prevalence is higher at 17%.
+-15%
+-10%
+5%
+0%
+5%
+1096
+15 @ Delta %
+-1.6305+0.1393
+***
+1 FUSS expected misinformation vpv prevalence
+-8.518040.6185
+2 FUSS violating misinformation vpy prevalence
+3 FUSS expected misinformation obc prevalence
+-17.140740.3222
+We're working on content-level Misinfo Deltoid metrics.
+REDACTED FOR CONGRESS
+Hate Speech / Borderline Hate
+The holdout still applies hate speech and graphic violence demotions in at-risk countries, but
+none exist outside of those.
+We seem to be having a small impact in many language-country pairs on Hate Speech and
+Borderline Hate, probably -3%, but this is an indirect effect of our other demotions.
+Chats
+
+-15%
+-10%
+-5%
+0%
+5%
+10%
+15 Q Delta %
+-1.6305+0.1393
+-8.5180+0.6185
+1 FUSS expected misinformation vpv prevalence
+2 FUSS violating misinformation vpv prevalence
+3 FUSS expected misinformation obc prevalence
+-17.1407+0.3222
+REDACTED FOR CONGRESS
+
+Hate Speech / Borderline Hate
+The holdout still applies hate speech and graphic violence demotions in at-risk countries, but
+none exist outside of those.
+We seem to be having a small impact in many language-country pairs on Hate Speech and
+Borderline Hate, probably -3%, but this is an indirect effect of our other demotions.
+TON
+-58-16
+12N-10%
+Chapyga
+Cochi Moro
+Cgraphie
+CON PM
+MX
+INN
+-1.767308022
+313780
+13/15
+0458209105
+Sheba
+530 717
+10.0
+5305209791
+- 31561014
+AR
+-2016011530
+3.000.0031
+е со
+OR NULLN
+NULLY
+2.140
+03057311
+TR
+10.07341410
+-
+ON
+US
+antal 5417
+2.1177 5017
+527051 5100
+NPK
+AMVN
+CO NULLUS
+NULLED
+LUS
+REDACTED FOR CONGRESS
+3557
+502308
+21922010
+TH
+NULLER
+SINULL.CO
+=
+6.2.1670
+D
+https://fburl.com/deltoidz/domozo06
+
+-8%
+-0%
+-18% -16% 14% -12% -10%
+-455
+096
+2%
+8%
+4% 6%
+10%
+12%
+16
+Chaletul pt 90.
+yg and country
+OC graphic vence vpy 80 by country
+C graphic violence vpv gt 85 by user country
+Chate speech vpv gt 50, by pred ang und www.country
+-1.767520.6082
+313780.6800
+IN
+1.137620.9215
+b.BD
+FR
+-0.4582£0.9108
+5.3667:0.8717
+-2.72821.0380
+ID
+PH
+-5.305210.9791
+-1315621 0744
+2.0169.1.1538
+AR
+3960520 9931
+NULLIN
+-2.14651.00
+NULLMX
+-0 2057:1
+TR
+-10.07341
+-
+-1.4844:13
+en on.iN
+Des US
+0.971741 54
+-2.11771
+COUPK
+-5.270515
+V.VN
+-5.608921.5
+EDACTED FOR CONGRESS
+NULLUS
+SINULLBO
+39367a 1.5
+n.5
+-58431+2 365
+2.19122.01
+3.250512 24
+TH
+-0.532522
+NULL FR
+=
+***
+3353112320
+1.795622 15 YT
+NUL.CO
+NULL PK
+TUBR
+
+Borderline Hate:
+출
+-10%
+es
+7
+COV 50. rolang med en
+US
+NUN
+4900705254
+0.1573021
+BR
+esMx
+5 NULLIN
+3.961105241
+403 6141
+1 NULLUS
+347060 SEST
+PM
+3.2.se
+en Ga
+1.6450 678
+38/2007
+NULLBA
+12 NULL MX
+1 AR
+20112017
+10740.6
+2064507454
+2.6001077
+1.CO
+2 80000 8012
+15 US
+18/10
+TNG
+3.91541123
+de DE
+I NULL EO
+1.123.1
+no
+PK
+bu 1.2
+-14000 1.1251
+1. NULLAM
+en
+2.00 4550
+https://fburl.com/deltoid3/domozoo6
+REDACTED FOR CONGRESS
+Violence
+The holdout still applies hate speech and graphic violence demotions in at-risk countries, but
+
+-14%
+-1296
+-8%
+- 10%
+-496
+-696
+-296
+0%
+2%
+4%
+12%
+6%
+896
+10%
+14% Delta
+CC hatetul pv gt 50. by pred song and uner country
+-3.471140332
+en US
+-49307:0526
+IN
+-0.1573.0.427
+p.BR
+-2.9343:0.445
+BMX
+-3.96110.524
+NULLIN
+4.0603+0.614
+enIN
+-5.4708:0.5851
+-
+NULLUS
+-33328:0.656
+en PH
+-1.6455.0.6789
+en GB
+-3.8720:00
+EG
+232112002
+11 NULLBR
+-1,074920CY
+11 NULL MX
+-2064630
+13 es AR
+-2.600110
+4 es.co
+-2.80600
+Thes.US
+1.86791.00
+REDACTED FOR CONGRESS
+nen.NG
+3.91541
+17 de DE
+-6.03421
+NULLEG
+-1.12831
+en ID
+3.68151
+en PK
+- 1 4590+1.10
+NULL.PH
+-2.956021.4550
+
+Violence
+The holdout still applies hate speech and graphic violence demotions in at-risk countries, but
+none exist outside of those. We are likely having little (if any) impact on violence.
+Copy
+Cha
+0
+Opvo
+Chaty
+od
+tit
+COD
+17.00
+DOS
+0.636 STO
+37751
+3000 6000
+SPH
+2.
+1.TW
+4301510071
+16
+NO
+con
+114013
+2 Vite
+DATA
+CO
+=
+REDACTED FOR CONGRESS
+https://fburl.com/deltoidz/domozoo6
+Civic
+
+8
+%
+-496
+-7%
+-3%
+195
+-6%
+-5%
+-296
+-19
+0%
+3%
+Delta %
+-9%
+596
+296
+6%
+Chanel pvt 50. boypredang and user country
+Chateful vpv gt 60 by pred lang and user country
+Chatetul pv gt 70. by pred lang and user country
+Chattu pv gt 80. by pred lang and user country
+CC graphic violence vpv gt 50, by user country
+SOLIN
+-3.11120.3931
+4.61780.5090
+-0.8366305707
+-0.577310.5751
+O US
+BR
+-3.309520.6000
+1.88910.7331
+MX
+-1.431110.6685
+13 PM
+1.59520.7901
+4381511.0371
+14TH
+115 BO
+-3.823120.9105
+-0.303221.0795
+BEG
+-1.7491 1.0151
+NG
+DACTED FOR CONGRESS
+2 9186 1.0989
+TR
+по РК
+0.68321 2585 L
+-0 5396 1.1063
+MY
+-2.943711.1721
+GO
+-2.757111.1222
+OPE
+- 1.980111213
+Lapz
+
+Civic
+Our impact on bad Civic content is generally positive, although we seem to reduce Civic
+content overall a bit. The positive impact we have is generally on OCQ / Misinformation
+types of bad that are also Civic.
+a
+-101
+TON
+Det
+307950
+22901204
+1712461.005
+1000510.45
+- 1366580034
+-1.607:02421
+civipy porn metri
+crisponden met
+Ocenggermeni
+che correct pw.ovichtet voting
+vie poep. Dacoste
+de coment werden
+Cito content.cc al
+OVIC DOUDVN.ca
+chanpa
+10 CNC opgedichter borderline
+de contentcheche borderline
+17 group ypy werewo.com
+MC Degevp weghove page.com
+pencement
+11 ON DOMOV widove page Side Abuse
+weighted che strong alarm
+od vted chewitt
+Inc group civic group member.com
+Ove group pv weighted group meerde cost
+30 de map weighted vicerate
+MC Pep weghted civic poemario
+Occomanweighted Costa
+Ogroup group namin
+many went into
+page mit
+comanpr.cimento
+toman po strong star
+convo weedive mento
+DVD papes de abuse
+2.1510.0.1439
+480 1513
+2.763902113
+4257702530
+-4770102792
+530171160
+-6061520
+65940.0.3116
+171.0.2211
+34 27.022
+-10 735725
+11.10.2010 2344
+-139164103006
+14030102311
+38240 501
+-10 230.2003
+1020080
+16.4785067
+18.000 TM!
+REDACTED FOR CONGRESS
+431.000
+29 750601
+54.740.02067
+Reach
+
+-20%
+-15%
+-10%
+-5%
+0%
+5%
+10%
+1536
+20%
+Delta
+3079510.7980
+civic.vpv of politicians metric
+2 Civic respondees:metric
+2 229912 9497
+1.712410056
+-1.0805:0.4836
+- 1.38650 9034
+-1.5679.0.2427
+-2.111010 1487
+-3.4498.0.1513
+3.780910 2113
+4257720 2536
+-4779002797
+-5.58171 1696
+881530 2438
+-65940105116
+-9.1718100
+492780
+civic engagers:metric
+Cic.content provie hatetut violating
+civic page vpv.civic page co strikes
+civic content:vpv weighted.civichateful violating
+T civic contentvp.civical
+a Civic group pp.civical
+Civic domain.pr.civicall
+10 civic.content.vpv_weighted.civic hateful borderline
+11 clic.content.pr.civic hateful borderline
+12 civic group.vpv weighted.civic-group.co strikes
+13 civic page vpv weighted civic page_co strikes
+14 Civic.contentvp.civic misinfo
+15 civic page vpv weighted civic page sidec abusive
+15 civic domain vpv weighted civic strong adstarm
+17 civic domain.vpv weighted.civic withhold
+18 civic group.vpv.civic group member.co strikes
+15 civic group.vpv weighted civic group member costrikes
+20 Civic domain.vpv weighted civic exaggerate
+21 cvic page vpv weighted civic page misinfo
+22 civic domain vpv weighted mic weak adstarm
+25 Civic group pv.civic group.no admin
+Civic domain.py weighted civic misinto
+75 civic page vovvic page misinto
+20 Civic domain vpv.cvcmisinto
+37 Cvc domain vpr.ovic strong adstarm
+2 cmc.content vpy weighted civic misinto
+cvic page vpv cvic pages Oec abusive
+-10.7367
+-11 4096
+-13.916410
+-14 D55016
+14362410
+- 16 2374101
+EDACTED FOR CONGRESS
+-10295810
+-18.475310 578
+-16.63070
+- 3599.01
+-24 38261
+29.7508.0
+54 87400
+
+Reach
+a
+Caveat: Reach of Bad Experiences remains a WIP in Integrity and we are still finalizing the
+exact thresholds used to say that a user had a bad experience for some integrity concept. The
+definition used in this analysis is simply 1 VPV on a piece of bad content. So the exact values
+of this analysis should be taken with a grain of salt.
+That said, 11% of users see content that has been marked as disturbing every day; 16% of
+users see content that is likely to be bullying; 39% of users see hateful content (i.e. borderline
+hate); 32% of users see borderline 3+ nudity content. These are significant proportions of
+DAP and we have effectively no ranking interventions in place to mitigate this. Rather, our
+impact is limited to OCQ offenses and Misinformation.
+REDACTED FOR CONGRESS
+Reach of Integrity Concepts
+BOON
+60%
+56%
+
+hate); 32% of users see borderline 3+ nudity content. These are significant proportions of
+DAP and we have effectively no ranking interventions in place to mitigate this. Rather, our
+impact is limited to OCQ offenses and Misinformation.
+Reach of Integrity Concepts
+60.05
+60%
+56.0%
+39.15
+40%
+38
+32.0%
+Percent of DAP
+JL
+20%
+15.
+110
+10 35.
+73%
+REDACTED FOR CONGRESS
+2.
+ON
+0.29
+03%
+0%
+Bullying
+N&P 2+
+N&P 3+
+Violating Violence
+Strong Ad Farm
+Disturbing
+Engagement Bait
+URL Misinfo
+Withholding
+Hate Speech
+Exaggeration
+Borderline Hate
+Content Misinfo
+Weak Ad Farm
+Sexual / Shocking
+
+In the holdout, we see that users are exposed to disturbing / violent content, N&P, Bullying
+and Hateful content, as well as, to a lesser degree, most OCQ offenses; however, when we see
+what our impact has been, it is almost exclusively on OCQ offenses, which are not the most
+severe harms. I believe strongly that this needs to change.
+Integrity Impact for Reach is Limited to OCQ Offenses and Some Misinformation
+0%
+ON
+20
+- 10%
+-12
+-136
+150N
+-1535
+20%
+Relative Delta
+יויון"
+26.95
+-30%
+-40%
+REDACTED FOR CONGRESS
+-50%
+N&P 3+
+Bullying
+N&P 2+
+Strong Ad Farm
+Disturbing
+Engagement Bait
+Withholding
+URL Misinfo
+Hate Speech
+Exaggeration
+Borderline Hate
+Content Misinfo
+Weak Ad Farm
+Sexual / Shocking
+Violating Violence
+
+What blocks work on these types of sensitive issues?
+• Concerns over fairness?
+. Concerns over filter bubbles?
+These are important questions, and we do not have ways to really measure these concepts
+right now, at least they are not in widespread use. We need to develop concrete criteria for
+these important concerns, and then we need investment to build out evaluation for these
+criteria. Until we have that, we will likely struggle to make progress in high-harm spaces.
+User Experience
+Changes in Content
+REDACTED FOR CONGRESS
+What's most clear from the holdout is that Integrity shifts the type of content seen
+dramatically. There's more friend content and less public content.
+Specifically, page content is down 4.5%
+
+news_feed:interactions:feed_filters:vpv:pages
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+-4.2%
+11
+-4.4%
+-4.696
+-4.8%
+-5.09
+REDACTED FOR CONGRESS
+-5.296
+5 406
+
+VPVs on original posts are up 1.3%.
+news_feed:interactions:feed_filters:vpv:obps
+OD
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+16%
+1.4.96
+1
+W
+10
+REDACTED FOR CONGRESS
+Naturally, given our focus on link content, OBCs are down -12%.
+
+Naturally, given our focus on link content, OBCs are down -12%.
+news:domains:obcs:overall
+AD
+03/22 03/24 03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+11%
+1296
+四
+REDACTED FOR CONGRESS
+Impact to News Ecosystem / Partners
+Given the impact on link content, much of this is on lower quality content. Low quality news
+
+Impact to News Ecosystem / Partners
+Given the impact on link content, much of this is on lower quality content. Low quality news
+is down -18% while high quality is up -1.3%.
+1.2983+0.2470
+3 news domains obcs:with_high_quality_news
+4 news:domains:obcs:with_low_quality news
+-18.149720.2077
+news:domains:obcs:with_med quality news
+-6.064310.1973
+If we look at partners, we tend to demote higher tier partners less.
+-10%
+-596
+09
+5%
+1096
+Delta 96
+REDACTED FOR CONGRESS
+news domains:obcs:by mp_tier by mp tier
+-6.6033+0.1938
+1 А
+-2.0602+0.4548
+А+
+-4.623120.5422
+3 B
+-9.3743+0.3511
+А С
+-5.468720.5446
+D
+-16.375920.3200
+E
+-4.94147.5209
+
+1.2983:0.2470
+news:domains:obcs:with_high_quality_news
+4 news:domains:obcs:with_low_quality_news
+5 news:domains:obcs:with_med_quality_news
+-18.149720.2077
+HACE OR CONGRESS
+-6.0643_0.1973
+
+If we look at partners, we tend to demote higher tier partners less.
+- 10%
+-596
+096
+5%
+1096
+news:domains:obcs:by_mp_tier, by mp_tier ***
+Delta %
+1 А
+-6.6033+0.1938
+12 A+
+-2.0602+0.4548
+3 B
+-4.623120.5422
+4 с
+-9.3743+0.3511
+5 D
+-5.4687+0.5446
+Е
+-16.375920.3200
+7 F
+-4.941427.5209
+8 None
+-12.1852+0.1418
+9 Pu
+-8.044120.9232
+REDACTED FOR CONGRESS
+Looking at individual domains, we boost lots of major publishers likely as a result of broad
+trust, but we also demote lots of major publishers like buzzfeed, popsugar, and thedodo.
+
+-10%
+-5%
+0%
+5%
+10%
+Delta %
+news:domains:obcs:by_mp_tier, by mpir
+-6.6033+0.19
+TA
+-2.0602+0.45
+2 A+
+-4.6231+0.542
+3 B
+-9.3743+0.351
+4 C
+-5.46870.
+5 D
+6 E
+-16.3759092
+-4.941427.500
+7F
+-12.1852+0.4
+8 None
+-8.044120.99
+9 Pursue
+
+Looking at individual domains, we boost lots of major publishers likely as a result of broad
+trust, but we also demote lots of major publishers like buzzfeed, popsugar, and thedodo.
+-12% -10% -8% -6% 4% 2% 0% 2% 4%
+6%
+8%
+10% 12 @ Delta %
+Partnerships Domain Level OBC, by domain ***
+1 estadao.com.br
+22.0445+2.6357
+2 time.com
+16.649822.2986
+3 independent.co.uk
+- 13.86762.0200
+4 forbes.com
+5 washingtonplus.com
+12.3203t2.1010
+12.3057-2.7599
+6 abril.com.br
+11.547311.7385
+7 nytimes.com
+10.8585+1.5081
+8 latimes.com
+9.987112.9347
+9 npr.org
+9.63982 1.6735
+9.28972.3900
+10 osegredo.com.br
+11 elpais.com
+12 cnn.com
+8.8589:2.0337
+7.60540.9886
+7.1982 1.2527
+13 businessinsider.com
+14 globo.com
+15 culturacolectiva com
+6.9754:1.1283
+6.57011.6192
+16 portalraizes.com
+6.1548:2.5133
+17 theonion.com
+6.14652.1309
+18 contioutra.com
+5.95462.9537
+19 lemonde.fr
+5.821312.1241
+REDACTED FOR CONGRESS
+20 foxnews.com
+5.818521.4971
+21 intoday.in
+5.6706:2.0075
+22 nbcnews.com
+5.5227:1.6661
+23 cbsnews.com
+5.2905:1.6740
+4.386721.9658
+24 telegraph.co.uk
+25 indiatimes.com
+4.2131+1.6957
+26 news18.com
+4.201312.1171
+27 theguardian.com
+4.0174:1.5975
+28 thisisinsider.com
+3.9386+1.4628
+3.8928. 1.4700
+29 usatoday.com
+
+-6%
+-4%
+- 1296 -10% -896
+-296 0%
+2%
+4%
+696
+8%
+10% 12 Delta %
+Partnerships Domain Level OBC, by domain ***
+1 estadao.com.br
+22.0445+2.6357
+16.6498 2.2986
+2 time.com
+13.8676+2.0200
+3 independent.co.uk
+12.3203:2.1010
+4 forbes.com
+12.30572.7599
+5 washingtonpost.com
+11.5473 1.7385
+6 abril.com.br
+10.8585:1.5081
+7 nytimes.com
+9.9871:2.9347
+8 latimes.com
+9.63981.6735
+9.2897+2.3900
+9 npr.org
+10 osegredo.com.br
+11 elpais.com
+8.85892.0337
+7.6054+0.9886
+12 cnn.com
+7.1982 1.2527
+13 businessinsider.com
+6.975421.1283
+14 globo.com
+6.57011.6192
+15 culturacolectiva.com
+6.15482.5133
+16 portalraizes.com
+6.14652.1309
+17 theonion.com
+5.95462.9537
+18 contioutra.com
+5.8213:2.1241
+19 lemonde.fr
+5.81851.4971
+20 foxnews.com
+5.67062.0075
+21 intoday.in
+REDACTED FOR CONGRESS
+5.5227+1.6661
+22 nbcnews.com
+5.2905:1.6740
+23 cbsnews.com
+4.3867: 1.9658
+24 telegraph.co.uk
+4.2131:1.6957
+25 indiatimes.com
+4.2013 2.1171
+28 news18.com
+4.0174:1.5975
+27 theguardian.com
+3.93861.4628
+28 thisisinsider.com
+3.89281.4700
+29 usatoday.com
+
+-1270
+070
+07
+30 espn.com
+3.6225+2.3334
+31 revistapazes.com
+3.52882.6502
+32 msn.com
+3.4587+1.9217
+33 nypost.com
+3.431821.3066
+34 abcnews.com
+3.15781.6169
+35 bbc.com
+2.9912+0.6990
+36 people.com
+2.91892.1207
+37 francetvinfo.fr
+2.57271.7172
+38 r7.com
+2.54671.9286
+39 cbslocal.com
+2.4033 1.8160
+2.32911.7510
+40 repubblica.it
+41 truththeory.com
+2.2859-2.1074
+42 okchicas.com
+2.25822.5230
+43 waterfordwhispersnews.com
+2.2215+2.9873
+44 cnbc.com
+2.2018+2.0717
+45 leparisien.fr
+2.026812.0399
+46 cbc.ca
+1.96261.8178
+47 uol.com.br
+1.7292 1.3478
+48 apple.com
+1.545314.4374
+1.3983:1.5096
+49 yahoo.com
+50 today.com
+1.3185+1.8300
+51 bbc.co.uk
+1.1715:2.4951
+REDACTED FOR CONGRESS
+52 sportbible.com
+1.02822.0394
+53 radio.com
+0.987912.5891
+54 lavanguardia.com
+0.9687+2.3981
+55 comicbook.com
+0.4706:2.3966
+56 joe.ie
+0.44621.9851
+0.141622.1532
+57 scarymommy.com
+58 dailymail.co.uk
+0.1152+0.8909
+50 lefigaro.fr
+0.0779.1.7391
+
+-6%
+-4% -2%
+0%
+-12% -10% -8%
+2%
+4%
+6%
+8%
+10% 12@ Delta %
+-0.034420.9530
+B0 ladbible.com
+-0.13772.4504
+81 eluniversal.com.mx
+-0.2035+1.6823
+52 vice.com
+-0.22841.6370
+-1.0362 2.0388
+63 247sports.com
+64 liputan6.com
+65 huffingtonpost.com
+66 9gag.com
+-1.049211.6808
+- 1.0725 1.4870
+-1.17812.4205
+67 abc.es
+-1.944423.2870
+68 ig.com.br
+-2.2141 2.0178
+69 thesun.co.uk
+-2.4145+2.5710
+70 metro.co.uk
+-2.5542 1.8578
+71 tmz.com
+-2.98472.4613
+72 abplive.in
+-3.048721.2455
+73 abs-cbn.com
+-3.8656+2.124
+74 kompas.com
+-3.91691.4069
+75 delish.com
+-4.1692:1.8369
+76 merdeka.com
+-4.6046:1.3217
+77 unilad.co.uk
+-5.0371 1.8232
+78 mirror.co.uk
+-5.569621.76201
+79 univision.com
+-5.8855 1.3591
+80 brightside.me
+-6.4627:1.8029
+REDACTED FOR CONGRESS
+81 detik.com
+-7.0016+1.5529
+-7.3708-2.80071
+82 iheart.com
+83 debate.com.mx
+-8.231242.4088
+84 infobae.com
+-8.2873:2.4673
+85 aleteia.org
+-8.738922.2209
+86 thehill.com
+-9.1219:2.3594
+87 rare.us
+-9.799112.0080
+-9.9432.1.2242
+B8 televisa.com
+B9 boredpanda.com
+
+90 cnnindonesia.com
+-10.909512.09
+91 buzzfeednews.com
+-11.2227:1.12
+92 thedodo.com
+-12.2572-1.93
+93 popsugar.com
+-12.45601.88
+94 caracoltv.com
+-12.7495 1.81
+95 thairath.co.th
+-12.97431.01
+-18.09141.Zia
+96 buzzfeed.com
+-22.81771.656
+97 tribunnews.com
+9123+1.79
+98 rt.com
+-24.9436+0.931
+99 90min.com
+-26.460121.098
+100 vix.com
+
+NFX Reporting
+Dislike and NFX reports are down -1.5%-2% and 2% respectively; interestingly, we saw
+dislike rates down significantly the first few days, which means that users in the holdout were
+disliking a lot more content than usual. It does seem that perhaps people get used to what
+appears in Feed though (or perhaps they stop showing up to FB).
+a
+news_feed_integrity:hqe:negative_user_feedback:dislike_rate
+03/27
+03/29
+03/31
+04/04
+04/06
+04/10
+04/12
+04/14
+04/18
+04/20
+04/16
+0%-
+- 1%
+-29%
+-3%
+REDACTED FOR CONGRESS
+-496
+NFX report rates have been roughly flat at --2%.
+
+NFX report rates have been roughly flat at --2%.
+news_feed_integrity:hqe:negative_user_feedback:nfx_report_rate
+03/27
+03/29
+03/31
+04/04
+04/06
+04/10
+04/12
+04/14
+04/16
+04/18
+04/20
+2%
+196
+09
+196
+-296
+-396
+-4%
+REDACTED FOR CONGRESS
+Engagement
+By definition, Integrity is going to cause some engagement regression as we are interfering
+
+Engagement
+By definition, Integrity is going to cause some engagement regression as we are interfering
+with the ranking provided by Relevance which is more or less trying to optimize for
+engagement. I will describe the regressions below as well as try to roughly quantify the
+tradeoffs between Integrity and Engagement (
+MAP + DAP
+MAP and DAP are pretty flat. The metrics started out in the red but have been steady since
+with MAP even increasing ever so slightly. I think the initial drop was just A/A bias and don't
+think Integrity has much impact on these metrics.
+REDACTED FOR CONGRESS
+core_growth:visitation:map:overall_facebook
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+
+tradeoffs between Integrity and Engagement
+MAP + DAP
+MAP and DAP are pretty flat. The metrics started out in the red but have been steady since
+with MAP even increasing ever so slightly. I think the initial drop was just A/A bias and don't
+think Integrity has much impact on these metrics.
+core_growth:visitation:map:overall_facebook
+03/22 03/24 03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+0.00%
+-0.02%
+0:0496
+REDACTED FOR CONGRESS
+0.06
+DAP has been flat but once again, the red is probably just A/A bias.
+
+DAP has been flat but once again, the red is probably just A/A bias.
+AD
+core_growth:visitation:dap:overall_facebook
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+0.00%
+0.02%
+0.04%
+-0.06%
+-0.08%
+-0.10%
+REDACTED FOR CONGRESS
+Sessions
+
+Sessions
+Sessions are down -0.1%.
+core_app:ecosystem:foreground_session:facebook_overall_mobile_sessio
+ns
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+0.05%
+0.00%
+-0.05%
+-0.10%
+REDACTED FOR CONGRESS
+-0.1544
+0:2096
+
+MSI
+MSI does seem to be hit by Integrity. Non-message given MSI started out elevated but has
+since dropped ~0.6%. It's unclear if this is due to an explicit launch or if there was A/A bias
+and / or novelty effects. But generally, I think it's safe to say that non-message given MSI is
+down 0.2%-0.6% in production as compared to the holdout.
+news_feed:
+msi:given:non_msg:overall
+DO
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+0.696
+019
+0.2%
+0.0%
+111
+REDACTED FOR CONGRESS
+0.29%
+
+MSI received tells a similar story--it's like down 0.1%-0.3%.
+news_feed:msi:received:non_msg:overall
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+0.4%
+0.2%
+0.0%-
+-0.296
+0.446
+REDACTED FOR CONGRESS
+These declines in MSI seem driven largely by a drop in comments, which may be partly due
+
+These declines in MSI seem driven largely by a drop in comments, which may be partly due
+to our work to stem viral EB comment-baiting posts.
+news_feed:feedback_comment_given_rt
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+0.096
+0.536
+1.04
+REDACTED FOR CONGRESS
+-1.5%
+to make un for the decline in comments.
+
+Likes are up but not enough to make up for the decline in comments.
+news_feed:feedback_like_given_rt
+OD
+03/22 03/24 03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+1.0%
+0.3%
+0.69
+0.4%
+REDACTED FOR CONGRESS
+0.2%
+
+VPVs and Time Spent
+There's been a steady drop in VPVs, which now sits at -0.4%.
+news_feed:interactions:feed_filters:vpv:overall
+OD
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+-0.1%
+when Mandela
+02296
+0.396
+REDACTED FOR CONGRESS
+Time spent has been pretty consistent, with a decline of -0.3%.
+
+Time spent has been pretty consistent, with a decline of -0.3%.
+a
+company_core_metrics:time_spent:overall_blue
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+-0.15%
+-0.20%
+-0.2596
+-0.30%
+REDACTED FOR CONGRESS
+0.35%
+-0.40%
+
+Miscellaneous
+We seem to hurt the meaningful groups metric, which has been on a downswing and is
+currently at -0.8%
+groups:
+meaningfulness_v2:meaningful_people
+OD
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+-0.2%
+-0.496
+-0.6%
+REDACTED FOR CONGRESS
+
+App Performance
+As expected, Integrity has infra costs. We should probably deprecate models that are not
+useful though so limit this.
+news_feed:infra:mf_cost:total_request_cpu_ms:overall
+03/22 03/24
+03/27 03/29 03/31 04/02 04/04 04/06 04/08 04/10 04/12 04/14 04/16 04/18 04/20 04/22
+!
+1.8V
+IT
+7,
+1.8%
+REDACTED FOR CONGRESS
+1436
+
+Closing Thoughts
+I will continue to monitor this holdout for some time and will report on the results of the
+North Star Metric surveys which will attempt to capture the perceptions of users w.r.t. bad
+experiences.
+The big takeaway for me is we need to act on non-OCQ offenses and do so in a principled
+way. Borderline content is not necessarily bad and shouldn't be driven to o, but there are
+situations where our users do not want to see it and where it does not do anyone good to see
+it. We need to model those situations and find ways to show users high-quality content that
+will serve them in the long run.
+REDACTED FOR CONGRESS
+Thanks for reading!
+
+Pne thing I learned is for certain metrics, one single demotion might dictate its direction. For example, we are
+deprecating an old signal, si_dec_abusive@page, which has very strong effects on many of the top-line metrics. This rule
+should've overwrite the positive effects of many other smaller launches. That's why we need to frequently audit the list of
+demotions we have.
+Like · Reply · 2y
+I assume the borderline hate and hateful impact here is on posts and not comments, right? Our holdouts
+show something like 40%+ drops on borderline hateful comments
+Like Reply2y
+Yes this is on posts, definitely would expect to see impact on comments
+12
+Like · Reply · 2y
+Like · Reply · 2y
+Does 'VPV gt 50' mean hate as defined by a classifier score greater than 50?
+Like · Reply · 2y
+Yes (although 50 means 0.50), so there are deltoid metrics of this type for various thresholds (0.5,
+0.8, 0.85, 0.9, and 0.95) for the graphic violence, borderline hate, and hate speech classifiers.
+Like · Reply · 2y
+1
+maybe we can leverage these deltoid metrics for your AB testing
+Thanks!
+as light weight PD metrics.
+REDACTED FOR CONGRESS
+Like Reply · 2y
+We have a labellel based d3 tag for misinfo look at 'misinfo_user_vpv_7_lag. It has VPVS for links
+where we wait 7 days to get labels.
+It is not surprising to me to hear that OCQ is not a strong lever at reducing hate/N&P. These seem to be opposit...
+See More
+11
+Like Reply 2y
+For my understanding: This relates to holdout of people -- right? So, I wonder how virality impacts these
+numbers. If the holdout is a small percentage, then a successful clickbait headline might work well for the h
+has a much harder ti... See More
+Chats
+
+Yes (although 50 means 0.50), so there are deltoid metrics of this type for various thresholds (0.5
+0.5, 0.85, 0.9, and 0.95) for the graphic violence, borderline hate, and hate speech classifiers.
+Like Reply 2y
+Thanks!
+as light weight PD metrics.
+maybe we can leverage these deltoid metrics for your AB testing
+Like · Reply · 2y
+We have a labellel based d3 tag for misinfo look at 'misinfo_user_vpv_7_lag!. It has VPVS for links
+where we wait 7 days to get labels.
+It is not surprising to me to hear that oCQ is not a strong lever at reducing hate/N&P. These seem to be opposit...
+See More
+Like Reply. 2y
+11
+For my understanding: This relates to holdout of people -- right? So, I wonder how virality impacts these
+numbers. If the holdout is a small percentage, then a successful clickbait headline might work well for the holdout -- but it
+has a much harder time becoming viral. So I assume that the real impact of the demotion is higher for things that are
+highly dependent on viral growth. Is that right? And if so, can this be corrected for?
+Like · Reply 2y
+2
+Yes that intuition is correct and this analysis does not account for downstream impact; we are
+working to account for that in integrity metrics and to measure that in our holdouts. Will keep you posted when we
+have something there. is leading the charge here and porting over some of the downstream work that
+Relevance has pioneered.
+Like · Reply · 2y
+2
+Sorry if this is basic, is there anywhere I can read more about which integrity
+Super interesting
+features we're holding users out from?
+11
+Like · Reply · 2y
+REDACTED FOR CONGRESS
+It's not documented publicly unfortunately, but the gist is we are removing clickbait rules, ad farm
+rules, engagement bait rules, broad trust, hqe, soft demotions. I can share specifics privately. Will ping.
+Like Reply · 2y
+Thanks!
+Like Reply 2y
+you could use this experiment for your project? Though the treatment is a mix of lots
+of atomic treatments so I'm not sure this will help untangle causal relationships.
+Chate
+
+We have a labellel based d3 tag for misinfo look at 'misinfo_user_vpv_7_Jag'. It has VPVS for links
+where we wait 7 days to get labels.
+It is not surprising to me to hear that oCQ is not a strong lever at reducing hate/N&P. These seem to be opposit..
+See More
+Like · Reply · 2y
+For my understanding: This relates to holdout of people -- right? So, I wonder how virality impacts these
+numbers. If the holdout is a small percentage, then a successful clickbait headline might work well for the holdout -- but it
+has a much harder time becoming viral. So I assume that the real impact of the demotion is higher for things that are
+highly dependent on viral growth. Is that right? And if so, can this be corrected for?
+Like · Reply · 2y
+1 2
+Yes that intuition is correct and this analysis does not account for downstream impact; we are
+working to account for that in integrity metrics and to measure that in our holdouts. Will keep you posted when we
+have something there. is leading the charge here and porting over some of the downstream work that
+Relevance has pioneered.
+Like Reply · 2y
+Sorry if this is basic, is there anywhere I can read more about which integrity
+Super interesting
+features we're holding users out from?
+Like · Reply 2y
+It's not documented publicly unfortunately, but the gist is we are removing clickbait rules, ad farm
+rules, engagement bait rules, broad trust, hqe, soft demotions. I can share specifics privately. Will ping.
+b 2
+Like · Reply · 2y
+REDACTED FOR CONGRESS
+Thanks!
+Like · Reply 2y
+you could use this experiment for your project? Though the treatment is a mix of lots
+ments so I'm not sure this will help untangle causal relationships.
+of atomic trea

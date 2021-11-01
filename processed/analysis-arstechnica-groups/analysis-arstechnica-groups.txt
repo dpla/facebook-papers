@@ -1,0 +1,163 @@
+gateway groups qanon"
+(BOT<
+Concerto Feedback Group
+October 8, 20202
+These changes are new, small inconveniences piled atop frustrating user-experience
+decisions that Facebook has been making for more than a decade. But they are the latest
+example of how Facebook tries to shape every user's experience through black box
+algorithms-and how this approach harms not only individuals but the world at large.
+This article has actionable feedback around (many of which we may already be taking action
+upon):
+• Lack of Control: Seeing groups that are unsolicited (including groups they explicitly left!).
+choices for comment ranking not being sticky, likewise even intimate conversations being
+chained outwards through community view.
+Danger of Rabbit Holes: It discusses how while most are introduced to conspiracy theories
+by word of mouth, recommendations engines and the chaining of content and communities
+often reinforce the dangerous ideas or lead them far deeper.
+Quotes + Potential Action Items
+LACK OF CONTROL
+But those are groups that we, the users, sought out and joined. Unsolicited content from
+other, unsubscribed groups is not always welcome. I myself noticed in recent weeks that
+posts from groups I am not a member of appeared when I tried to use Facebook's
+increasingly user-hostile app to engage with the handful of friends-and-family groups I do
+regularly use. And those out-of-the-blue posts include content from two groups I explicitly
+and intentionally left a month prior because they were making my life worse.
+REDACTED FOR CONGRESS
+Having that kind of content also appear in your personal newsfeed (which has not yet been
+rolled out to me) is apparently even worse. "It was creepier than I expected to see 'related
+discussions' hyped next to a short comments thread between my mom and my brother
+about her latest post," tech writer Rob Pegoraro (who has occasionally written for Ars)
+tweeted after experiencing the new feature. (He added that Facebook's obsession with
+engagement "needs to be shot into the sun," a sentiment with which I agree.)
+• Doublecheck that at a minimum we're not recommending groups people have
+Chats
+• Consider introducing a way to stop receiving in-feed unconnected content. T
+
+ateway groups qanon"
+by word of mourn, recommendations engines ana ine craining or content and communities
+often reinforce the dangerous ideas or lead them far deeper.
+Quotes + Potential Action Items
+LACK OF CONTROL
+But those are groups that we, the users, sought out and joined. Unsolicited content from
+other, unsubscribed groups is not always welcome. I myself noticed in recent weeks that
+posts from groups I am not a member of appeared when I tried to use Facebook's
+increasingly user-hostile app to engage with the handful of friends-and-family groups I do
+regularly use. And those out-of-the-blue posts include content from two groups l'explicitly
+and intentionally left a month prior because they were making my life worse.
+Having that kind of content also appear in your personal newsfeed (which has not yet been
+rolled out to me) is apparently even worse. "It was creepier than I expected to see 'related
+discussions' hyped next to a short comments thread between my mom and my brother
+about her latest post," tech writer Rob Pegoraro (who has occasionally written for Ars)
+tweeted after experiencing the new feature. (He added that Facebook's obsession with
+engagement "needs to be shot into the sun," a sentiment with which I agree.)
+• Doublecheck that at a minimum we're not recommending groups people have left?
+Consider introducing a way to stop receiving in-feed unconnected content. This resonates
+with me, IG has started showing follow recommendations in between stories. They provide
+an option to see these recommendations less which I value the option to (although it
+doesn't seem to be very effective at dialing it down at the moment)
+• I think we may need some threshold on the original post before applying adding chaining to
+it through CV. I can see how CV can feel different attached to a friends/family post vs. on a
+group's or page's post. Maybe there needs to be a certain number people in a conversation
+before CV is applied?
+REDACTED FOR CONGRESS
+Facebook at the same time has introduced a slew of tweaks to the user interface on both
+Web and mobile that make it significantly harder to promote high-quality engagement on
+the platform, particularly in groups. First, all groups now sort by "latest activity" as their
+default setting rather than by "recent posts." Sorting by "latest activity" drives users to
+posts that already have comments-but every post is then sorted by "top comments," an
+inscrutable, out-of-sequence muddle that seems to have almost nothing to do with the
+conversations themselves. Users can again choose to sort by "all comments" or "most
+recent," but those choices do not stick. Whether by design or by flaw, the decision to
+by recent posts isn't sticky, either, and you'll need to reselect it every single tin Chats
+
+Facebook at the same time has introduced a slew of tweaks to the user interface on both
+Web and mobile that make it significantly harder to promote high-quality engagement on
+the platform, particularly in groups. First, all groups now sort by "latest activity" as their
+default setting rather than by "recent posts." Sorting by "latest activity" drives users to
+posts that already have comments-but every post is then sorted by "top comments," an
+inscrutable, out-of-sequence muddle that seems to have almost nothing to do with the
+conversations themselves. Users can again choose to sort by "all comments" or "most
+recent," but those choices do not stick. Whether by design or by flaw, the decision to sort
+by recent posts isn't sticky, either, and you'll need to reselect it every single time you post
+a comment or navigate between posts.
+Meaningful, thoughtful conversation-even in small, serious, well-moderated groups--has
+become almost impossible to maintain. That, too, drives sniping, bickering, and extremism
+on a small, conversational scale.
+• Make choices on comment ranking sticky?
+Likewise how do we make sure the comments we are ranking aren't leading to more
+polarized discourse? How can they still reflect the group norms and standards?
+DANGER OF RABBIT HOLES (FROM AN ARTICLE LINKED WITHIN)
+But the Q believers I spoke with stumbled upon these incomprehensible ideas the old-
+fashioned way. They say they were indoctrinated (though they don't use that term) by their
+parents, other family members, and friends, or introduced to the conspiracy through word-
+of-mouth, rather than via the algorithms that have received the most national attention.
+But word-of-mouth alone isn't enough. The ability of people sitting at home to follow the
+online rabbit holes downward is critical. Moms are seeing an ever-changing web of
+trafficking conspiracy theories bounce around their circle of mom friends, like the
+debunked Wayfair conspiracy theory and USPS phishing text scam. The Jeffrey Epstein
+saga, a real-life case that involved an alleged sex trafficking ring and was covered by
+reputable news outlets, has also served as a key gateway into QAnon.
+REDACTED FOR CONGRESS
+• Word-of-mouth and algorithmic recommendations seem to have compounding risks that
+we need to consider beyond evaluating our recommendations and invite system
+separately?
+. I saw another post discussing the need for intentional friction in Concerto so seems like
+we're thinking about it already!
+Lastly I think the framing of "Engagement" is a good reminder that Concerto couk Chats
+
+DANGER OF RABBIT HOLES (FROM AN ARTICLE LINKED WITHIN)
+But the Q believers I spoke with stumbled upon these incomprehensible ideas the old-
+fashioned way. They say they were indoctrinated (though they don't use that term) by their
+parents, other family members, and friends, or introduced to the conspiracy through word-
+of-mouth, rather than via the algorithms that have received the most national attention.
+But word-of-mouth alone isn't enough. The ability of people sitting at home to follow the
+online rabbit holes downward is critical. Moms are seeing an ever-changing web of
+trafficking conspiracy theories bounce around their circle of mom friends, like the
+debunked Wayfair conspiracy theory and USPS phishing text scam. The Jeffrey Epstein
+saga, a real-life case that involved an alleged sex trafficking ring and was covered by
+reputable news outlets, has also served as a key gateway into QAnon.
+• Word-of-mouth and algorithmic recommendations seem to have compounding risks that
+we need to consider beyond evaluating our recommendations and invite system
+separately?
+• I saw another post discussing the need for intentional friction in Concerto so seems like
+we're thinking about it already!
+Lastly I think the framing of "Engagement" is a good reminder that Concerto could easily fall
+into the engagement trap. Using ranking to show UC, sort comments, and recommend groups
+can lead to engagement that reflect "usage that comes from one part our brains, while the
+user's decision of what makes your product worth their time comes from another"
+#markdown
+REDACTED FOR CONGRESS
+Just Flagging and Comms Feedback
+October 6, 20202
+https://arstechnica.com/.../facebooks-endless-quest-for.../
+
+DOI Q&A
+5 hrs · Q193662 in DOI
+How do we calculate searchability?
+When our searchability is at 10%, what is that telling us?
+1. 10% of returned content is violating?
+2. 10% of searches return violating content?
+3. Other?
+- with
+and 3 others.
+3 Comments Seen by 39
+the 4
+Like
+Comment
+Share
+the answer is 3. Other:Definition: Of all of the VPVs on search results returned from
+the essential query list (i.e. the list of queries indicating a user was searching for a
+problem), what percent were violating according to human labeling. Source:
+https://fb.workplace.com/notes/864276267638679 from
+and
+and
+https://fb.workplace.com/notes/475583250397974/ by
+Search Terms used to define searchability:https://fburl.com/unidash/8zc0h2fy
+REDACTED FOR CONGRESS
+Searchability: Intro and setting up the metric
+Like Reply 2h - Edited
+Il 1
+#resolved (Thank you for bearing witness to my self-help session)
+Like Reply 1h
+TRENDIZISST
+Chats
