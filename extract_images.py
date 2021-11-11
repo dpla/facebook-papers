@@ -11,12 +11,11 @@ def mkdir(directory):
 
 def process_pdf(pdf_file, slug):
     os.system(
-        "pdfimages -all -p \"{}\" processed/{}/page".format(
+        "convert -depth 24 -colorspace sRGB -define png:compression-filter=2 -define png:compression-level=9 -define png:compression-strategy=1  \"{}\" processed/{}/page-%03d.png".format(
             pdf_file,
             slug
         )
     )
-
 
 def main():
     with open('manifest.json', 'r') as manifest_file:
