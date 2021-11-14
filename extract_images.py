@@ -11,7 +11,7 @@ def mkdir(directory):
 
 def process_pdf(pdf_file, slug):
     os.system(
-        "convert -depth 24 -colorspace sRGB -define png:compression-filter=2 -define png:compression-level=9 -define png:compression-strategy=1  \"{}\" processed/{}/page-%03d.png".format(
+        "convert -scene 1 -depth 24 -colorspace sRGB -define png:compression-filter=2 -define png:compression-level=9 -define png:compression-strategy=1  \"{}\" processed/{}/page-%03d.png".format(
             pdf_file,
             slug
         )
