@@ -17,6 +17,7 @@ def main():
     json_files = {}
 
     for slug in slugs:
+        print(slug)
         slug_files = {}
         json_files[slug] = slug_files
         dir_name = f"processed/{slug}"

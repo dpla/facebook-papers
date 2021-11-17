@@ -48,6 +48,7 @@ def upload_items(items, bucket_name):
     bucket = client.bucket(bucket_name)
 
     for item in items:
+        print(f"Uploading {item.slug}")
         blob = bucket.blob(item.source_path)
         blob.upload_from_filename(item.file, content_type="application/pdf")
 
@@ -81,6 +82,7 @@ def download_items(items, bucket_name):
     bucket = client.bucket(bucket_name)
 
     for item in items:
+        print(f"Downloading {item.slug}")
         output_dir = f"processed/{item.slug}/"
         for blob in list(bucket.list_blobs(prefix=item.dest_path)):
             blob_file_name = blob.name.replace(item.dest_path, "")
