@@ -1,6 +1,6 @@
 .vscode/settings.json
 /.idea/
 *.iml
-*.pdf
+**/*.pdf
 venv/
 **/.DS_Store
